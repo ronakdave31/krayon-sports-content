@@ -272,7 +272,7 @@ def render_slide(spec, i, n):
         c.add(logo_group())
         c.text("FOLLOW  →", BOLD, 28, XMAX, 1258, OFF, ls=4, anchor="end")
     else:
-        c.text(f"{i+1}′ / {n}′", REG, 26, X0, 1258, MUTED, ls=5)
+        c.text(f"{i+1:02d} / {n:02d}", REG, 26, X0, 1258, MUTED, ls=5)
         c.text("SWIPE  →", BOLD, 26, XMAX, 1258, OFF, ls=5, anchor="end")
     body = "\n".join(c.parts)
     return f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" width="{W}" height="{H}">
