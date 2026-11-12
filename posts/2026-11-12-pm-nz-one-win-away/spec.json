@@ -1,0 +1,60 @@
+{
+  "slug": "2026-11-12-pm-nz-one-win-away",
+  "tag": "CRICKET",
+  "sport": "cricket",
+  "series": "08 / THE BREAKDOWN",
+  "slides": [
+    {
+      "type": "hero",
+      "kicker": "NEW ZEALAND v INDIA · ODI SERIES",
+      "grey": "India can't lose this series.",
+      "white": "Tomorrow they can win it.",
+      "sub": "4th ODI, Bay Oval, Mount Maunganui. Nov 13.",
+      "facts": [
+        [
+          "2-0",
+          "India lead, 2 to play"
+        ],
+        [
+          "11",
+          "NZ home ODI series unbeaten"
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "kicker": "HOW INDIA GOT HERE",
+      "title": "Two rain-hit wins, one washout",
+      "bullets": [
+        "Auckland: NZ all out for 185. Arshdeep 4 wkts, Brar 3. India chase a revised 143 in 22.4 overs",
+        "Wellington: NZ held to 134. India ahead on DLS when rain ends it",
+        "Hamilton: abandoned without a ball bowled"
+      ]
+    },
+    {
+      "type": "stat",
+      "kicker": "WHAT'S AT STAKE",
+      "big": "11",
+      "body": "home bilateral ODI series in a row New Zealand have gone unbeaten, a run that dates back to 2019.",
+      "note": "The last side to beat them at home in an ODI series? India, 4-1, in 2019."
+    },
+    {
+      "type": "text",
+      "kicker": "THE TWIST",
+      "title": "A new captain to close it",
+      "bullets": [
+        "Shubman Gill and KL Rahul rested for the Tests from Nov 19",
+        "Not injury: a planned workload call",
+        "Shreyas Iyer makes his ODI captaincy debut"
+      ],
+      "question": "Does Iyer finish the job at Bay Oval?"
+    }
+  ],
+  "concept": "The whole story sits in one tension: India have already made the series impossible to lose but haven't won it yet. The hero slide states that in two lines, the settled fact in muted grey and tomorrow's chance in bright white, with the two numbers that frame it (2-0, and NZ's 11-series home streak) as the fact strip. Slide 2 compresses three rain-wrecked games into three lines, slide 3 turns '11' into the stakes and lands on the twist that India were the last team to beat NZ at home, and slide 4 hands the decider to a debutant captain and asks the audience to call it. Cricket blue, type only, no photos or logos.",
+  "caption": "India can't lose this series. Tomorrow they can win it.\n\nTwo rain-hit wins in Auckland and Wellington and a Hamilton washout leave India 2-0 up with two ODIs left. New Zealand can only draw it now.\n\nOne more win at Bay Oval on Nov 13 ends NZ's run of 11 straight home bilateral ODI series unbeaten, a streak that started after India beat them 4-1 in 2019.\n\nThe twist: Shubman Gill and KL Rahul have been rested ahead of the Tests that start Nov 19, so Shreyas Iyer leads India in an ODI for the first time.\n\nDoes Iyer seal it tomorrow, or do the Black Caps hit back? Tell us below.\n\nDetails via The Tribune (ANI), NewsBytes and Outlook India.\n\n#KrayonSports #NZvIND #TeamIndia #ShreyasIyer #CricketExplained",
+  "sources": [
+    "https://www.tribuneindia.com/news/sports/nz-vs-ind-4th-odi-new-zealand-look-to-avoid-series-defeat-as-iyer-set-for-odi-captaincy-debut/",
+    "https://www.newsbytesapp.com/news/sports/nz-vs-ind-mount-maunganui-odi-preview/story",
+    "https://www.outlookindia.com/sports/cricket/india-vs-new-zealand-3rd-odi-live-score-updates-highlights"
+  ]
+}
