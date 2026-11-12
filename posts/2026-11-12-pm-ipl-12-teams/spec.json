@@ -1,0 +1,73 @@
+{
+  "slug": "2026-11-12-pm-ipl-12-teams",
+  "tag": "BUSINESS",
+  "sport": "business",
+  "series": "06 / THE BREAKDOWN",
+  "slides": [
+    {
+      "type": "hero",
+      "kicker": "IPL EXPANSION · REPORTED",
+      "grey": "10 teams today.",
+      "white": "Two more could join in 2028.",
+      "sub": "BCCI is reportedly exploring a 12-team IPL. No official decision yet.",
+      "facts": [
+        [
+          "12",
+          "teams, if approved"
+        ],
+        [
+          "2028",
+          "new media-rights cycle"
+        ]
+      ]
+    },
+    {
+      "type": "bars",
+      "kicker": "THE PRICE OF A SEAT · RS CRORE",
+      "title": "What a new IPL team costs",
+      "rows": [
+        [
+          "New team",
+          "",
+          8800,
+          "~8,800"
+        ],
+        [
+          "Lucknow",
+          "",
+          7090,
+          "7,090"
+        ],
+        [
+          "Ahmedabad",
+          "",
+          5625,
+          "5,625"
+        ]
+      ],
+      "highlight_first": true,
+      "note": "2028 figure: industry estimate, not a bid",
+      "sub": "Lucknow and Ahmedabad: 2021 winning bids.\nNew team: reported 2028 estimate."
+    },
+    {
+      "type": "text",
+      "kicker": "WHY NOW",
+      "title": "Why 2028?",
+      "bullets": [
+        "The next media-rights cycle starts in 2028",
+        "More teams = more matches to sell",
+        "Pune and Vadodara are the reported frontrunners",
+        "No city is confirmed. BCCI hasn't decided."
+      ],
+      "question": "Which city deserves IPL team No. 11?"
+    }
+  ],
+  "concept": "A price-tag story told as a bar chart. The hero sets the known fact (10 teams since 2022) in muted grey and the reported change in bright white, with a REPORTED label in the kicker so nobody mistakes it for an announcement. Slide 2 is the hook for a business audience: one glowing gold bar for the estimated price of a 2028 franchise towering over the 2021 Lucknow and Ahmedabad bids, so the jump in value reads at a glance. Slide 3 answers 'why now' (the media-rights cycle) and ends on a city debate built for comments. Business gold, type and shapes only, no logos.",
+  "caption": "The IPL may be about to get bigger.\n\nThe BCCI is reportedly exploring two new franchises from the 2028 season, taking the league from 10 teams to 12. Nothing is official yet, and the board hasn't picked any cities.\n\nWhy 2028? That's when the next media-rights cycle begins. More teams means more matches, and more matches means a bigger rights deal.\n\nThe price tag: industry estimates cited in reports put each new team at around ₹8,800 crore. In 2021, Lucknow went for ₹7,090 crore and Ahmedabad (now Gujarat Titans) for ₹5,625 crore.\n\nPune, home to two past IPL sides, and Vadodara are reported to be the frontrunners.\n\nWhich city deserves IPL team No. 11? Drop it below.\n\nReports via Aajtak, Mint, Business Today, myKhel and Free Press Journal.\n\n#KrayonSports #IPL #IPL2028 #SportsBusiness #CricketExplained",
+  "sources": [
+    "https://www.businesstoday.in/sports/ipl/story/two-new-ipl-teams-from-2028-pune-vadodara-seen-as-frontrunners-new-franchises-could-cost-over-rs8000-crore-each-566968-2026-11-12",
+    "https://www.mykhel.com/cricket/ipl-2028-bcci-plans-12-team-league-pune-vadodara-emerge-as-potential-new-franchise-destinations-458631.html",
+    "https://www.freepressjournal.in/pune/pune-could-return-to-ipl-with-new-franchise-from-2028-heres-what-reports-say",
+    "https://en.wikipedia.org/wiki/2022_Indian_Premier_League"
+  ]
+}
