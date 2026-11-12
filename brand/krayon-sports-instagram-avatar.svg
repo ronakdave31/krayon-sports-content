@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080">
+  <defs><radialGradient id="kgrad" cx="709.664453125" cy="666.9077935538517" r="77.72111269614835" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2e5bff"/>
+      <stop offset=".5" stop-color="#ff5436"/>
+      <stop offset="1" stop-color="#7c3aed"/>
+    </radialGradient></defs>
+  <rect width="1080" height="1080" fill="#0e0e0e"/>
+  <path d="M501.80388730385164 744.62890625 414.31365292885164 596.2890625 377.68279355385164 621.71875V744.62890625H292.61443417885164V295.37109375H377.68279355385164V552.6953125L494.53826230385164 417.0703125H585.9640435538516L470.92498105385164 544.82421875L594.7433404288516 744.62890625Z" fill="#ffffff"/>
+  <circle cx="709.66" cy="666.91" r="77.72" fill="url(#kgrad)"/>
+</svg>
