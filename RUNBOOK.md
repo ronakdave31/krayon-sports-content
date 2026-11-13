@@ -5,7 +5,8 @@ Instructions for each scheduled run. Every run is a fresh session: read this fil
 Instagram account: **@krayon_sports**, published through the Windsor.ai connector
 (connector `instagram`, account id `17841463737212811`).
 Image host: this repo. Public URL of a slide:
-`https://raw.githubusercontent.com/ronakdave31/krayon-sports-content/main/posts/<slug>/slide-<n>.jpg`
+`https://raw.githubusercontent.com/ronakdave31/krayon-sports-content/<commit-sha>/posts/<slug>/slide-<n>.jpg`
+(always use the commit SHA from `git rev-parse HEAD` after pushing, never `main`: `main` links are cached for minutes and can serve an older version of a re-rendered slide)
 
 ## Hard rules
 
@@ -62,7 +63,8 @@ cramped, overlapping or cut off by shortening text, and re-render.
 
 ```bash
 git add posts/<slug> && git commit -m "Post: <slug>" && git push origin main
-curl -sI https://raw.githubusercontent.com/ronakdave31/krayon-sports-content/main/posts/<slug>/slide-1.jpg | head -1   # expect 200
+SHA=$(git rev-parse HEAD)
+curl -sI https://raw.githubusercontent.com/ronakdave31/krayon-sports-content/$SHA/posts/<slug>/slide-1.jpg | head -1   # expect 200
 ```
 
 ## 5. Ask for approval
