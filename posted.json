@@ -152,5 +152,22 @@
       "https://www.india.com/sports/football/ind-vs-nz-new-zealand-thrash-india-5-0-in-auckland-friendly-blue-tigers-suffer-humiliating-defeat-8544365/",
       "https://khelnow.com/football/indian-football-international-friendly-new-zealand-vs-india-player-ratings"
     ]
+  },
+  {
+    "slug": "2026-11-13-pm-dakar-boxing-double",
+    "series": 11,
+    "sport": "indian",
+    "headline": "16 years. Zero boxing golds. Then two in one day.",
+    "format": "carousel",
+    "status": "pending",
+    "created": "2026-11-13T08:15:07+00:00",
+    "published": null,
+    "media_id": null,
+    "sources": [
+      "https://www.aninews.in/news/sports/others/gunjan-wins-historic-gold-as-indian-boxers-complete-golden-double-at-dakar-youth-olympics20261113000451/",
+      "https://www.tribuneindia.com/news/sports/youth-olympic-games-2026-khelo-india-athletes-shine-as-nation-bags-10-medals-including-historic-boxing-double",
+      "https://www.outlookindia.com/sports/others/lairenlakpam-ambekar-meetei-gold-medal-boxing-50kg-dakar-youth-olympics-2026",
+      "https://khelnow.com/olympics/boxing-gold-report-youth-olympics-202611"
+    ]
   }
 ]
