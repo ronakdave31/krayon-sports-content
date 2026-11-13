@@ -1,139 +1,156 @@
 [
- {
-  "slug": "2026-11-11-launch",
-  "series": 1,
-  "sport": "other",
-  "headline": "Scores tell you who won. We tell you why.",
-  "format": "single",
-  "status": "published",
-  "created": "2026-11-11",
-  "published": "2026-11-11",
-  "media_id": null,
-  "sources": []
- },
- {
-  "slug": "2026-11-11-pkl-skips-2026",
-  "series": 2,
-  "sport": "indian",
-  "headline": "No Pro Kabaddi this year",
-  "format": "carousel",
-  "status": "published",
-  "created": "2026-11-11",
-  "published": "2026-11-11",
-  "media_id": null,
-  "sources": [
-   "https://khelnow.com/kabaddi/pkl-13-not-in-2026-likely-june-july-2027",
-   "https://www.outlookindia.com/sports/others/pro-kabaddi-league-return-2027-broadcast-deal-delay-report"
-  ]
- },
- {
-  "slug": "2026-11-11-ipl-auction-goa",
-  "series": 3,
-  "sport": "cricket",
-  "headline": "The IPL auction is coming home",
-  "format": "single",
-  "status": "published",
-  "created": "2026-11-11",
-  "published": "2026-11-12",
-  "media_id": null,
-  "sources": [
-   "https://www.crictracker.com/cricket-news/ipl-2027-auction-to-be-held-on-december-16-in-goa-7060/",
-   "https://www.mykhel.com/cricket/ipl-2027-auction-bcci-gives-huge-update-on-mini-auction-date-and-venue-revealed-ipl-news-454247.html"
-  ]
- },
- {
-  "slug": "2026-11-12-f1-fight-for-p2",
-  "series": 4,
-  "sport": "f1",
-  "headline": "The title is done. The fight isn't.",
-  "format": "single",
-  "status": "published",
-  "created": "2026-11-12",
-  "published": "2026-11-12",
-  "media_id": null,
-  "sources": [
-   "https://www.crash.net/f1/news/1110014/1/new-f1-championship-standings-after-brazil-grand-prix"
-  ]
- },
- {
-  "slug": "2026-11-12-am-saff-two-indias",
-  "series": 5,
-  "sport": "football",
-  "headline": "India's seniors are in New Zealand. Their back-ups topped the group.",
-  "format": "carousel",
-  "status": "published",
-  "created": "2026-11-12T04:57:31+00:00",
-  "published": "2026-11-12T04:58:55+00:00",
-  "media_id": "18040445339892614",
-  "sources": [
-   "https://khelnow.com/football/indian-football-saff-championship-2026-india-vs-maldives-match-report",
-   "https://www.outlookindia.com/sports/football/india-vs-maldives-live-score-saff-championship-2026-commentary-match-latest-updates",
-   "https://theawayend.co/2026/11/11/saff-championship-2026-group-b-india-defeat-maldives-1-0-reach-semis/",
-   "https://en.prothomalo.com/sports/football/aj0opek1gb"
-  ]
- },
- {
-  "slug": "2026-11-12-pm-ipl-12-teams",
-  "series": 6,
-  "sport": "business",
-  "headline": "10 teams today. Two more could join in 2028.",
-  "format": "carousel",
-  "status": "published",
-  "created": "2026-11-12T08:14:35+00:00",
-  "published": "2026-11-12T08:17:49+00:00",
-  "media_id": "17950564089068495",
-  "sources": [
-   "https://www.businesstoday.in/sports/ipl/story/two-new-ipl-teams-from-2028-pune-vadodara-seen-as-frontrunners-new-franchises-could-cost-over-rs8000-crore-each-566968-2026-11-12",
-   "https://www.mykhel.com/cricket/ipl-2028-bcci-plans-12-team-league-pune-vadodara-emerge-as-potential-new-franchise-destinations-458631.html",
-   "https://www.freepressjournal.in/pune/pune-could-return-to-ipl-with-new-franchise-from-2028-heres-what-reports-say",
-   "https://en.wikipedia.org/wiki/2022_Indian_Premier_League"
-  ]
- },
- {
-  "slug": "2026-11-12-pm-niraj-la-quota",
-  "series": 7,
-  "sport": "indian",
-  "headline": "A bronze in Doha. A seat at LA 2028.",
-  "format": "carousel",
-  "status": "published",
-  "created": "2026-11-12T12:22:32+00:00",
-  "published": "2026-11-12T12:24:47+00:00",
-  "media_id": "18158798488577497",
-  "sources": [
-   "https://www.mykhel.com/more-sports/niraj-kumar-wins-50m-rifle-3-positions-bronze-secures-la-2028-olympic-quota-458695.html",
-   "https://www.dtnext.in/news/sports/rifle-shooter-niraj-kumar-secures-la-olympics-quota-with-bronze-in-mens-50m-3-position"
-  ]
- },
- {
-  "slug": "2026-11-12-pm-nz-one-win-away",
-  "series": 8,
-  "sport": "cricket",
-  "headline": "India can't lose this series. Tomorrow they can win it.",
-  "format": "carousel",
-  "status": "published",
-  "created": "2026-11-12T17:14:38+00:00",
-  "published": "2026-11-12T17:20:55+00:00",
-  "media_id": "18109050635343718",
-  "sources": [
-   "https://www.tribuneindia.com/news/sports/nz-vs-ind-4th-odi-new-zealand-look-to-avoid-series-defeat-as-iyer-set-for-odi-captaincy-debut/",
-   "https://www.newsbytesapp.com/news/sports/nz-vs-ind-mount-maunganui-odi-preview/story",
-   "https://www.outlookindia.com/sports/cricket/india-vs-new-zealand-3rd-odi-live-score-updates-highlights"
-  ]
- },
- {
-  "slug": "2026-11-13-pant-or-jurel",
-  "series": 9,
-  "sport": "cricket",
-  "headline": "Pant is fit. Now, who keeps?",
-  "format": "single",
-  "status": "published",
-  "created": "2026-11-13",
-  "published": "2026-11-13T03:19:16+00:00",
-  "media_id": "17969967612220393",
-  "sources": [
-   "https://www.aninews.in/news/sports/cricket/rishabh-pant-gets-bcci-coe8217s-fitness-clearance-leaves-for-new-zealand-ahead-of-test-series20261112164834",
-   "https://www.crictracker.com/cricket-news/rishabh-pant-departs-for-new-zealand-to-join-indias-test-squad-in-wellington-3577/",
-   "https://www.outlookindia.com/sports/cricket/rishabh-pant-injury-update-india-a-vs-new-zealand-a-3rd-unofficial-test-comeback-report"
-  ]
- }
+  {
+    "slug": "2026-11-11-launch",
+    "series": 1,
+    "sport": "other",
+    "headline": "Scores tell you who won. We tell you why.",
+    "format": "single",
+    "status": "published",
+    "created": "2026-11-11",
+    "published": "2026-11-11",
+    "media_id": null,
+    "sources": []
+  },
+  {
+    "slug": "2026-11-11-pkl-skips-2026",
+    "series": 2,
+    "sport": "indian",
+    "headline": "No Pro Kabaddi this year",
+    "format": "carousel",
+    "status": "published",
+    "created": "2026-11-11",
+    "published": "2026-11-11",
+    "media_id": null,
+    "sources": [
+      "https://khelnow.com/kabaddi/pkl-13-not-in-2026-likely-june-july-2027",
+      "https://www.outlookindia.com/sports/others/pro-kabaddi-league-return-2027-broadcast-deal-delay-report"
+    ]
+  },
+  {
+    "slug": "2026-11-11-ipl-auction-goa",
+    "series": 3,
+    "sport": "cricket",
+    "headline": "The IPL auction is coming home",
+    "format": "single",
+    "status": "published",
+    "created": "2026-11-11",
+    "published": "2026-11-12",
+    "media_id": null,
+    "sources": [
+      "https://www.crictracker.com/cricket-news/ipl-2027-auction-to-be-held-on-december-16-in-goa-7060/",
+      "https://www.mykhel.com/cricket/ipl-2027-auction-bcci-gives-huge-update-on-mini-auction-date-and-venue-revealed-ipl-news-454247.html"
+    ]
+  },
+  {
+    "slug": "2026-11-12-f1-fight-for-p2",
+    "series": 4,
+    "sport": "f1",
+    "headline": "The title is done. The fight isn't.",
+    "format": "single",
+    "status": "published",
+    "created": "2026-11-12",
+    "published": "2026-11-12",
+    "media_id": null,
+    "sources": [
+      "https://www.crash.net/f1/news/1110014/1/new-f1-championship-standings-after-brazil-grand-prix"
+    ]
+  },
+  {
+    "slug": "2026-11-12-am-saff-two-indias",
+    "series": 5,
+    "sport": "football",
+    "headline": "India's seniors are in New Zealand. Their back-ups topped the group.",
+    "format": "carousel",
+    "status": "published",
+    "created": "2026-11-12T04:57:31+00:00",
+    "published": "2026-11-12T04:58:55+00:00",
+    "media_id": "18040445339892614",
+    "sources": [
+      "https://khelnow.com/football/indian-football-saff-championship-2026-india-vs-maldives-match-report",
+      "https://www.outlookindia.com/sports/football/india-vs-maldives-live-score-saff-championship-2026-commentary-match-latest-updates",
+      "https://theawayend.co/2026/11/11/saff-championship-2026-group-b-india-defeat-maldives-1-0-reach-semis/",
+      "https://en.prothomalo.com/sports/football/aj0opek1gb"
+    ]
+  },
+  {
+    "slug": "2026-11-12-pm-ipl-12-teams",
+    "series": 6,
+    "sport": "business",
+    "headline": "10 teams today. Two more could join in 2028.",
+    "format": "carousel",
+    "status": "published",
+    "created": "2026-11-12T08:14:35+00:00",
+    "published": "2026-11-12T08:17:49+00:00",
+    "media_id": "17950564089068495",
+    "sources": [
+      "https://www.businesstoday.in/sports/ipl/story/two-new-ipl-teams-from-2028-pune-vadodara-seen-as-frontrunners-new-franchises-could-cost-over-rs8000-crore-each-566968-2026-11-12",
+      "https://www.mykhel.com/cricket/ipl-2028-bcci-plans-12-team-league-pune-vadodara-emerge-as-potential-new-franchise-destinations-458631.html",
+      "https://www.freepressjournal.in/pune/pune-could-return-to-ipl-with-new-franchise-from-2028-heres-what-reports-say",
+      "https://en.wikipedia.org/wiki/2022_Indian_Premier_League"
+    ]
+  },
+  {
+    "slug": "2026-11-12-pm-niraj-la-quota",
+    "series": 7,
+    "sport": "indian",
+    "headline": "A bronze in Doha. A seat at LA 2028.",
+    "format": "carousel",
+    "status": "published",
+    "created": "2026-11-12T12:22:32+00:00",
+    "published": "2026-11-12T12:24:47+00:00",
+    "media_id": "18158798488577497",
+    "sources": [
+      "https://www.mykhel.com/more-sports/niraj-kumar-wins-50m-rifle-3-positions-bronze-secures-la-2028-olympic-quota-458695.html",
+      "https://www.dtnext.in/news/sports/rifle-shooter-niraj-kumar-secures-la-olympics-quota-with-bronze-in-mens-50m-3-position"
+    ]
+  },
+  {
+    "slug": "2026-11-12-pm-nz-one-win-away",
+    "series": 8,
+    "sport": "cricket",
+    "headline": "India can't lose this series. Tomorrow they can win it.",
+    "format": "carousel",
+    "status": "published",
+    "created": "2026-11-12T17:14:38+00:00",
+    "published": "2026-11-12T17:20:55+00:00",
+    "media_id": "18109050635343718",
+    "sources": [
+      "https://www.tribuneindia.com/news/sports/nz-vs-ind-4th-odi-new-zealand-look-to-avoid-series-defeat-as-iyer-set-for-odi-captaincy-debut/",
+      "https://www.newsbytesapp.com/news/sports/nz-vs-ind-mount-maunganui-odi-preview/story",
+      "https://www.outlookindia.com/sports/cricket/india-vs-new-zealand-3rd-odi-live-score-updates-highlights"
+    ]
+  },
+  {
+    "slug": "2026-11-13-pant-or-jurel",
+    "series": 9,
+    "sport": "cricket",
+    "headline": "Pant is fit. Now, who keeps?",
+    "format": "single",
+    "status": "published",
+    "created": "2026-11-13",
+    "published": "2026-11-13T03:19:16+00:00",
+    "media_id": "17969967612220393",
+    "sources": [
+      "https://www.aninews.in/news/sports/cricket/rishabh-pant-gets-bcci-coe8217s-fitness-clearance-leaves-for-new-zealand-ahead-of-test-series20261112164834",
+      "https://www.crictracker.com/cricket-news/rishabh-pant-departs-for-new-zealand-to-join-indias-test-squad-in-wellington-3577/",
+      "https://www.outlookindia.com/sports/cricket/rishabh-pant-injury-update-india-a-vs-new-zealand-a-3rd-unofficial-test-comeback-report"
+    ]
+  },
+  {
+    "slug": "2026-11-13-am-auckland-5-0",
+    "series": 10,
+    "sport": "football",
+    "headline": "New Zealand 5, India 0. It could have been worse.",
+    "format": "carousel",
+    "status": "pending",
+    "created": "2026-11-13T04:13:35+00:00",
+    "published": null,
+    "media_id": null,
+    "sources": [
+      "https://www.mykhel.com/football/india-vs-new-zealand-blue-tigers-thrashed-as-oceanian-champions-put-five-goals-in-auckland-458759.html",
+      "https://sundayguardianlive.com/sports/india-vs-new-zealand-football-all-whites-thrash-blue-tigers-5-0-in-auckland-as-jesse-randall-scores-brace-international-friendly-highlights-321136/",
+      "https://www.india.com/sports/football/ind-vs-nz-new-zealand-thrash-india-5-0-in-auckland-friendly-blue-tigers-suffer-humiliating-defeat-8544365/",
+      "https://khelnow.com/football/indian-football-international-friendly-new-zealand-vs-india-player-ratings"
+    ]
+  }
 ]

@@ -1,0 +1,66 @@
+{
+  "slug": "2026-11-13-am-auckland-5-0",
+  "tag": "FOOTBALL",
+  "sport": "football",
+  "series": "10 / THE BREAKDOWN",
+  "slides": [
+    {
+      "type": "hero",
+      "kicker": "NEW ZEALAND v INDIA · FRIENDLY",
+      "grey": "New Zealand 5, India 0.",
+      "white": "It could have been worse.",
+      "sub": "Auckland, Nov 12. India's first-ever match on New Zealand soil.",
+      "facts": [["3-0", "at half-time"], ["23-4", "shots, NZ v India"]]
+    },
+    {
+      "type": "bars",
+      "kicker": "THE SHOT COUNT",
+      "title": "23 shots to 4",
+      "rows": [
+        ["New Zealand", "shots", 23],
+        ["New Zealand", "on target", 11],
+        ["India", "shots", 4],
+        ["India", "on target", 2]
+      ],
+      "highlight_first": true,
+      "note": "Shot figures as reported by The Sunday Guardian."
+    },
+    {
+      "type": "text",
+      "kicker": "WHY IT GOT AWAY",
+      "title": "Behind before they settled",
+      "bullets": [
+        "5th minute: an own goal puts India 1-0 down",
+        "Jesse Randall scores twice in nine minutes before the break: 3-0",
+        "Chris Wood (57') and Lachlan Bayliss make it five after half-time",
+        "The sides are 50 places apart in the FIFA rankings, and it showed"
+      ]
+    },
+    {
+      "type": "stat",
+      "kicker": "THE BIGGER PICTURE",
+      "big": "11-1",
+      "body": "goals conceded v scored in India's last two games: six against Uruguay last month, five in Auckland.",
+      "note": "One bright spot: Vishal Kaith, back after 17 months, made six saves and stopped a penalty."
+    },
+    {
+      "type": "text",
+      "kicker": "WHAT'S NEXT",
+      "title": "Christchurch, Sunday",
+      "bullets": [
+        "Second friendly: Nov 15, One New Zealand Stadium",
+        "Khalid Jamil made five changes at half-time in Auckland",
+        "Two debutants got minutes: Muhammad Suhail and Ricky Meetei"
+      ],
+      "question": "What is the one change India must make for Sunday?"
+    }
+  ],
+  "concept": "The scoreline needs no help, so the hero leads with it in muted grey and lets the uncomfortable truth, 'It could have been worse', carry the white line, backed by the two numbers that prove it (3-0 at the break, 23 shots to 4). Slide 2 turns the shot count into four bars where New Zealand's lines run the full width and India's are stubs: the gap in chances becomes something you see before you read it. Slide 3 walks through the goals as a timeline of how it slipped away, slide 4 widens the lens to 11 conceded and 1 scored over two games with Kaith's penalty save as the one positive, and slide 5 points to Sunday's rematch and asks fans for their fix. Football green, type and bars only, no photos or crests.",
+  "caption": "New Zealand 5, India 0. And it could have been worse.\n\nIndia's first-ever match on New Zealand soil went wrong in the 5th minute with an own goal. Jesse Randall struck twice before the break, Chris Wood and Lachlan Bayliss added more, and the All Whites finished with 23 shots to India's 4.\n\nThat's 11 goals conceded and 1 scored across India's last two games, after a heavy defeat to Uruguay last month. The one positive: Vishal Kaith, starting for the first time in 17 months, made six saves and stopped a penalty.\n\nThe second friendly is in Christchurch on Sunday, Nov 15. What is the one change Khalid Jamil must make? Tell us below.\n\nMatch details via myKhel, The Sunday Guardian, India.com and Khel Now.\n\n#KrayonSports #IndianFootball #BlueTigers #NZvIND #FootballExplained",
+  "sources": [
+    "https://www.mykhel.com/football/india-vs-new-zealand-blue-tigers-thrashed-as-oceanian-champions-put-five-goals-in-auckland-458759.html",
+    "https://sundayguardianlive.com/sports/india-vs-new-zealand-football-all-whites-thrash-blue-tigers-5-0-in-auckland-as-jesse-randall-scores-brace-international-friendly-highlights-321136/",
+    "https://www.india.com/sports/football/ind-vs-nz-new-zealand-thrash-india-5-0-in-auckland-friendly-blue-tigers-suffer-humiliating-defeat-8544365/",
+    "https://khelnow.com/football/indian-football-international-friendly-new-zealand-vs-india-player-ratings"
+  ]
+}
