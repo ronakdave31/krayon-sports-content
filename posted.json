@@ -194,10 +194,10 @@
   "sport": "football",
   "headline": "Third in May. Sacked in November. United turn to Pochettino.",
   "format": "carousel",
-  "status": "pending",
+  "status": "published",
   "created": "2026-11-13T17:15:15+00:00",
-  "published": null,
-  "media_id": null,
+  "published": "2026-11-13T17:16:29+00:00",
+  "media_id": "18097745882394170",
   "sha": "96a811ed7d10c947d01a29f15fee61f545ca9ff8",
   "sources": [
    "https://www.rte.ie/sport/soccer/2026/1113/1599098-pochettino-set-to-join-united-on-two-and-a-half-year-deal/",
