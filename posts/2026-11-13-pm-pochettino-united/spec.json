@@ -1,0 +1,52 @@
+{
+  "slug": "2026-11-13-pm-pochettino-united",
+  "tag": "FOOTBALL",
+  "sport": "football",
+  "series": "13 / THE BREAKDOWN",
+  "slides": [
+    {
+      "type": "hero",
+      "kicker": "MANCHESTER UNITED · NEW HEAD COACH",
+      "grey": "Third in May. Sacked in November.",
+      "white": "United turn to Pochettino.",
+      "sub": "Michael Carrick out on Thursday. Mauricio Pochettino in from Nov 18.",
+      "facts": [["1", "league win in 10 games"], ["8th", "permanent boss since Ferguson"]]
+    },
+    {
+      "type": "stat",
+      "kicker": "WHY CARRICK WENT",
+      "big": "1 in 10",
+      "body": "One win from 10 Premier League games. United's worst start to a season since 1986, and a place in the relegation zone.",
+      "note": "Last season Carrick took over in January and finished third. The club said 'a change is necessary'."
+    },
+    {
+      "type": "text",
+      "kicker": "WHY POCHETTINO",
+      "title": "What United are buying",
+      "bullets": [
+        "A 'high-intensity, attacking style', in the club's own words",
+        "Took Tottenham to the 2019 Champions League final",
+        "Led the USA to the World Cup last 16 on home soil this summer",
+        "Deal reported to run until summer 2029"
+      ]
+    },
+    {
+      "type": "text",
+      "kicker": "FIRST TEST",
+      "title": "No easing in",
+      "bullets": [
+        "Finishes his USA duty: two games against Haiti",
+        "Starts at United on Wednesday, Nov 18",
+        "First match: away at Liverpool, Sunday Nov 22"
+      ],
+      "question": "Is Pochettino the man to fix United?"
+    }
+  ],
+  "concept": "The whole story is the speed of the fall, so the hero puts two six-month-apart facts side by side, 'Third in May. Sacked in November.', in muted grey and lets the new name land in white, with two numbers underneath that explain the decision (1 win in 10, and Pochettino as the 8th permanent boss since Ferguson, the revolving door in one figure). Slide 2 blows up '1 in 10' as the reason Carrick went; slide 3 answers why this man, using the club's own words plus his Spurs and USA record; slide 4 turns to the brutal first fixture at Anfield and asks fans for a verdict. Football green, type only: no photos, no crests.",
+  "caption": "Third in May. Sacked in November.\n\nManchester United sacked Michael Carrick on Thursday after one win from 10 league games, their worst start to a season since 1986, with the club in the relegation zone. Months earlier he had steered them to third.\n\nThe replacement: Mauricio Pochettino, who leaves the USA job after taking them to the World Cup last 16. He starts on Nov 18 on a deal reported to run to summer 2029, and becomes United's 8th permanent boss since Sir Alex Ferguson.\n\nHis first game? Away at Liverpool on Nov 22.\n\nIs Pochettino the man to fix United, or just the next name on the list? Tell us below.\n\nDetails via Sky Sports, RTÉ/PA and Goal.\n\n#KrayonSports #ManUtd #Pochettino #PremierLeague #FootballExplained",
+  "sources": [
+    "https://www.rte.ie/sport/soccer/2026/1113/1599098-pochettino-set-to-join-united-on-two-and-a-half-year-deal/",
+    "https://www.goal.com/en/news/mauricio-pochettino-manchester-united-manager-usmnt-liverpool/bltce123719a1128621",
+    "https://www.skysports.com/football/news/13610882/mauricio-pochettino-appointed-as-manchester-united-head-coach-after-michael-carricks-sacking-at-old-trafford"
+  ]
+}
