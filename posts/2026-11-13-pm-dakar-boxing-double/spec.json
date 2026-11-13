@@ -1,0 +1,57 @@
+{
+  "slug": "2026-11-13-pm-dakar-boxing-double",
+  "tag": "YOUTH OLYMPICS",
+  "sport": "indian",
+  "series": "11 / THE BREAKDOWN",
+  "slides": [
+    {
+      "type": "hero",
+      "kicker": "YOUTH OLYMPIC GAMES · DAKAR 2026",
+      "grey": "16 years. Zero boxing golds.",
+      "white": "Then two in one day.",
+      "sub": "Lairenlakpam Ambekar Meetei (50kg) and Gunjan (48kg) won India's first-ever Youth Olympic boxing golds on Thursday.",
+      "facts": [
+        ["2", "boxing golds, one day"],
+        ["10", "medals for India in Dakar"]
+      ]
+    },
+    {
+      "type": "stat",
+      "kicker": "THE DAKAR HAUL",
+      "big": "10",
+      "body": "2 gold, 3 silver, 5 bronze. India sent 17 athletes; 9 of them came home with a medal.",
+      "note": "India's second-best Youth Olympics, behind 13 medals at Buenos Aires 2018."
+    },
+    {
+      "type": "text",
+      "kicker": "HOW THE FINALS WENT",
+      "title": "One comeback, one sweep",
+      "bullets": [
+        "Ambekar lost round 1 on all five cards, then won a 3-2 split over Ireland",
+        "Gunjan beat Algeria 5-0, winning all three rounds",
+        "Gunjan is the first Indian woman to win Youth Olympic boxing gold",
+        "India's only earlier YOG boxing medals: a silver and a bronze, in 2010"
+      ]
+    },
+    {
+      "type": "text",
+      "kicker": "THE OTHER FIRSTS",
+      "title": "Not just boxing",
+      "bullets": [
+        "Dhinidhi Desinghu: two swimming bronzes, India's first multi-medallist at one edition",
+        "Shourya Ambure: 100m hurdles bronze, India's first YOG athletics medal by a woman",
+        "Silvers for Tanvi Patri (badminton), Khushbu Darjada (judo), Taniya (beach wrestling)"
+      ],
+      "question": "Which of these teens makes it to a senior Olympics?",
+      "footnote": "5 of the 9 medallists are Khelo India athletes, per The Tribune."
+    }
+  ],
+  "concept": "The hero is built on a long wait and a sudden payoff: the muted grey line holds the drought ('16 years. Zero boxing golds.') and the bright white line lands the twist ('Then two in one day.'), with the two numbers that matter as facts underneath. Slide 2 turns the whole campaign into one giant '10' with a hit-rate line (9 of 17 athletes medalled) so the haul feels earned, not just counted. Slide 3 tells the two finals as a contrast, a comeback and a sweep, and slide 4 widens the lens to the other firsts so the post reads as a pipeline story, not a one-off. It ends on a who-goes-next question. Indian-sports orange, type only, no photos or logos.",
+  "caption": "16 years. Zero boxing golds. Then two in one day.\n\nLairenlakpam Ambekar Meetei (boys' 50kg) and Gunjan (girls' 48kg) won India's first-ever boxing golds at the Youth Olympic Games in Dakar on Thursday. Ambekar lost the first round on all five cards and came back to win a 3-2 split decision against Ireland. Gunjan swept Algeria 5-0, and is the first Indian woman to win Youth Olympic boxing gold.\n\nIndia finish Dakar with 10 medals (2 gold, 3 silver, 5 bronze) from a 17-athlete squad: their second-best Youth Olympics, behind 13 at Buenos Aires 2018.\n\nThe other firsts: Dhinidhi Desinghu won two swimming bronzes, Shourya Ambure took 100m hurdles bronze, and Tanvi Patri, Khushbu Darjada and Taniya won silver. The Tribune reports 5 of the 9 medallists are Khelo India athletes.\n\nWhich of these teens makes it to a senior Olympics? Tell us below.\n\nReports via ANI, The Tribune, Outlook and Khel Now.\n\n#KrayonSports #YouthOlympics #Dakar2026 #Boxing #TeamIndia #OlympicSports",
+  "sources": [
+    "https://www.aninews.in/news/sports/others/gunjan-wins-historic-gold-as-indian-boxers-complete-golden-double-at-dakar-youth-olympics20261113000451/",
+    "https://www.tribuneindia.com/news/sports/youth-olympic-games-2026-khelo-india-athletes-shine-as-nation-bags-10-medals-including-historic-boxing-double",
+    "https://www.outlookindia.com/sports/others/lairenlakpam-ambekar-meetei-gold-medal-boxing-50kg-dakar-youth-olympics-2026",
+    "https://khelnow.com/olympics/boxing-gold-report-youth-olympics-202611"
+  ]
+}
