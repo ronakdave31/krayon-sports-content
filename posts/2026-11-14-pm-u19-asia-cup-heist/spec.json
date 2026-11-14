@@ -1,0 +1,84 @@
+{
+  "slug": "2026-11-14-pm-u19-asia-cup-heist",
+  "tag": "CRICKET",
+  "sport": "cricket",
+  "series": "16 / THE BREAKDOWN",
+  "slides": [
+    {
+      "type": "hero",
+      "kicker": "U19 ASIA CUP FINAL · INDIA v PAKISTAN",
+      "grey": "Pakistan made 337.",
+      "white": "India chased it down with one wicket left.",
+      "sub": "Al Amerat, Oman, Nov 14. India are U19 Asia champions.",
+      "facts": [
+        [
+          "338",
+          "the target"
+        ],
+        [
+          "1",
+          "wicket to spare"
+        ]
+      ]
+    },
+    {
+      "type": "stat",
+      "kicker": "THE LOW POINT",
+      "big": "252/8",
+      "body": "India still needed 86 more runs. Two wickets left. Pakistan, the defending champions, were in control.",
+      "note": "Pakistan's 337/9 was built on Usman Khan's 107 and Abdul Qadir's 80."
+    },
+    {
+      "type": "stat",
+      "kicker": "THE HEIST",
+      "big": "49*",
+      "body": "off 26 balls from Mohit Ulva. He scored fast enough that the tail never had to hang around, and India got home in the last over.",
+      "note": "A strike rate of 188 in a chase of 338."
+    },
+    {
+      "type": "bars",
+      "kicker": "WHO MADE THE RUNS",
+      "title": "The base, then the finish",
+      "rows": [
+        [
+          "Raichandani",
+          "captain, 101 balls",
+          80
+        ],
+        [
+          "Sehwag",
+          "opener",
+          58
+        ],
+        [
+          "Ulva",
+          "not out, 26 balls",
+          49
+        ],
+        [
+          "Chauhan",
+          "attacking knock",
+          47
+        ]
+      ],
+      "note": "Figures as reported by ANI and Cricket News."
+    },
+    {
+      "type": "text",
+      "kicker": "WHY INDIA WON",
+      "title": "Three things went right",
+      "bullets": [
+        "The top order kept India in the chase: 80 from the captain, 58 from Sehwag",
+        "Wickets kept falling, but the scoring never stopped",
+        "Ulva turned 86 needed with two wickets left into a sprint, not a siege"
+      ],
+      "question": "Best India v Pakistan finish you've ever watched?"
+    }
+  ],
+  "concept": "This is a comeback story, so the deck is built as a three-act chase. The hero sets Pakistan's 337 in muted grey and lets India's answer land in white, with '1 wicket to spare' as the hook. Slide 2 is the low point as one giant number, 252/8, so the reader feels how lost the game looked. Slide 3 answers it with Mohit Ulva's 49* as an equally giant number, the heist. Slide 4 shows the four innings that made the runs as bars, so the base and the finish sit side by side. Slide 5 explains why in three lines and ends on a question. Cricket blue, type and bars only, no photos or logos.",
+  "caption": "Pakistan made 337. India chased it down with one wicket left.\n\nIndia's U19 side are Asia Cup champions after a last-over finish in Oman. Captain Lakshya Raichandani (80 off 101) and Aaryavir Sehwag (58) kept the chase alive, but wickets kept falling, and at 252/8 India still needed 86.\n\nThen Mohit Ulva: 49 not out off 26 balls. Fast enough that the tail never had to survive long, and India got home against the defending champions.\n\nBest India v Pakistan finish you've ever watched? Tell us below.\n\nMatch details via ANI and Cricket News.\n\n#KrayonSports #U19AsiaCup #INDvPAK #TeamIndia #CricketExplained",
+  "sources": [
+    "https://newsable.asianetnews.com/sports/india-u19-clinches-2026-asia-cup-title-in-thrilling-win-over-pakistan-articleshow-ulviuuu",
+    "https://sports.yahoo.com/articles/asia-cup-u-19-final-133910101.html"
+  ]
+}
