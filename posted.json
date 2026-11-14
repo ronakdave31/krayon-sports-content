@@ -258,5 +258,20 @@
       "https://www.ap7am.com/en/138678/bcci-extends-ipl-2027-retention-deadline-to-november-17-due-to-india-nz-fifth-odi-clash",
       "https://www.devdiscourse.com/article/sports-games/4000797-ipl-extends-deadline-for-retention-lists-to-november-17"
     ]
+  },
+  {
+    "slug": "2026-11-14-pm-u19-asia-cup-heist",
+    "series": 16,
+    "sport": "cricket",
+    "headline": "Pakistan made 337. India chased it down with one wicket left.",
+    "format": "carousel",
+    "status": "pending",
+    "created": "2026-11-14T17:17:29+00:00",
+    "published": null,
+    "media_id": null,
+    "sources": [
+      "https://newsable.asianetnews.com/sports/india-u19-clinches-2026-asia-cup-title-in-thrilling-win-over-pakistan-articleshow-ulviuuu",
+      "https://sports.yahoo.com/articles/asia-cup-u-19-final-133910101.html"
+    ]
   }
 ]
