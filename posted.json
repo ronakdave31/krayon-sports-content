@@ -227,17 +227,18 @@
     "sport": "f1",
     "headline": "Mercedes wants more money. So does Williams. For other reasons.",
     "format": "carousel",
-    "status": "expired",
+    "status": "published",
     "created": "2026-11-14T08:15:12+00:00",
-    "published": null,
-    "media_id": null,
+    "published": "2026-11-14T13:29:06+00:00",
+    "media_id": "17973814419192386",
     "sha": "3cd8734b9e33191b683ba8f0d22f358c9302e967",
     "sources": [
       "https://www.planetf1.com/news/mercedes-fia-formula-1-cost-cap",
       "https://au.motorsport.com/f1/news/toto-wolff-wants-the-fia-to-lift-the-salary-cap-on-junior-staff-we-need-to-pay-them-better/10872626/",
       "https://thejudge13.com/2026/11/13/newey-disagrees-with-wolff-over-f1-cost-cap-uplift/",
       "https://www.the-race.com/formula-1/formula1-cost-cap-fix-f1-williams-2027-2028/"
-    ]
+    ],
+    "note": "Approved by Ronak in its own run after a later run had marked it expired"
   },
   {
     "slug": "2026-11-14-pm-rr-lsg-swap",
