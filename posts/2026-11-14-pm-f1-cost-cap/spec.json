@@ -1,0 +1,71 @@
+{
+  "slug": "2026-11-14-pm-f1-cost-cap",
+  "tag": "F1 BUSINESS",
+  "sport": "f1",
+  "series": "15 / THE BREAKDOWN",
+  "slides": [
+    {
+      "type": "hero",
+      "kicker": "FORMULA 1 · THE COST CAP FIGHT",
+      "grey": "Mercedes wants more money.",
+      "white": "So does Williams. For other reasons.",
+      "sub": "F1's budget cap now covers almost everything. Both ends of the grid say it's squeezing them.",
+      "facts": [
+        [
+          "$215m",
+          "the 2026 cost cap"
+        ],
+        [
+          "6 of 11",
+          "teams needed to change it for 2027"
+        ]
+      ]
+    },
+    {
+      "type": "stat",
+      "kicker": "WHY THE SQUEEZE",
+      "big": "$215m",
+      "body": "The cap rose from $135m, but factory spending, which had its own separate limit until 2025, now has to fit inside it. A new wind tunnel competes with a new front wing.",
+      "note": "Figures via The Race and TheJudge13."
+    },
+    {
+      "type": "text",
+      "kicker": "MERCEDES' ASK",
+      "title": "Pay the juniors more",
+      "bullets": [
+        "Toto Wolff pitched the FIA an allowance for junior staff salaries",
+        "\"Not for more front wing,\" he told Sky F1 in Brazil",
+        "His verdict: it \"didn't score a lot of brownie points\""
+      ]
+    },
+    {
+      "type": "text",
+      "kicker": "WILLIAMS' ASK",
+      "title": "Help the slower teams",
+      "bullets": [
+        "James Vowles wants a catch-up: lower teams get a bigger budget",
+        "Slower teams already get extra wind tunnel time",
+        "Aston Martin's Adrian Newey says the same logic fits the budget"
+      ]
+    },
+    {
+      "type": "text",
+      "kicker": "WHAT HAPPENS NEXT",
+      "title": "Six votes for 2027",
+      "bullets": [
+        "A 2027 change needs the FIA, F1 and 6 of the 11 teams",
+        "Audi, Aston Martin, Alpine and Cadillac were reported in favour",
+        "The plan was expected at November's F1 Commission"
+      ],
+      "question": "Should F1 help its smaller teams catch up?"
+    }
+  ],
+  "concept": "Two rival requests, one rulebook, so the hero is built as a split: Mercedes' ask sits in muted grey and Williams' ask lands in white, setting up the twist that the richest and one of the smallest teams both want more money for opposite reasons. Slide 2 blows up the one number everything hangs on, $215m, and explains why it pinches now (factory spending moved inside it). Slides 3 and 4 mirror each other, one ask per slide, using the teams' own words, and slide 5 turns to the vote count and asks fans to pick a side. F1 red, type only: no driver photos, no team or F1 logos.",
+  "caption": "Mercedes wants more money. So does Williams.\n\nF1's 2026 budget cap is $215m, but it now has to cover factory spending too, like wind tunnels, which used to have a separate limit.\n\nToto Wolff says Mercedes pitched the FIA an allowance to pay junior staff better, \"not for more front wing\", and admits it \"didn't score a lot of brownie points\".\n\nWilliams boss James Vowles wants something different: a catch-up where teams lower down the table get a bigger budget, the same way they already get extra wind tunnel time. Aston Martin's Adrian Newey says that logic fits. A 2027 change needs 6 of the 11 teams; The Race reported Audi, Aston Martin, Alpine and Cadillac in favour.\n\nShould F1 help its smaller teams catch up, or keep one cap for all? Tell us below.\n\nDetails via PlanetF1, Motorsport.com, The Race and TheJudge13.\n\n#KrayonSports #F1 #Formula1 #F1Business #CostCap",
+  "sources": [
+    "https://www.planetf1.com/news/mercedes-fia-formula-1-cost-cap",
+    "https://au.motorsport.com/f1/news/toto-wolff-wants-the-fia-to-lift-the-salary-cap-on-junior-staff-we-need-to-pay-them-better/10872626/",
+    "https://thejudge13.com/2026/11/13/newey-disagrees-with-wolff-over-f1-cost-cap-uplift/",
+    "https://www.the-race.com/formula-1/formula1-cost-cap-fix-f1-williams-2027-2028/"
+  ]
+}
