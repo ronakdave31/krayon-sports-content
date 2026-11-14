@@ -220,5 +220,23 @@
       "https://telanganatoday.com/lakshya-sen-reaches-second-consecutive-final-with-win-over-alwi-farhan",
       "https://revsportz.in/japan-masters-2026-lakshya-sen-advances-to-final-after-overcoming-sixth-seed-alwi-farhan/"
     ]
+  },
+  {
+    "slug": "2026-11-14-pm-f1-cost-cap",
+    "series": 15,
+    "sport": "f1",
+    "headline": "Mercedes wants more money. So does Williams. For other reasons.",
+    "format": "carousel",
+    "status": "pending",
+    "created": "2026-11-14T08:15:12+00:00",
+    "published": null,
+    "media_id": null,
+    "sha": "3cd8734b9e33191b683ba8f0d22f358c9302e967",
+    "sources": [
+      "https://www.planetf1.com/news/mercedes-fia-formula-1-cost-cap",
+      "https://au.motorsport.com/f1/news/toto-wolff-wants-the-fia-to-lift-the-salary-cap-on-junior-staff-we-need-to-pay-them-better/10872626/",
+      "https://thejudge13.com/2026/11/13/newey-disagrees-with-wolff-over-f1-cost-cap-uplift/",
+      "https://www.the-race.com/formula-1/formula1-cost-cap-fix-f1-williams-2027-2028/"
+    ]
   }
 ]
