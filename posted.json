@@ -265,10 +265,10 @@
     "sport": "cricket",
     "headline": "Pakistan made 337. India chased it down with one wicket left.",
     "format": "carousel",
-    "status": "pending",
+    "status": "published",
     "created": "2026-11-14T17:17:29+00:00",
-    "published": null,
-    "media_id": null,
+    "published": "2026-11-14T17:31:24+00:00",
+    "media_id": "18145614457523821",
     "sources": [
       "https://newsable.asianetnews.com/sports/india-u19-clinches-2026-asia-cup-title-in-thrilling-win-over-pakistan-articleshow-ulviuuu",
       "https://sports.yahoo.com/articles/asia-cup-u-19-final-133910101.html"
