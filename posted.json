@@ -227,7 +227,7 @@
     "sport": "f1",
     "headline": "Mercedes wants more money. So does Williams. For other reasons.",
     "format": "carousel",
-    "status": "pending",
+    "status": "expired",
     "created": "2026-11-14T08:15:12+00:00",
     "published": null,
     "media_id": null,
@@ -237,6 +237,25 @@
       "https://au.motorsport.com/f1/news/toto-wolff-wants-the-fia-to-lift-the-salary-cap-on-junior-staff-we-need-to-pay-them-better/10872626/",
       "https://thejudge13.com/2026/11/13/newey-disagrees-with-wolff-over-f1-cost-cap-uplift/",
       "https://www.the-race.com/formula-1/formula1-cost-cap-fix-f1-williams-2027-2028/"
+    ]
+  },
+  {
+    "slug": "2026-11-14-pm-rr-lsg-swap",
+    "series": 15,
+    "sport": "business",
+    "headline": "Rs 10 cr out. Rs 2.4 cr in. Why RR and LSG are talking a swap.",
+    "format": "carousel",
+    "status": "pending",
+    "created": "2026-11-14T12:14:28+00:00",
+    "published": null,
+    "media_id": null,
+    "sha": "d61c738440bb8b901abd3944bff0460a48ae4d48",
+    "sources": [
+      "https://crickettimes.com/2026/11/ahead-of-ipl-2027-retentions-rr-and-lsg-explore-multi-player-trade-involving-sam-curran-and-mohammed-shami/",
+      "https://www.india.com/sports/cricket/mohammed-shami-to-become-vaibhav-sooryavanshi-teammate-talks-on-between-lsg-and-rr-over-trade-with-sam-curran-8544600/",
+      "https://sundayguardianlive.com/sports/mohammed-shami-to-rajasthan-royals-ipl-2027-trade-talks-with-lucknow-super-giants-involve-sam-curran-and-one-more-player-321704/",
+      "https://www.ap7am.com/en/138678/bcci-extends-ipl-2027-retention-deadline-to-november-17-due-to-india-nz-fifth-odi-clash",
+      "https://www.devdiscourse.com/article/sports-games/4000797-ipl-extends-deadline-for-retention-lists-to-november-17"
     ]
   }
 ]
