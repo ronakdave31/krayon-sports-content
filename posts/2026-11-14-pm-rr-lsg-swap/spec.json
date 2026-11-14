@@ -1,0 +1,92 @@
+{
+  "slug": "2026-11-14-pm-rr-lsg-swap",
+  "tag": "IPL TRADES",
+  "sport": "business",
+  "series": "15 / THE BREAKDOWN",
+  "slides": [
+    {
+      "type": "hero",
+      "kicker": "IPL 2027 · REPORTED TRADE TALKS",
+      "grey": "Rs 10 cr out.\nRs 2.4 cr in.",
+      "white": "Why RR and LSG are talking a swap.",
+      "sub": "Mohammed Shami to Rajasthan, Sam Curran to Lucknow, Cricbuzz reports. Not signed yet.",
+      "facts": [
+        [
+          "Nov 17",
+          "retention deadline"
+        ],
+        [
+          "Dec 16",
+          "mini-auction, Goa"
+        ]
+      ]
+    },
+    {
+      "type": "bars",
+      "kicker": "THE MONEY · RS CRORE",
+      "title": "What each player costs",
+      "rows": [
+        [
+          "Shami",
+          "LSG to RR",
+          10,
+          "10.00"
+        ],
+        [
+          "Curran",
+          "RR to LSG",
+          2.4,
+          "2.40"
+        ],
+        [
+          "Siddharth",
+          "LSG to RR?",
+          0.75,
+          "0.75"
+        ]
+      ],
+      "highlight_first": true,
+      "note": "Reported fees. Curran wants a revised one."
+    },
+    {
+      "type": "text",
+      "kicker": "WHY RAJASTHAN WANT IT",
+      "title": "An Indian new-ball bowler",
+      "bullets": [
+        "Shami: 145 IPL wickets in 132 matches",
+        "He'd join Jofra Archer, Nandre Burger and Sandeep Sharma",
+        "RR's bowling lacked consistency in IPL 2026"
+      ]
+    },
+    {
+      "type": "text",
+      "kicker": "WHY LUCKNOW WANT IT",
+      "title": "Batting depth, and cash",
+      "bullets": [
+        "Curran bats and bowls; depth was LSG's 2026 problem",
+        "He has worked with LSG director of cricket Tom Moody",
+        "Swapping a Rs 10 cr player for a Rs 2.4 cr one frees purse room"
+      ]
+    },
+    {
+      "type": "text",
+      "kicker": "THE CATCH",
+      "title": "Both sides take a risk",
+      "bullets": [
+        "Shami in IPL 2026: 12 wickets in 13 games, economy 9",
+        "Curran didn't play a game for RR in 2026 (injury)",
+        "Paperwork is pending, and the deadline is Nov 17"
+      ],
+      "question": "Who wins this trade: RR or LSG?"
+    }
+  ],
+  "concept": "The story is a money-and-needs swap, so the hero opens on the price gap: 'Rs 10 crore out. Rs 2.4 crore in.' in muted grey as the hook, with the real question in white, and two dates (retention deadline, auction) that show why it's happening now. Slide 2 is a bar chart of the three reported fees so the gap is visible at a glance; slides 3 and 4 split the 'why' by franchise, one need each (RR: Indian new-ball pace; LSG: batting depth and purse room); slide 5 is the honest catch for both sides and asks fans to pick a winner. Sports-business gold, type and bars only: no player photos, no franchise or IPL logos. Everything about the deal is labelled 'reported'.",
+  "caption": "Rs 10 crore out. Rs 2.4 crore in.\n\nRajasthan Royals and Lucknow Super Giants are reportedly in talks on a multi-player trade before IPL 2027 retentions, Cricbuzz reports: Mohammed Shami (Rs 10 crore) to RR, Sam Curran (Rs 2.4 crore) to LSG, with spinner Manimaran Siddharth (Rs 75 lakh) possibly heading to RR as well. Nothing is signed; the paperwork is reportedly pending.\n\nWhy RR want it: an experienced Indian new-ball bowler (145 IPL wickets) next to Jofra Archer.\nWhy LSG want it: Curran adds batting depth, knows director of cricket Tom Moody, and the swap frees purse room.\nThe catch: Shami went at an economy of 9 in IPL 2026, Curran didn't play a game for RR after an injury, and he's reportedly asking for a revised fee.\n\nRetention lists are due November 17. The mini-auction is in Goa on December 16.\n\nWho wins this trade, RR or LSG? Tell us below.\n\nReports via Cricbuzz, Cricket Times, India.com and IANS.\n\n#KrayonSports #IPL2027 #IPLTrade #MohammedShami #SamCurran #RajasthanRoyals",
+  "sources": [
+    "https://crickettimes.com/2026/11/ahead-of-ipl-2027-retentions-rr-and-lsg-explore-multi-player-trade-involving-sam-curran-and-mohammed-shami/",
+    "https://www.india.com/sports/cricket/mohammed-shami-to-become-vaibhav-sooryavanshi-teammate-talks-on-between-lsg-and-rr-over-trade-with-sam-curran-8544600/",
+    "https://sundayguardianlive.com/sports/mohammed-shami-to-rajasthan-royals-ipl-2027-trade-talks-with-lucknow-super-giants-involve-sam-curran-and-one-more-player-321704/",
+    "https://www.ap7am.com/en/138678/bcci-extends-ipl-2027-retention-deadline-to-november-17-due-to-india-nz-fifth-odi-clash",
+    "https://www.devdiscourse.com/article/sports-games/4000797-ipl-extends-deadline-for-retention-lists-to-november-17"
+  ]
+}
