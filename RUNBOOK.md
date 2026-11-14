@@ -79,6 +79,28 @@ Send Ronak (SendUserMessage + SendUserFile with the slide JPEGs, then a push not
 
 Then wait. If he asks for changes, edit, re-render, re-push and show the new version before asking again.
 
+## Photo posts (photo slot)
+
+Use a `photo` slide when the story is about one person or one big moment (a comeback, a record, a final).
+It is a full-bleed photo with the Krayon gradient, headline and logo on top. Spec fields:
+`{"type": "photo", "kicker": "...", "grey": "...", "white": "...", "sub": "...", "image": "<optional>"}`
+
+Rules:
+- **Never add a photo or cutout of a real person yourself**, from any source. Leave `image` out and the
+  renderer draws a placeholder; Ronak adds the photo or cutout himself.
+- `image` may only point to a generic picture with no identifiable real people (stadium, ball, pitch, car,
+  crowd from far away) that Ronak has put in this repo's `photos/` folder.
+- Rendering a photo slide also writes `slide-N-overlay.png`: a transparent layer (gradient, text, logo).
+
+In the preview, send Ronak both `slide-N.jpg` (placeholder version) and `slide-N-overlay.png`, and say:
+"This one is built for a photo. Place your photo or cutout under the overlay (1080 x 1350), then attach the
+finished image here and reply yes. Or reply **graphic** and I'll switch it to the text-only design."
+
+- If he attaches a finished image and says yes: convert it to a 1080x1350 JPEG (crop to 4:5 if needed),
+  save it as `slide-N.jpg` in the post folder, commit, push and publish that file.
+- If he replies **graphic**: change the slide to `hero`, re-render, show it again and wait for yes.
+- Never publish the placeholder version.
+
 ## 6. Publish (only after "yes")
 
 Windsor.ai `execute_action`, connector `instagram`, account `17841463737212811`:

@@ -234,7 +234,32 @@ def slide_bars(c, s):
     return y
 
 
-TYPES = {"hero": slide_hero, "stat": slide_stat, "text": slide_text, "bars": slide_bars}
+def slide_photo(c, s):
+    """Photo-led slide: text block is anchored to the bottom (ends at y=1120), over a dark gradient.
+    The photo itself is drawn in render_slide (or left as a placeholder for Ronak to fill)."""
+    start = len(c.parts)
+    y = 0
+    if s.get("kicker"):
+        y = kicker(c, s["kicker"], 30) + 6
+    if s.get("grey"):
+        last, _, size = c.fit_block(s["grey"], BOLD, 84, 56, 1, y, "#bdbbb4")
+        y = last + size * 0.28
+    last, end, size = c.fit_block(s["white"], BOLD, 92, 60, 2, y, WHITE)
+    dot_after(c, end, last, size)
+    y = last + 20
+    if s.get("sub"):
+        y, _ = c.block(s["sub"], REG, 30, y + 44, "#d8d6cf", 1.3)
+        y += 10
+    dy = 1120 - y
+    c.parts[start:] = [f'<g transform="translate(0 {dy:.0f})">' + "".join(c.parts[start:]) + "</g>"]
+    if dy < 360:
+        print("WARNING photo slide: text block is tall and covers most of the photo - shorten it", file=sys.stderr)
+    if s.get("credit"):
+        c.text(s["credit"], REG, 18, XMAX, 1155, MUTED, anchor="end")
+    return 1120
+
+
+TYPES = {"hero": slide_hero, "stat": slide_stat, "text": slide_text, "bars": slide_bars, "photo": slide_photo}
 
 
 # ---------------- frame ----------------
@@ -249,7 +274,28 @@ def logo_group():
 GLOWS = [(900, 760), (880, 450), (900, 820), (860, 520), (900, 900), (880, 620)]
 
 
-def render_slide(spec, i, n):
+def photo_layer(s, spec_dir):
+    """Generic photo (no identifiable real people) if given, else a placeholder to fill by hand."""
+    img = s.get("image")
+    if img:
+        import base64, mimetypes
+        p = img if os.path.isabs(img) else os.path.join(spec_dir, img)
+        mime = mimetypes.guess_type(p)[0] or "image/jpeg"
+        data = base64.b64encode(open(p, "rb").read()).decode()
+        return f'<image href="data:{mime};base64,{data}" x="0" y="0" width="{W}" height="{H}" preserveAspectRatio="xMidYMid slice"/>'
+    c = Canvas()
+    c.text("PHOTO / CUTOUT GOES HERE", BOLD, 30, W / 2, 470, "#5a5a55", ls=5, anchor="middle")
+    c.text("place your image under the overlay file", REG, 24, W / 2, 512, "#4a4a46", anchor="middle")
+    return (f'<rect width="{W}" height="{H}" fill="#1b1b1a"/>'
+            f'<rect x="120" y="230" width="{W-240}" height="520" rx="18" fill="none" stroke="#3a3a37" stroke-width="3" stroke-dasharray="14 12"/>'
+            + "".join(c.parts))
+
+
+PHOTO_SHADE = """<linearGradient id="shadeTop" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0e0e0e" stop-opacity=".85"/><stop offset="1" stop-color="#0e0e0e" stop-opacity="0"/></linearGradient>
+ <linearGradient id="shadeBot" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0e0e0e" stop-opacity="0"/><stop offset=".45" stop-color="#0e0e0e" stop-opacity=".88"/><stop offset="1" stop-color="#0e0e0e" stop-opacity=".97"/></linearGradient>"""
+
+
+def render_slide(spec, i, n, overlay=False, spec_dir="."):
     s = spec["slides"][i]
     c = Canvas()
     c.sport = spec.get("sport", "other")
@@ -275,15 +321,22 @@ def render_slide(spec, i, n):
         c.text(f"{i+1:02d} / {n:02d}", REG, 26, X0, 1258, MUTED, ls=5)
         c.text("SWIPE  →", BOLD, 26, XMAX, 1258, OFF, ls=5, anchor="end")
     body = "\n".join(c.parts)
+    if s["type"] == "photo":
+        shade = (f'<rect width="{W}" height="300" fill="url(#shadeTop)"/>'
+                 f'<rect y="480" width="{W}" height="{H-480}" fill="url(#shadeBot)"/>')
+        background = shade if overlay else photo_layer(s, spec_dir) + shade
+    else:
+        background = (f'<rect width="{W}" height="{H}" fill="#0e0e0e"/>'
+                      f'<circle cx="{gx}" cy="{gy}" r="500" fill="url(#glow)"/>')
     return f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" width="{W}" height="{H}">
 <defs>
  <radialGradient id="dot" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#2e5bff"/><stop offset=".5" stop-color="#ff5436"/><stop offset="1" stop-color="#7c3aed"/></radialGradient>
  <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ff5436" stop-opacity=".22"/><stop offset="1" stop-color="#7c3aed" stop-opacity="0"/></radialGradient>
  <linearGradient id="trail" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#7c3aed" stop-opacity="0"/><stop offset="1" stop-color="#ff5436"/></linearGradient>
  <linearGradient id="barg" x1="0" x2="1"><stop offset="0" stop-color="#7c3aed" stop-opacity=".15"/><stop offset="1" stop-color="#ff5436"/></linearGradient>
+ {PHOTO_SHADE}
 </defs>
-<rect width="{W}" height="{H}" fill="#0e0e0e"/>
-<circle cx="{gx}" cy="{gy}" r="500" fill="url(#glow)"/>
+{background}
 {body}
 </svg>"""
 
@@ -296,7 +349,7 @@ def main(spec_path):
     from PIL import Image
     files = []
     for i in range(n):
-        svg = render_slide(spec, i, n)
+        svg = render_slide(spec, i, n, spec_dir=outdir)
         sp = os.path.join(outdir, f"slide-{i+1}.svg")
         open(sp, "w").write(svg)
         png = sp.replace(".svg", ".png")
@@ -305,6 +358,12 @@ def main(spec_path):
         Image.open(png).convert("RGB").save(jpg, quality=92)
         os.remove(png); os.remove(sp)
         files.append(jpg)
+        if spec["slides"][i]["type"] == "photo":
+            # transparent layer Ronak places over his own photo or cutout
+            osp = os.path.join(outdir, f"slide-{i+1}-overlay.svg")
+            open(osp, "w").write(render_slide(spec, i, n, overlay=True, spec_dir=outdir))
+            subprocess.run(["rsvg-convert", osp, "-o", osp.replace(".svg", ".png")], check=True)
+            os.remove(osp)
     # contact sheet for previews
     ims = [Image.open(f).resize((432, 540)) for f in files]
     sheet = Image.new("RGB", (432 * len(ims), 540), "#0e0e0e")
