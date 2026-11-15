@@ -1,0 +1,52 @@
+{
+  "slug": "2026-11-15-pm-lakshya-kumamoto-title",
+  "tag": "BADMINTON",
+  "sport": "indian",
+  "series": "20 / THE BREAKDOWN",
+  "slides": [
+    {
+      "type": "hero",
+      "kicker": "KUMAMOTO MASTERS JAPAN · FINAL",
+      "grey": "Lost the first game 13-21.",
+      "white": "Won the title anyway.",
+      "sub": "Lakshya Sen beat Japan's Koki Watanabe 13-21, 21-18, 21-14 in 64 minutes.",
+      "facts": [["2", "titles in two weeks"], ["6th", "in the Finals race (reported)"]]
+    },
+    {
+      "type": "stat",
+      "kicker": "WHY HE WON",
+      "big": "21-18",
+      "body": "One game down against the home favourite, Lakshya held his nerve to edge a tight second game. In the decider he led 11-7 at the break and closed it 21-14.",
+      "note": "Watanabe had beaten 2nd seed Kunlavut Vitidsarn in the semi-final."
+    },
+    {
+      "type": "text",
+      "kicker": "TWO WEEKS, TWO TROPHIES",
+      "title": "Back-to-back",
+      "bullets": [
+        "Nov 1: won the Hylo Open in Germany, beating Jonatan Christie in the final",
+        "Nov 14: beat world No. 10 Alwi Farhan in the Kumamoto semi",
+        "Nov 15: won the Super 500 title in Japan"
+      ]
+    },
+    {
+      "type": "text",
+      "kicker": "WHAT'S NEXT",
+      "title": "Next stop: Hangzhou",
+      "bullets": [
+        "Only the top 8 in the race make the BWF World Tour Finals",
+        "Lakshya was 12th before this week",
+        "Reports now place him 6th"
+      ],
+      "question": "Can Lakshya win in Hangzhou too?"
+    }
+  ],
+  "thumb": {"title": "Lost game 1. Won the title.", "sub": "Lakshya Sen · Kumamoto Masters Japan", "ghost": "21-14"},
+  "concept": "The story is a comeback, so the hero is built as a reversal: the setback 'Lost the first game 13-21.' sits in muted grey and the payoff 'Won the title anyway.' lands in white, with two numbers that frame the bigger picture: 2 titles in two weeks and 6th in the race to Hangzhou. Slide 2 blows up 21-18, the game that turned the final, rather than the closing score. Slide 3 is a three-step timeline of his fortnight (Germany, semi, title) and slide 4 looks ahead to the World Tour Finals with a question for fans. Indian-sports orange, type only: no player photos and no BWF or tournament logos. Continues our Nov 14 semi-final post, so followers get the payoff.",
+  "caption": "Lost the first game. Won the title anyway.\n\nLakshya Sen beat Japan's Koki Watanabe 13-21, 21-18, 21-14 in 64 minutes to win the Kumamoto Masters Japan, a Super 500 event. The turning point was a tight second game against the home favourite. In the decider he led 11-7 at the break and never looked back.\n\nThat's back-to-back BWF World Tour titles after his Hylo Open win in Germany on Nov 1. He was 12th in the race to the World Tour Finals before this week. Reports now place him 6th, inside the top 8 who go to Hangzhou.\n\nCan Lakshya win in Hangzhou too? Tell us below.\n\nDetails via PTI, Onmanorama, Dainik Jagran and myKhel.\n\n#KrayonSports #LakshyaSen #Badminton #JapanMasters #IndianSports",
+  "sources": [
+    "https://www.onmanorama.com/sports/other-sports/2026/11/15/lakshya-sen-wins-kumamoto-masters-japan-open.html",
+    "https://english.dainikjagranmpcg.com/sports/lakshya-sen-wins-japan-masters-2026-beats-watanabe/article-44331",
+    "https://www.mykhel.com/news/sports-bulletin-nov-15-lakshya-sen-wins-japan-masters-india-clinch-u19-asia-cup-portugal-loose-459027.html"
+  ]
+}
