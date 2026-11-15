@@ -101,6 +101,30 @@ finished image here and reply yes. Or reply **graphic** and I'll switch it to th
 - If he replies **graphic**: change the slide to `hero`, re-render, show it again and wait for yes.
 - Never publish the placeholder version.
 
+## Reel version (every post)
+
+After the post renders, make its Reel from the same spec:
+```bash
+python3 render_reel.py posts/<slug>/spec.json      # writes reel.mp4 + reel-cover.jpg
+```
+The reel is 1080x1920, each slide is one animated scene, it ends on the Krayon Sports end card, and the
+soundtrack is an original beat synthesised by the script (never add licensed or trending music).
+Check it: pull 4-6 frames with ffmpeg (`-ss <t> -frames:v 1`) and look at them; ffprobe must show
+h264 + aac, 1080x1920, 30 fps, 5-90 s. Commit reel.mp4 and reel-cover.jpg with the post.
+
+Include the reel in the preview (send reel.mp4 and reel-cover.jpg too) and ask:
+"Reply **yes** to publish both the post and the reel, **post only**, or **reel only**."
+
+Publishing the reel (same caption as the post), Windsor.ai `execute_action`, connector `instagram`,
+account `17841463737212811`, action `create_video_post`, params:
+`{"video_url": <commit-SHA raw URL of reel.mp4>, "cover_url": <commit-SHA raw URL of reel-cover.jpg>,
+"caption": <caption>, "share_to_feed": false}`
+(share_to_feed false keeps the grid from showing every story twice; the reel still goes out in Reels.)
+If Instagram rejects the raw.githubusercontent.com video link, retry once with the jsDelivr link
+`https://cdn.jsdelivr.net/gh/ronakdave31/krayon-sports-content@<commit-sha>/posts/<slug>/reel.mp4`
+(and the same jsDelivr form for the cover). Log the reel's media id in posted.json as `reel_media_id`.
+For photo posts, the reel uses the text layout (no photo), so it can go out even if the post waits for a photo.
+
 ## 6. Publish (only after "yes")
 
 Windsor.ai `execute_action`, connector `instagram`, account `17841463737212811`:
