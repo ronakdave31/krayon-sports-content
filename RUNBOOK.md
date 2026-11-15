@@ -122,8 +122,9 @@ Include the reel in the preview (send reel.mp4 and reel-cover.jpg too) and ask:
 Publishing the reel (same caption as the post), Windsor.ai `execute_action`, connector `instagram`,
 account `17841463737212811`, action `create_video_post`, params:
 `{"video_url": <commit-SHA raw URL of reel.mp4>, "cover_url": <commit-SHA raw URL of reel-cover.jpg>,
-"caption": <caption>, "share_to_feed": false}`
-(share_to_feed false keeps the grid from showing every story twice; the reel still goes out in Reels.)
+"caption": <caption>, "share_to_feed": true}`
+(Ronak wants reels to appear as posts too: share_to_feed true puts the reel in the feed and on the profile grid
+as well as in the Reels tab.)
 If Instagram rejects the raw.githubusercontent.com video link, retry once with the jsDelivr link
 `https://cdn.jsdelivr.net/gh/ronakdave31/krayon-sports-content@<commit-sha>/posts/<slug>/reel.mp4`
 (and the same jsDelivr form for the cover). Log the reel's media id in posted.json as `reel_media_id`.
