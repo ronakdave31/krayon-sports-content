@@ -354,9 +354,9 @@
     "sport": "business",
     "headline": "Rs 27 crore at Lucknow. Rs 15 crore at Delhi. Pant took the cut.",
     "format": "carousel",
-    "status": "partial: reel live, carousel retrying (Instagram rate limit)",
+    "status": "published",
     "created": "2026-11-15T17:14:05Z",
-    "published": null,
+    "published": "2026-11-15T18:11:20Z",
     "media_id": null,
     "reel_media_id": "18140249356647999",
     "sources": [
@@ -365,6 +365,7 @@
       "https://crex.com/cricket-listicles/list-of-all-player-trades-in-ipl-2027-6af717e0525603a2aa21c74d",
       "https://www.cricketnews.com/en/cricket/news/ipl-2027-retention-deadline-date-retained-players-mini-auction/7cdc39d5a9eddc5c2dc37629"
     ],
-    "reel_published": "2026-11-15T17:22:44Z"
+    "reel_published": "2026-11-15T17:22:44Z",
+    "note": "Reel via Windsor.ai; carousel posted manually by Ronak after Instagram rate limit (no media id logged)"
   }
 ]
