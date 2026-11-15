@@ -319,15 +319,16 @@
     "sport": "cricket",
     "headline": "209 didn't look enough. India defended it. Series won 3-1.",
     "format": "carousel",
-    "status": "pending",
+    "status": "published",
     "created": "2026-11-15T10:06:50+00:00",
-    "published": null,
-    "media_id": null,
+    "published": "2026-11-15T10:20:09+00:00",
+    "media_id": "18150353368563589",
     "sha": "2e00f26e3ca66eb5dcb340c15064cd0e68d50d0b",
     "sources": [
       "https://udaipurkiran.com/india-clinches-odi-series-against-new-zealand/",
       "https://www.thedailyjagran.com/cricket/news/ind-vs-nz-5th-odi-yash-thakur-india-vs-new-zealand-maiden-odi-wicket-fast-bowlers-script-stunning-comeback-win-to-seal-series-10336375",
       "https://crex.com/cricket-live-score/ind-vs-nz-5th-odi-india-tour-of-new-zealand-2026-match-updates-12JL"
-    ]
+    ],
+    "reel_media_id": "17936884374148059"
   }
 ]
