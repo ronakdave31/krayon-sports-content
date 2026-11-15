@@ -299,10 +299,10 @@
     "sport": "cricket",
     "headline": "Rohit 7. Kohli 5. India have 209 to defend for the series.",
     "format": "carousel",
-    "status": "pending",
+    "status": "published",
     "created": "2026-11-15T08:49:33+00:00",
-    "published": null,
-    "media_id": null,
+    "published": "2026-11-15T08:56:16+00:00",
+    "media_id": "18016417811986410",
     "sha": "9de5d3bde2bb7a1e4ebba6b9a0b74d562c53b4cb",
     "sources": [
       "https://telanganatoday.com/india-bowled-out-for-209-against-new-zealand-in-fifth-odi-as-santner-duffy-take-three-wickets-each",
@@ -310,6 +310,7 @@
       "https://www.india.com/sports/cricket/ind-vs-nz-5th-odi-axar-patels-46-run-innings-helps-india-post-209-against-new-zealand-8545028/",
       "https://www.indiatvnews.com/sports/cricket/ind-vs-nz-5th-odi-live-score-india-look-to-bounce-back-after-defeat-in-previous-bout-1059481",
       "https://newskarnataka.com/sports/india-vs-new-zealand-5th-odi-series-decider-in-mount-maunganui/15112026/"
-    ]
+    ],
+    "reel_media_id": "18118479752037556"
   }
 ]
