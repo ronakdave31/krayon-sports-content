@@ -273,5 +273,24 @@
       "https://newsable.asianetnews.com/sports/india-u19-clinches-2026-asia-cup-title-in-thrilling-win-over-pakistan-articleshow-ulviuuu",
       "https://sports.yahoo.com/articles/asia-cup-u-19-final-133910101.html"
     ]
+  },
+  {
+    "slug": "2026-11-15-am-saff-final-rematch",
+    "series": 17,
+    "sport": "football",
+    "headline": "Nov 5: India 3, Pakistan 2. Nov 17: the rematch is the final.",
+    "format": "carousel",
+    "status": "pending",
+    "created": "2026-11-15T04:15:09+00:00",
+    "published": null,
+    "media_id": null,
+    "sources": [
+      "https://www.the-aiff.com/article/india-hold-off-bhutan-fightback-to-reach-saff-championship-final",
+      "https://khelnow.com/football/indian-football-saff-championship-2026-india-vs-bhutan-key-takeaways",
+      "https://theopenpress.in/article/india-beat-bhutan-2-1-saff-championship-final-november-17",
+      "https://pakera.pk/pakistan-beat-bangladesh-1-0-saff-championship-2026-semi-final-first-final-india/",
+      "https://www.sportsdunia.com/football-ratings/bangladesh-vs-pakistan-player-ratings-saff-championship-14th-november-2026",
+      "https://www.espn.com/soccer/match/_/gameId/401934183/pakistan-bangladesh"
+    ]
   }
 ]
