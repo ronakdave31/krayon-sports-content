@@ -1,0 +1,63 @@
+{
+  "slug": "2026-11-15-am-saff-final-rematch",
+  "tag": "FOOTBALL",
+  "sport": "football",
+  "series": "17 / THE BREAKDOWN",
+  "slides": [
+    {
+      "type": "hero",
+      "kicker": "SAFF CHAMPIONSHIP 2026 · THE FINAL",
+      "grey": "Nov 5: India 3, Pakistan 2.",
+      "white": "Nov 17: the rematch is the final.",
+      "sub": "India beat Bhutan 2-1. Pakistan stunned hosts Bangladesh 1-0. Both semis, one night in Dhaka.",
+      "facts": [
+        [
+          "10th",
+          "title India are chasing"
+        ],
+        [
+          "1st",
+          "SAFF final for Pakistan"
+        ]
+      ]
+    },
+    {
+      "type": "stat",
+      "kicker": "HOW INDIA GOT THERE",
+      "big": "2-0",
+      "body": "Two up inside 30 minutes: Vishnu PV nutmegged a defender to score, then captain Chinglensana Singh smashed in a corner scramble. Bhutan scored after the break. India held on.",
+      "note": "VAR, used for the first time at a SAFF Championship, gave Bhutan's goal and took away an India penalty."
+    },
+    {
+      "type": "text",
+      "kicker": "HOW PAKISTAN GOT THERE",
+      "title": "A late goal, a silent Dhaka",
+      "bullets": [
+        "Pakistan beat hosts Bangladesh 1-0 with a goal in the last five minutes",
+        "Every earlier Pakistan campaign ended in the group stage or the semis",
+        "Their only loss this tournament: 3-2 to India"
+      ]
+    },
+    {
+      "type": "text",
+      "kicker": "THE REMATCH",
+      "title": "What India must fix",
+      "bullets": [
+        "On Nov 5 India led 3-0, then let in two goals in added time",
+        "Suhail Bhat, Nikhil Prabhu and Irfan Yadwad picked up knocks against Bhutan",
+        "Kick-off: Tuesday, 7:30 pm IST, Dhaka"
+      ],
+      "question": "India's 10th title, or Pakistan's first?"
+    }
+  ],
+  "concept": "A rematch told as two dates. The hero stacks the group game (Nov 5, India 3-2) in muted grey over the final (Nov 17) in bright white, so the past result sets up the bigger game. Two numbers frame the stakes: India's 10th title against Pakistan's 1st final. Slides 2 and 3 mirror each other, one semi-final each, and slide 4 turns to what India must fix from the 3-2 (a 3-0 lead nearly thrown away) before handing the debate to fans. Football green tag, type only: no player photos, no federation or tournament logos.",
+  "caption": "India vs Pakistan. In a final.\n\nIndia's young side beat Bhutan 2-1 in Dhaka last night: Vishnu PV and captain Chinglensana Singh scored inside 30 minutes, Bhutan pulled one back after the break, and VAR (a first at the SAFF Championship) cancelled an India penalty along the way.\n\nHours later, Pakistan stunned hosts Bangladesh 1-0 with a late goal to reach their first ever SAFF Championship final.\n\nThe two met on November 5. India led 3-0, then let in two in added time and won 3-2. The rematch is Tuesday, 7:30 pm IST, with India chasing a record-extending 10th title.\n\nIndia's 10th title or Pakistan's first? Tell us below.\n\nMatch details via AIFF, Khel Now, Pakera and The Open Press.\n\n#KrayonSports #IndianFootball #BlueTigers #SAFFChampionship #INDvPAK",
+  "sources": [
+    "https://www.the-aiff.com/article/india-hold-off-bhutan-fightback-to-reach-saff-championship-final",
+    "https://khelnow.com/football/indian-football-saff-championship-2026-india-vs-bhutan-key-takeaways",
+    "https://theopenpress.in/article/india-beat-bhutan-2-1-saff-championship-final-november-17",
+    "https://pakera.pk/pakistan-beat-bangladesh-1-0-saff-championship-2026-semi-final-first-final-india/",
+    "https://www.sportsdunia.com/football-ratings/bangladesh-vs-pakistan-player-ratings-saff-championship-14th-november-2026",
+    "https://www.espn.com/soccer/match/_/gameId/401934183/pakistan-bangladesh"
+  ]
+}
