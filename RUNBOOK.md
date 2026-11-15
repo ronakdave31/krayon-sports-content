@@ -130,6 +130,27 @@ If Instagram rejects the raw.githubusercontent.com video link, retry once with t
 (and the same jsDelivr form for the cover). Log the reel's media id in posted.json as `reel_media_id`.
 For photo posts, the reel uses the text layout (no photo), so it can go out even if the post waits for a photo.
 
+## YouTube package (every reel)
+
+The same reel.mp4 is also posted to YouTube Shorts by Ronak himself (Windsor.ai can't upload to YouTube).
+Make it ready to upload:
+```bash
+python3 render_thumbs.py posts/<slug>/spec.json    # writes yt-thumbnail.jpg (1280x720)
+```
+Optional spec field `"thumb": {"title": "...", "sub": "...", "ghost": "..."}` sharpens the thumbnail when the
+hero line isn't the best hook (keep the title under ~8 words). Look at the thumbnail before sending it.
+
+Write `posts/<slug>/youtube.md` with:
+- **Title**: under 100 characters, the search words first (teams, players, tournament), ending in `#Shorts`
+- **Description**: 3 short paragraphs (what happened, why it matters, what's next), then
+  "Krayon Sports explains the stories, stats and money behind the game." and "Instagram: @krayon_sports",
+  then 3-5 hashtags including #Shorts
+- **Tags**: 6-10 comma-separated search phrases
+Same writing rules as captions: no comma before "and", no long dashes, facts only from the sources.
+
+Send youtube.md's text and yt-thumbnail.jpg with the preview, under a "For YouTube" heading, and remind him:
+for a Short, the cover is picked in the YouTube app; yt-thumbnail.jpg is for uploading it as a regular video.
+
 ## 6. Publish (only after "yes")
 
 Windsor.ai `execute_action`, connector `instagram`, account `17841463737212811`:
