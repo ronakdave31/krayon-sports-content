@@ -105,10 +105,14 @@ finished image here and reply yes. Or reply **graphic** and I'll switch it to th
 
 After the post renders, make its Reel from the same spec:
 ```bash
-python3 render_reel.py posts/<slug>/spec.json      # writes reel.mp4 + reel-cover.jpg
+python3 render_kinetic.py posts/<slug>/spec.json   # writes reel.mp4 + reel-cover.jpg
 ```
-The reel is 1080x1920, each slide is one animated scene, it ends on the Krayon Sports end card, and the
-soundtrack is an original beat synthesised by the script (never add licensed or trending music).
+The reel is the KINETIC format: visual news with motion graphics, 1080x1920. A 1 s sport-name hook, then
+each slide is a scene where headlines punch in word by word, numbers count up, bars grow and a sport visual
+(pitch, track, rings) draws itself behind the text; whip cuts on the beat, a progress bar and a news ticker;
+it ends on the Krayon Sports end card. The soundtrack is an original beat synthesised by the script
+(never add licensed or trending music). No viewer prompts or polls in reels: visual news only.
+(render_reel.py is the older, calmer format; use it only if Ronak asks for it.)
 Check it: pull 4-6 frames with ffmpeg (`-ss <t> -frames:v 1`) and look at them; ffprobe must show
 h264 + aac, 1080x1920, 30 fps, 5-90 s. Commit reel.mp4 and reel-cover.jpg with the post.
 
