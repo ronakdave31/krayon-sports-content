@@ -1,0 +1,85 @@
+{
+  "slug": "2026-11-15-pm-ipl-trade-pay-cuts",
+  "tag": "SPORTS BUSINESS",
+  "sport": "business",
+  "series": "21 / THE MONEY",
+  "slides": [
+    {
+      "type": "hero",
+      "kicker": "IPL 2027 · THE TRADE WINDOW",
+      "grey": "Rs 27 crore at Lucknow.",
+      "white": "Rs 15 crore at Delhi. Pant took the cut.",
+      "sub": "Four trades. Three big names moved for less.",
+      "facts": [
+        [
+          "Rs 12 cr",
+          "Pant's pay cut"
+        ],
+        [
+          "Rs 18 cr",
+          "Hardik's new fee"
+        ]
+      ]
+    },
+    {
+      "type": "bars",
+      "kicker": "OLD FEE TO NEW FEE",
+      "title": "Three cuts. One raise.",
+      "rows": [
+        [
+          "Pant",
+          "LSG to DC · 27 to 15",
+          12,
+          "-12 cr"
+        ],
+        [
+          "Livingstone",
+          "SRH to CSK · 13 to 6",
+          7,
+          "-7 cr"
+        ],
+        [
+          "Natarajan",
+          "DC to SRH · 10.75 to 5",
+          5.75,
+          "-5.75 cr"
+        ],
+        [
+          "Hardik",
+          "MI to PBKS · 16.35 to 18",
+          1.65,
+          "+1.65 cr"
+        ]
+      ],
+      "highlight_first": true,
+      "note": "Fees in Rs crore, per IPL trade announcements"
+    },
+    {
+      "type": "stat",
+      "kicker": "THE BIG RAISE",
+      "big": "Rs 18 cr",
+      "body": "Hardik Pandya's new fee at Punjab Kings, up from Rs 16.35 crore at Mumbai. Arshdeep Singh goes the other way at his existing Rs 18 crore.",
+      "note": "The BCCI confirmed the swap on November 11."
+    },
+    {
+      "type": "text",
+      "kicker": "WHAT IT MEANS",
+      "title": "A trade resets the price",
+      "bullets": [
+        "Pant goes back to Delhi, where he played from 2016 to 2024",
+        "Kuldeep Yadav joins Lucknow at his existing Rs 13.5 crore",
+        "Lower fees leave buying teams more purse for the Goa auction"
+      ],
+      "question": "Pant's cut or Hardik's raise: which trade wins IPL 2027?",
+      "footnote": "Retention lists due Nov 17 (reported). Mini-auction in Goa on Dec 16."
+    }
+  ],
+  "concept": "A sports business 'follow the money' carousel on the IPL 2027 trade window, two days before retention lists are due. The hero sets two fees against each other: Pant's Rs 27 crore at Lucknow greyed out, his Rs 15 crore at Delhi in bright white, so the pay cut is the story before you read a word. Slide 2 turns the old-fee-to-new-fee gap into gold bars, with Pant's Rs 12 crore cut lit up. Slide 3 flips it with the big exception, Hardik Pandya's raise to Rs 18 crore in the Arshdeep swap. Slide 4 explains what the cuts mean for purses before the Goa auction and asks fans to pick the winning trade. Business gold, type and numbers only: no player photos, no team logos.",
+  "caption": "Pant took a Rs 12 crore pay cut to go home.\n\nLucknow paid a record Rs 27 crore for Rishabh Pant before IPL 2025. He is back at Delhi Capitals for IPL 2027 at a revised Rs 15 crore, with Kuldeep Yadav moving to Lucknow at his existing Rs 13.5 crore.\n\nHe is not alone. Liam Livingstone moves from SRH to CSK at Rs 6 crore (down from Rs 13 crore). T Natarajan returns to SRH at Rs 5 crore (down from Rs 10.75 crore).\n\nThe big raise: Hardik Pandya joins Punjab Kings at Rs 18 crore, up from Rs 16.35 crore at Mumbai, with Arshdeep Singh going the other way at Rs 18 crore.\n\nLower fees mean more purse left for the mini-auction in Goa on December 16. Retention lists are reportedly due November 17.\n\nPant's cut or Hardik's raise: which trade wins IPL 2027? Tell us below.\n\nFees via the BCCI statement reported by India.com, Willow Sports and CREX.\n\n#KrayonSports #IPL2027 #IPLTrade #RishabhPant #HardikPandya #SportsBusiness",
+  "sources": [
+    "https://www.india.com/sports/cricket/ipl-2027-hardik-pandya-and-arshdeep-singh-trade-between-mi-and-pbks-officially-completed-8543806/",
+    "https://sports.yahoo.com/articles/ipl-2027-trades-far-rishabh-103000922.html",
+    "https://crex.com/cricket-listicles/list-of-all-player-trades-in-ipl-2027-6af717e0525603a2aa21c74d",
+    "https://www.cricketnews.com/en/cricket/news/ipl-2027-retention-deadline-date-retained-players-mini-auction/7cdc39d5a9eddc5c2dc37629"
+  ]
+}
