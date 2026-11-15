@@ -354,16 +354,17 @@
     "sport": "business",
     "headline": "Rs 27 crore at Lucknow. Rs 15 crore at Delhi. Pant took the cut.",
     "format": "carousel",
-    "status": "pending",
+    "status": "partial: reel live, carousel retrying (Instagram rate limit)",
     "created": "2026-11-15T17:14:05Z",
     "published": null,
     "media_id": null,
-    "reel_media_id": null,
+    "reel_media_id": "18140249356647999",
     "sources": [
       "https://www.india.com/sports/cricket/ipl-2027-hardik-pandya-and-arshdeep-singh-trade-between-mi-and-pbks-officially-completed-8543806/",
       "https://sports.yahoo.com/articles/ipl-2027-trades-far-rishabh-103000922.html",
       "https://crex.com/cricket-listicles/list-of-all-player-trades-in-ipl-2027-6af717e0525603a2aa21c74d",
       "https://www.cricketnews.com/en/cricket/news/ipl-2027-retention-deadline-date-retained-players-mini-auction/7cdc39d5a9eddc5c2dc37629"
-    ]
+    ],
+    "reel_published": "2026-11-15T17:22:44Z"
   }
 ]
