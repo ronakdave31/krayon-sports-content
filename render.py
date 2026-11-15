@@ -87,6 +87,10 @@ def wrap(text, font, size, maxw, ls=0.0):
 class Canvas:
     def __init__(self):
         self.parts = []
+        self.marks = []   # (index into parts, layer name) - used by the reel renderer to animate pieces
+
+    def mark(self, name):
+        self.marks.append((len(self.parts), name))
 
     def add(self, s):
         self.parts.append(s)
@@ -135,19 +139,24 @@ def kicker(c, text, y):
 
 def slide_hero(c, s):
     y = 300
+    c.mark("kicker")
     if s.get("kicker"):
         y = kicker(c, s["kicker"], 300) + 10
     if s.get("grey"):
+        c.mark("grey")
         last, _, size = c.fit_block(s["grey"], BOLD, 100, 64, 2, y, MUTED)
         y = last + size * 0.3
+    c.mark("white")
     last, end, size = c.fit_block(s["white"], BOLD, 120 if not s.get("grey") else 100, 64, 3, y, WHITE)
     dot_after(c, end, last, size)
     y = last + 80
     if s.get("sub"):
+        c.mark("sub")
         y, _ = c.block(s["sub"], REG, 32, y, GREY, 1.3)
         y += 40
     facts = s.get("facts") or []
     if facts:
+        c.mark("facts")
         fy = max(y + 30, 1000)
         c.add(f'<rect x="{X0}" y="{fy-70}" width="{XMAX-X0}" height="2" fill="{LINE}"/>')
         colw = (XMAX - X0) / len(facts)
@@ -160,42 +169,54 @@ def slide_hero(c, s):
 
 
 def slide_stat(c, s):
+    c.mark("kicker")
     y = kicker(c, s.get("kicker", ""), 300) if s.get("kicker") else 300
     size = 220
     while size > 90 and measure(s["big"], BOLD, size, -0.04 * size) > XMAX - X0:
         size -= 6
+    c.mark("big")
     end = c.text(s["big"], BOLD, size, X0 - 8, y + size * 0.78, WHITE, ls=-0.04 * size)
     if s.get("dot", True):
         dot_after(c, end, y + size * 0.78, size * 0.6)
     y = y + size * 0.78 + 90
+    c.mark("body")
     y, _ = c.block(s["body"], BOLD, 50, y, WHITE, 1.22, ls=-1)
     y += 90
     if s.get("note"):
+        c.mark("note")
         y, _ = c.block(s["note"], REG, 36, y, GREY, 1.35)
     return y
 
 
 def slide_text(c, s):
+    c.mark("kicker")
     y = kicker(c, s["kicker"], 300) if s.get("kicker") else 300
+    c.mark("title")
     last, end, size = c.fit_block(s["title"], BOLD, 92, 60, 3, y, WHITE)
     y = last + 90
-    for b in s.get("bullets", []):
+    for bi, b in enumerate(s.get("bullets", [])):
+        c.mark(f"bullet{bi}")
         y, _ = c.block("• " + b, REG, 36, y, OFF, 1.3)
         y += 56
     if s.get("question"):
+        c.mark("question")
         y += 30
         y, _ = c.block(s["question"], BOLD, 46, y, WHITE, 1.22)
         y += 50
     if s.get("footnote"):
+        c.mark("footnote")
         c.block(s["footnote"], REG, 22, max(y + 10, 1110), MUTED, 1.3)
     return y
 
 
 def slide_bars(c, s):
+    c.mark("kicker")
     y = kicker(c, s["kicker"], 280) if s.get("kicker") else 280
+    c.mark("title")
     last, _, size = c.fit_block(s["title"], BOLD, 84, 56, 2, y, WHITE)
     y = last + 60
     if s.get("sub"):
+        c.mark("sub")
         y, _ = c.block(s["sub"], REG, 30, y + 10, GREY, 1.3)
         y += 30
     rows = s["rows"]
@@ -210,6 +231,7 @@ def slide_bars(c, s):
         ys.append(ry)
         w = max(8, bmax * val / vmax)
         champ = hl and i == 0
+        c.mark(f"row{i}")
         c.text(name.upper(), BOLD, 26, X0, ry + 22, WHITE if champ else "#d8d6cf", ls=2)
         if sub:
             c.text(sub, REG, 20, X0, ry + 50, MUTED)
@@ -222,6 +244,7 @@ def slide_bars(c, s):
             c.text(label, BOLD, 26, bx + w + 16, ry + 27, "#d8d6cf")
     br = s.get("bracket")
     if br:
+        c.mark("bracket")
         top, bot = ys[br["from"]] - 6, ys[br["to"]] + 40
         col = COLOURS.get(c.sport, ACCENT)
         c.add(f'<path d="M{XMAX-4},{top} H{XMAX+10} V{bot} H{XMAX-4}" fill="none" stroke="{col}" stroke-width="3"/>')
@@ -230,6 +253,7 @@ def slide_bars(c, s):
             c.text(br["sub"], REG, 20, XMAX - 10, (top + bot) / 2 + 26, GREY, anchor="end")
     y = ys[-1] + 80
     if s.get("note"):
+        c.mark("note")
         c.text(s["note"].upper(), REG, 24, X0, max(y + 20, 1100), MUTED, ls=4)
     return y
 
@@ -252,6 +276,7 @@ def slide_photo(c, s):
         y += 10
     dy = 1120 - y
     c.parts[start:] = [f'<g transform="translate(0 {dy:.0f})">' + "".join(c.parts[start:]) + "</g>"]
+    c.marks = [m for m in c.marks if m[0] < start] + [(start, "content")]
     if dy < 360:
         print("WARNING photo slide: text block is tall and covers most of the photo - shorten it", file=sys.stderr)
     if s.get("credit"):
