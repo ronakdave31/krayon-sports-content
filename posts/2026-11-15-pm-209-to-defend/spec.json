@@ -1,0 +1,89 @@
+{
+  "slug": "2026-11-15-pm-209-to-defend",
+  "tag": "CRICKET",
+  "sport": "cricket",
+  "series": "18 / THE SETUP",
+  "slides": [
+    {
+      "type": "hero",
+      "kicker": "NZ vs INDIA · 5TH ODI · SERIES DECIDER",
+      "grey": "Rohit 7. Kohli 5.",
+      "white": "India have 209 to defend for the series.",
+      "sub": "All out in 42.1 overs. New Zealand need 210 to level it 2-2.",
+      "facts": [
+        [
+          "2-1",
+          "India's series lead"
+        ],
+        [
+          "0",
+          "Indian fifties today"
+        ]
+      ]
+    },
+    {
+      "type": "bars",
+      "kicker": "WHERE THE RUNS CAME FROM",
+      "title": "Two 46s held it together",
+      "rows": [
+        [
+          "Axar",
+          "55 balls",
+          46
+        ],
+        [
+          "Kishan",
+          "58 balls",
+          46
+        ],
+        [
+          "Iyer",
+          "26 balls",
+          22
+        ],
+        [
+          "Dhir",
+          "31 balls",
+          22
+        ],
+        [
+          "Gaikwad",
+          "27 balls",
+          18
+        ],
+        [
+          "Rohit",
+          "13 balls",
+          7
+        ],
+        [
+          "Kohli",
+          "7 balls",
+          5
+        ]
+      ],
+      "highlight_first": false,
+      "note": "Top three combined: 30 runs"
+    },
+    {
+      "type": "text",
+      "kicker": "HOW IT FELL APART",
+      "title": "34/3 inside nine overs",
+      "bullets": [
+        "Matthew Fisher removed Rohit and Kohli, Jacob Duffy got Gaikwad",
+        "Mitchell Santner's 3/47 in 10 overs choked the middle order",
+        "From 121/5, the tail and Kishan dragged it to 209"
+      ],
+      "question": "Is 209 enough to win India the series?"
+    }
+  ],
+  "concept": "A mid-match setup post built on contrast. The hero greys out the two biggest names' scores (Rohit 7, Kohli 5) and puts the number that matters in bright white: 209 to defend for the series. Slide 2 is a bar chart of India's scorecard, so you can see at a glance that the innings leaned on two 46s from Axar and Kishan while the top three made 30 between them. Slide 3 explains the collapse (34/3 inside nine overs) and hands the question to fans while the chase is still live. Cricket blue tag, type and data only: no player photos, no board or team logos.",
+  "caption": "Rohit 7. Kohli 5. India 209 all out.\n\nThat's all India have to defend in the series decider at Bay Oval. New Zealand won their first toss of the tour, chose to bowl, and had India 34/3 inside nine overs: Matthew Fisher removed Rohit and Kohli, Jacob Duffy got Gaikwad.\n\nAxar Patel and Ishan Kishan made 46 each. No Indian reached fifty. Mitchell Santner (3/47) and Duffy (3/60) finished the job in 42.1 overs.\n\nIndia lead the series 2-1. Defend 210 and it's 3-1. Lose and New Zealand share it 2-2.\n\nIs 209 enough? Tell us below.\n\nScores via IANS, myKhel and India.com.\n\n#KrayonSports #INDvNZ #TeamIndia #CricketTwitter #ODICricket",
+  "sources": [
+    "https://telanganatoday.com/india-bowled-out-for-209-against-new-zealand-in-fifth-odi-as-santner-duffy-take-three-wickets-each",
+    "https://www.mykhel.com/cricket/ind-vs-nz-5th-odi-india-bundle-out-for-209-as-rohit-sharma-virat-kohli-fail-yet-again-in-series-f-459029.html",
+    "https://www.india.com/sports/cricket/ind-vs-nz-5th-odi-axar-patels-46-run-innings-helps-india-post-209-against-new-zealand-8545028/",
+    "https://www.indiatvnews.com/sports/cricket/ind-vs-nz-5th-odi-live-score-india-look-to-bounce-back-after-defeat-in-previous-bout-1059481",
+    "https://newskarnataka.com/sports/india-vs-new-zealand-5th-odi-series-decider-in-mount-maunganui/15112026/"
+  ]
+}
