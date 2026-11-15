@@ -1,0 +1,88 @@
+{
+  "slug": "2026-11-15-pm-odi-decider-result",
+  "tag": "CRICKET",
+  "sport": "cricket",
+  "series": "19 / THE BREAKDOWN",
+  "slides": [
+    {
+      "type": "hero",
+      "kicker": "NZ vs INDIA · 5TH ODI · RESULT",
+      "grey": "209 didn't look enough.",
+      "white": "India defended it. Series won 3-1.",
+      "sub": "New Zealand all out for 187 in 48.1 overs. India win by 22 runs.",
+      "facts": [
+        [
+          "22",
+          "runs, the winning margin"
+        ],
+        [
+          "3-1",
+          "ODI series to India"
+        ]
+      ]
+    },
+    {
+      "type": "stat",
+      "kicker": "THE SQUEEZE",
+      "big": "131/6",
+      "body": "New Zealand after 35 overs, needing 79 from the last 15. India never let the chase breathe.",
+      "note": "At 94/4 in the 27th over, one live tracker still had New Zealand as 64% favourites."
+    },
+    {
+      "type": "bars",
+      "kicker": "WHO TOOK THE 10",
+      "title": "Six bowlers, ten wickets",
+      "rows": [
+        [
+          "Arshdeep",
+          "3/30",
+          3
+        ],
+        [
+          "Siraj",
+          "bowled Finn Allen",
+          2
+        ],
+        [
+          "Axar",
+          "took the last two",
+          2
+        ],
+        [
+          "Dhir",
+          "got Santner",
+          1
+        ],
+        [
+          "Nabi",
+          "",
+          1
+        ],
+        [
+          "Thakur",
+          "maiden ODI wicket",
+          1
+        ]
+      ],
+      "highlight_first": true
+    },
+    {
+      "type": "text",
+      "kicker": "HOW IT CLOSED",
+      "title": "The tail never got going",
+      "bullets": [
+        "Naman Dhir broke a 39-run stand by removing Santner for 24 in the 41st over",
+        "Arshdeep got Clarke two overs later",
+        "Axar finished it: Duffy caught by Kohli, then Tickner"
+      ],
+      "question": "Arshdeep or Axar: who won India the decider?"
+    }
+  ],
+  "concept": "A 'why it happened' follow-up to this afternoon's '209 to defend' post, so the two read as a pair on the grid. The hero greys out the doubt from earlier (209 didn't look enough) and answers it in bright white (India defended it, series won 3-1). Slide 2 isolates the moment the chase died: 131/6 after 35 overs, with the live-tracker 64% as the twist. Slide 3 turns the scorecard into a wicket bar chart, with Arshdeep's 3/30 lit up as the lead, to show six bowlers shared the job. Slide 4 walks through the last four wickets and asks fans to pick a hero. Cricket blue tag, type and data only: no player photos, no logos.",
+  "caption": "209 was enough. Series won 3-1.\n\nThis afternoon we asked if 209 could win India the series. It did. New Zealand were bowled out for 187 in 48.1 overs and India won the decider at Bay Oval by 22 runs.\n\nThe squeeze: New Zealand were 131/6 after 35 overs, needing 79 from the last 15. Naman Dhir removed Santner, Arshdeep got Clarke, and Axar Patel took the last two.\n\nArshdeep led the attack with 3/30. Siraj and Axar took two each, and debutant Yash Thakur picked up his first ODI wicket.\n\nArshdeep or Axar: who won India the decider? Tell us below.\n\nMatch details via Udaipur Kiran, Daily Jagran and CREX.\n\n#KrayonSports #INDvNZ #TeamIndia #Arshdeep #ODICricket",
+  "sources": [
+    "https://udaipurkiran.com/india-clinches-odi-series-against-new-zealand/",
+    "https://www.thedailyjagran.com/cricket/news/ind-vs-nz-5th-odi-yash-thakur-india-vs-new-zealand-maiden-odi-wicket-fast-bowlers-script-stunning-comeback-win-to-seal-series-10336375",
+    "https://crex.com/cricket-live-score/ind-vs-nz-5th-odi-india-tour-of-new-zealand-2026-match-updates-12JL"
+  ]
+}
