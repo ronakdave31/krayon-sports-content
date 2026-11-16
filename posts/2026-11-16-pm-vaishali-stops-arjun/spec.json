@@ -1,0 +1,113 @@
+{
+  "slug": "2026-11-16-pm-vaishali-stops-arjun",
+  "tag": "CHESS",
+  "sport": "indian",
+  "series": "25 / THE BREAKDOWN",
+  "slides": [
+    {
+      "type": "hero",
+      "kicker": "TOTAL CHESS · BUDAPEST · GROUP D",
+      "grey": "Arjun led the group with one game to go.",
+      "white": "Vaishali, in last place, beat him.",
+      "sub": "That loss on Day 5 cost Arjun Erigaisi a place in the four-player title knockout.",
+      "facts": [
+        [
+          "16",
+          "Arjun's points: 3rd on tie-break"
+        ],
+        [
+          "7",
+          "Vaishali's points: 6th"
+        ]
+      ]
+    },
+    {
+      "type": "bars",
+      "kicker": "GROUP D · FINAL TABLE",
+      "title": "Only first place plays for the title",
+      "rows": [
+        [
+          "MVL",
+          "France",
+          17,
+          "17"
+        ],
+        [
+          "Niemann",
+          "USA",
+          16,
+          "16"
+        ],
+        [
+          "Arjun",
+          "India",
+          16,
+          "16"
+        ],
+        [
+          "So",
+          "USA",
+          13,
+          "13"
+        ],
+        [
+          "Bibisara",
+          "Kazakhstan",
+          10,
+          "10"
+        ],
+        [
+          "Vaishali",
+          "India",
+          7,
+          "7"
+        ]
+      ],
+      "note": "Win 3 pts, draw 1. Ties: opening blitz rank.",
+      "highlight_first": true
+    },
+    {
+      "type": "text",
+      "kicker": "HOW IT SLIPPED",
+      "title": "One game, two swings",
+      "bullets": [
+        "Game 1 of the day: Arjun beat Vaishali in 60 moves to go top on 16",
+        "Then MVL beat Bibisara, so only a win would do",
+        "Move 24: Qa7 instead of Nxf4, and Vaishali took over, low on time",
+        "Move 47: Qf6 lost a piece. Arjun resigned on move 61"
+      ]
+    },
+    {
+      "type": "stat",
+      "kicker": "NOT JUST ARJUN",
+      "big": "0",
+      "body": "Indians in the title semi-finals. Praggnanandhaa finished last in Group B. Magnus Carlsen didn't win a single group game either.",
+      "note": "Format: 24 players, four groups, fast classical at 45 min + 30 sec."
+    },
+    {
+      "type": "text",
+      "kicker": "WHAT'S NEXT",
+      "title": "Semis: Nov 17-18",
+      "bullets": [
+        "Title semis: MVL vs Giri, Firouzja vs Caruana",
+        "Arjun plays Jorden van Foreest in the 9th-12th place bracket",
+        "Vaishali plays Abhimanyu Mishra for 21st-24th",
+        "Finals on Nov 19-20"
+      ],
+      "question": "One loss and you're out. Too harsh?"
+    }
+  ],
+  "thumb": {
+    "title": "Last place knocked out the leader",
+    "sub": "Vaishali vs Arjun Erigaisi",
+    "ghost": "61"
+  },
+  "concept": "The story is an upset at the very last hurdle, so the hero is built as a setup and a sting: 'Arjun led the group with one game to go' sits in muted grey and 'Vaishali, in last place, beat him' lands in white, with the two point totals (16 and 7) that show how unlikely it was. Slide 2 is the final Group D table as bars, with only the top bar lit, because the whole drama is that just one player goes through and 16 points ended up third on tie-break. Slide 3 walks through the two swings of the day move by move, slide 4 widens out with a big 0 (Indians left in the title semis) and slide 5 sets up what's next and asks fans whether the format is too harsh. Indian-sports orange, type only: no player photos and no event or federation logos.",
+  "caption": "Last place beat the group leader. And it cost India its best title shot in Budapest.\n\nArjun Erigaisi went into the final game of the Total Chess group stage on top of Group D. He had just beaten R Vaishali. Then Vachier-Lagrave won, so Arjun needed a win to finish first. Instead Vaishali, bottom of the group, outplayed him with about a minute on her clock and Arjun resigned on move 61.\n\nArjun finished on 16 points, level with Hans Niemann but third on tie-break. Only group winners play for the title, so no Indian is left in the four-player title knockout. Praggnanandhaa finished last in Group B and Magnus Carlsen went winless in the group stage.\n\nOne loss and you're out of the title race. Too harsh, or exactly why this format is exciting? Tell us below.\n\nGame details and tables via ChessBase India and the Total Chess site.\n\n#KrayonSports #Chess #ArjunErigaisi #Vaishali #TotalChess #IndianSports",
+  "sources": [
+    "https://chessbase.in/news/total-chess-pilot-2026-day-5-vaishali-stuns-arjun-erigaisi",
+    "https://www.totalchess.com/tournaments/budapest-2026/knockout",
+    "https://en.wikipedia.org/wiki/Total_Chess_World_Championship_2026",
+    "https://www.careerindia.com/news/school-assembly-news-headlines-today-november-16-2026-national-international-education-sports-068703.html"
+  ]
+}
