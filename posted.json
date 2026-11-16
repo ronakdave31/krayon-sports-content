@@ -367,5 +367,22 @@
     ],
     "reel_published": "2026-11-15T17:22:44Z",
     "note": "Reel via Windsor.ai; carousel posted manually by Ronak after Instagram rate limit (no media id logged)"
+  },
+  {
+    "slug": "2026-11-16-am-portugal-after-ronaldo",
+    "series": 22,
+    "sport": "football",
+    "headline": "Ronaldo retired. Game one without him: Portugal 1, Denmark 4.",
+    "format": "carousel",
+    "status": "pending",
+    "created": "2026-11-16T04:14:51+00:00",
+    "published": null,
+    "media_id": null,
+    "reel_media_id": null,
+    "sources": [
+      "https://www.aljazeera.com/sports/2026/11/14/ronaldo-less-portugal-thrashed-4-1-by-denmark-in-the-nations-league",
+      "https://malaysia.news.yahoo.com/portugal-humbled-first-game-since-220543680.html",
+      "https://thefalse9.com/2026/11/portugal-denmark-4-1-first-game-since-ronaldo-retired-14-november.html"
+    ]
   }
 ]

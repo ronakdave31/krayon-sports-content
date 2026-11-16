@@ -1,0 +1,69 @@
+{
+  "slug": "2026-11-16-am-portugal-after-ronaldo",
+  "tag": "FOOTBALL",
+  "sport": "football",
+  "series": "22 / THE BREAKDOWN",
+  "slides": [
+    {
+      "type": "hero",
+      "kicker": "NATIONS LEAGUE · BRAGA · NOV 14",
+      "grey": "Ronaldo retired.",
+      "white": "Game one without him: Portugal 1, Denmark 4.",
+      "sub": "His farewell night became a home thrashing.",
+      "facts": [
+        [
+          "146",
+          "Ronaldo's goals for Portugal"
+        ],
+        [
+          "4",
+          "Goals Denmark scored in Braga"
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "kicker": "HOW IT FELL APART",
+      "title": "Four goals in 32 minutes",
+      "bullets": [
+        "43' Hojbjerg penalty after a Ruben Dias handball",
+        "49' Hojlund volley",
+        "57' Hojlund skips past Dias and scores",
+        "75' Andersen header",
+        "90+3' Bernardo Silva, far too late"
+      ],
+      "footnote": "Portugal 1, Denmark 4. Braga, November 14."
+    },
+    {
+      "type": "stat",
+      "kicker": "THE TRIBUTE",
+      "big": "7",
+      "body": "Every Portugal player and mascot wore a Ronaldo 7 shirt before kick-off. Then the No. 7 went to Carlos Forbs.",
+      "note": "Ronaldo announced his retirement in a video on November 5."
+    },
+    {
+      "type": "text",
+      "kicker": "WHAT IT MEANS",
+      "title": "One bad night, or a new era?",
+      "bullets": [
+        "Portugal won their first four group games and are already in the quarter-finals",
+        "Avoid defeat in Cardiff against Wales on Nov 17 and they win the group",
+        "Denmark host Norway the same night: a draw takes them through"
+      ],
+      "question": "Can Portugal win big without Ronaldo?",
+      "footnote": "Per Al Jazeera, BBC Sport via Yahoo and The False 9."
+    }
+  ],
+  "thumb": {
+    "title": "Portugal's first game without Ronaldo",
+    "sub": "Portugal 1, Denmark 4",
+    "ghost": "1-4"
+  },
+  "concept": "A 'first night after' carousel. The hero puts the cause and the effect on one card: 'Ronaldo retired.' sits in muted grey as the past while the result 'Portugal 1, Denmark 4' lands in bright white as the present, so the story reads in one glance. Slide 2 is a minute-by-minute collapse, four Denmark goals in 32 minutes, written like a match log. Slide 3 makes one giant '7' the visual, the shirt number the whole stadium wore before kick-off and then handed to someone new. Slide 4 turns to what it means for the quarter-finals and asks fans if Portugal can win big without him. Football green, type and numbers only: no player photos, no crests.",
+  "caption": "Ronaldo retired. Portugal lost 4-1 at home.\n\nPortugal's first game since Cristiano Ronaldo quit international football ended Portugal 1, Denmark 4 in Braga on Saturday.\n\nBefore kick-off every player and mascot wore a Ronaldo 7 shirt. The fans held up a \"thank you, captain\" banner. Then Denmark took over: Hojbjerg scored a penalty after a Ruben Dias handball, Rasmus Hojlund scored twice and Joachim Andersen headed in a fourth. Bernardo Silva's goal came in the 93rd minute.\n\nRonaldo leaves with 146 goals in 234 games, both men's international records.\n\nPortugal are already in the Nations League quarter-finals. Avoid defeat against Wales in Cardiff on Tuesday and they win the group.\n\nCan Portugal win big without Ronaldo? Tell us below.\n\nFacts via Al Jazeera, BBC Sport and The False 9.\n\n#KrayonSports #Ronaldo #Portugal #NationsLeague #Football",
+  "sources": [
+    "https://www.aljazeera.com/sports/2026/11/14/ronaldo-less-portugal-thrashed-4-1-by-denmark-in-the-nations-league",
+    "https://malaysia.news.yahoo.com/portugal-humbled-first-game-since-220543680.html",
+    "https://thefalse9.com/2026/11/portugal-denmark-4-1-first-game-since-ronaldo-retired-14-november.html"
+  ]
+}
