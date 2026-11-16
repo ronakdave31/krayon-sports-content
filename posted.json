@@ -374,15 +374,16 @@
     "sport": "football",
     "headline": "Ronaldo retired. Game one without him: Portugal 1, Denmark 4.",
     "format": "carousel",
-    "status": "pending",
+    "status": "published",
     "created": "2026-11-16T04:14:51+00:00",
-    "published": null,
+    "published": "2026-11-16T04:41:06+00:00",
     "media_id": null,
-    "reel_media_id": null,
+    "reel_media_id": "17890967016653076",
     "sources": [
       "https://www.aljazeera.com/sports/2026/11/14/ronaldo-less-portugal-thrashed-4-1-by-denmark-in-the-nations-league",
       "https://malaysia.news.yahoo.com/portugal-humbled-first-game-since-220543680.html",
       "https://thefalse9.com/2026/11/portugal-denmark-4-1-first-game-since-ronaldo-retired-14-november.html"
-    ]
+    ],
+    "note": "Reel published with share_to_feed. Carousel failed: Instagram 'Application request limit reached'; retry was not run. Slides at commit 797c328 if posting manually."
   }
 ]
