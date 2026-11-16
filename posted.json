@@ -417,9 +417,9 @@
   "sport": "business",
   "headline": "Last Champions Trophy at home: 2006. Next one: India, October 2029.",
   "format": "carousel",
-  "status": "pending",
+  "status": "published",
   "created": "2026-11-16T12:19:34Z",
-  "published": null,
+  "published": "2026-11-16T12:25:23+00:00",
   "media_id": null,
   "sources": [
    "https://www.tribuneindia.com/news/cricket/india-to-host-2029-champions-trophy-co-host-2031-odi-world-cup-icc-unveils-calendar-till-2035",
@@ -427,6 +427,8 @@
    "https://sports.yahoo.com/articles/icc-tournaments-india-host-2028-145943335.html",
    "https://thekashmirimages.com/2026/11/15/icc-finalises-window-for-major-events-until-2035-india-to-host-2029-ct-and-2031-odi-wc/",
    "https://newsonair.gov.in/india-to-host-2029-champions-trophy-co-host-odi-world-cup-in-2031/"
-  ]
+  ],
+  "reel_media_id": "18643797208052357",
+  "note": "Reel published with share_to_feed. Carousel failed twice: Instagram 'Application request limit reached' (retried after 90 s). Slides at commit 2ab0eef if posting manually."
  }
 ]
