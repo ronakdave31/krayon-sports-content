@@ -392,9 +392,9 @@
     "sport": "cricket",
     "headline": "Now the Tests. India have won 2 Test series in NZ. Ever.",
     "format": "carousel",
-    "status": "pending",
+    "status": "published",
     "created": "2026-11-16T08:32:08Z",
-    "published": null,
+    "published": "2026-11-16T08:36:35+00:00",
     "media_id": null,
     "sources": [
       "https://sports.yahoo.com/articles/india-vs-zealand-1st-test-101500092.html",
@@ -407,6 +407,8 @@
       "https://www.deccanchronicle.com/140218/sports-cricket/article/new-zealand-vs-india-kohli-ton-draws-match-nz-win-series-1-0",
       "https://www.onmanorama.com/sports/cricket/2020/03/02/india-new-zealand-christchurch-test-series-win.html",
       "https://www.easternmirrornagaland.com/nz-thrash-india-in-christchurch-test-clinch-series-2-0"
-    ]
+    ],
+    "reel_media_id": "18345008905274437",
+    "note": "Reel published with share_to_feed. Carousel failed twice: Instagram 'Application request limit reached' (retried after 90 s). Slides at commit 162b28f if posting manually."
   }
 ]
