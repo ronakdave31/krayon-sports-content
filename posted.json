@@ -1,414 +1,432 @@
 [
-  {
-    "slug": "2026-11-11-launch",
-    "series": 1,
-    "sport": "other",
-    "headline": "Scores tell you who won. We tell you why.",
-    "format": "single",
-    "status": "published",
-    "created": "2026-11-11",
-    "published": "2026-11-11",
-    "media_id": null,
-    "sources": []
-  },
-  {
-    "slug": "2026-11-11-pkl-skips-2026",
-    "series": 2,
-    "sport": "indian",
-    "headline": "No Pro Kabaddi this year",
-    "format": "carousel",
-    "status": "published",
-    "created": "2026-11-11",
-    "published": "2026-11-11",
-    "media_id": null,
-    "sources": [
-      "https://khelnow.com/kabaddi/pkl-13-not-in-2026-likely-june-july-2027",
-      "https://www.outlookindia.com/sports/others/pro-kabaddi-league-return-2027-broadcast-deal-delay-report"
-    ]
-  },
-  {
-    "slug": "2026-11-11-ipl-auction-goa",
-    "series": 3,
-    "sport": "cricket",
-    "headline": "The IPL auction is coming home",
-    "format": "single",
-    "status": "published",
-    "created": "2026-11-11",
-    "published": "2026-11-12",
-    "media_id": null,
-    "sources": [
-      "https://www.crictracker.com/cricket-news/ipl-2027-auction-to-be-held-on-december-16-in-goa-7060/",
-      "https://www.mykhel.com/cricket/ipl-2027-auction-bcci-gives-huge-update-on-mini-auction-date-and-venue-revealed-ipl-news-454247.html"
-    ]
-  },
-  {
-    "slug": "2026-11-12-f1-fight-for-p2",
-    "series": 4,
-    "sport": "f1",
-    "headline": "The title is done. The fight isn't.",
-    "format": "single",
-    "status": "published",
-    "created": "2026-11-12",
-    "published": "2026-11-12",
-    "media_id": null,
-    "sources": [
-      "https://www.crash.net/f1/news/1110014/1/new-f1-championship-standings-after-brazil-grand-prix"
-    ]
-  },
-  {
-    "slug": "2026-11-12-am-saff-two-indias",
-    "series": 5,
-    "sport": "football",
-    "headline": "India's seniors are in New Zealand. Their back-ups topped the group.",
-    "format": "carousel",
-    "status": "published",
-    "created": "2026-11-12T04:57:31+00:00",
-    "published": "2026-11-12T04:58:55+00:00",
-    "media_id": "18040445339892614",
-    "sources": [
-      "https://khelnow.com/football/indian-football-saff-championship-2026-india-vs-maldives-match-report",
-      "https://www.outlookindia.com/sports/football/india-vs-maldives-live-score-saff-championship-2026-commentary-match-latest-updates",
-      "https://theawayend.co/2026/11/11/saff-championship-2026-group-b-india-defeat-maldives-1-0-reach-semis/",
-      "https://en.prothomalo.com/sports/football/aj0opek1gb"
-    ]
-  },
-  {
-    "slug": "2026-11-12-pm-ipl-12-teams",
-    "series": 6,
-    "sport": "business",
-    "headline": "10 teams today. Two more could join in 2028.",
-    "format": "carousel",
-    "status": "published",
-    "created": "2026-11-12T08:14:35+00:00",
-    "published": "2026-11-12T08:17:49+00:00",
-    "media_id": "17950564089068495",
-    "sources": [
-      "https://www.businesstoday.in/sports/ipl/story/two-new-ipl-teams-from-2028-pune-vadodara-seen-as-frontrunners-new-franchises-could-cost-over-rs8000-crore-each-566968-2026-11-12",
-      "https://www.mykhel.com/cricket/ipl-2028-bcci-plans-12-team-league-pune-vadodara-emerge-as-potential-new-franchise-destinations-458631.html",
-      "https://www.freepressjournal.in/pune/pune-could-return-to-ipl-with-new-franchise-from-2028-heres-what-reports-say",
-      "https://en.wikipedia.org/wiki/2022_Indian_Premier_League"
-    ]
-  },
-  {
-    "slug": "2026-11-12-pm-niraj-la-quota",
-    "series": 7,
-    "sport": "indian",
-    "headline": "A bronze in Doha. A seat at LA 2028.",
-    "format": "carousel",
-    "status": "published",
-    "created": "2026-11-12T12:22:32+00:00",
-    "published": "2026-11-12T12:24:47+00:00",
-    "media_id": "18158798488577497",
-    "sources": [
-      "https://www.mykhel.com/more-sports/niraj-kumar-wins-50m-rifle-3-positions-bronze-secures-la-2028-olympic-quota-458695.html",
-      "https://www.dtnext.in/news/sports/rifle-shooter-niraj-kumar-secures-la-olympics-quota-with-bronze-in-mens-50m-3-position"
-    ]
-  },
-  {
-    "slug": "2026-11-12-pm-nz-one-win-away",
-    "series": 8,
-    "sport": "cricket",
-    "headline": "India can't lose this series. Tomorrow they can win it.",
-    "format": "carousel",
-    "status": "published",
-    "created": "2026-11-12T17:14:38+00:00",
-    "published": "2026-11-12T17:20:55+00:00",
-    "media_id": "18109050635343718",
-    "sources": [
-      "https://www.tribuneindia.com/news/sports/nz-vs-ind-4th-odi-new-zealand-look-to-avoid-series-defeat-as-iyer-set-for-odi-captaincy-debut/",
-      "https://www.newsbytesapp.com/news/sports/nz-vs-ind-mount-maunganui-odi-preview/story",
-      "https://www.outlookindia.com/sports/cricket/india-vs-new-zealand-3rd-odi-live-score-updates-highlights"
-    ]
-  },
-  {
-    "slug": "2026-11-13-pant-or-jurel",
-    "series": 9,
-    "sport": "cricket",
-    "headline": "Pant is fit. Now, who keeps?",
-    "format": "single",
-    "status": "published",
-    "created": "2026-11-13",
-    "published": "2026-11-13T03:19:16+00:00",
-    "media_id": "17969967612220393",
-    "sources": [
-      "https://www.aninews.in/news/sports/cricket/rishabh-pant-gets-bcci-coe8217s-fitness-clearance-leaves-for-new-zealand-ahead-of-test-series20261112164834",
-      "https://www.crictracker.com/cricket-news/rishabh-pant-departs-for-new-zealand-to-join-indias-test-squad-in-wellington-3577/",
-      "https://www.outlookindia.com/sports/cricket/rishabh-pant-injury-update-india-a-vs-new-zealand-a-3rd-unofficial-test-comeback-report"
-    ]
-  },
-  {
-    "slug": "2026-11-13-am-auckland-5-0",
-    "series": 10,
-    "sport": "football",
-    "headline": "New Zealand 5, India 0. It could have been worse.",
-    "format": "carousel",
-    "status": "published",
-    "created": "2026-11-13T04:13:35+00:00",
-    "published": "2026-11-13T04:20:19+00:00",
-    "media_id": "18486433912119963",
-    "sources": [
-      "https://www.mykhel.com/football/india-vs-new-zealand-blue-tigers-thrashed-as-oceanian-champions-put-five-goals-in-auckland-458759.html",
-      "https://sundayguardianlive.com/sports/india-vs-new-zealand-football-all-whites-thrash-blue-tigers-5-0-in-auckland-as-jesse-randall-scores-brace-international-friendly-highlights-321136/",
-      "https://www.india.com/sports/football/ind-vs-nz-new-zealand-thrash-india-5-0-in-auckland-friendly-blue-tigers-suffer-humiliating-defeat-8544365/",
-      "https://khelnow.com/football/indian-football-international-friendly-new-zealand-vs-india-player-ratings"
-    ]
-  },
-  {
-    "slug": "2026-11-13-pm-dakar-boxing-double",
-    "series": 11,
-    "sport": "indian",
-    "headline": "16 years. Zero boxing golds. Then two in one day.",
-    "format": "carousel",
-    "status": "published",
-    "created": "2026-11-13T08:15:07+00:00",
-    "published": "2026-11-13T08:51:51+00:00",
-    "media_id": "18130876288893131",
-    "sources": [
-      "https://www.aninews.in/news/sports/others/gunjan-wins-historic-gold-as-indian-boxers-complete-golden-double-at-dakar-youth-olympics20261113000451/",
-      "https://www.tribuneindia.com/news/sports/youth-olympic-games-2026-khelo-india-athletes-shine-as-nation-bags-10-medals-including-historic-boxing-double",
-      "https://www.outlookindia.com/sports/others/lairenlakpam-ambekar-meetei-gold-medal-boxing-50kg-dakar-youth-olympics-2026",
-      "https://khelnow.com/olympics/boxing-gold-report-youth-olympics-202611"
-    ]
-  },
-  {
-    "slug": "2026-11-13-pm-bay-oval-89",
-    "series": 12,
-    "sport": "cricket",
-    "headline": "New Zealand 333. India 89. India lose by 244 runs.",
-    "format": "carousel",
-    "status": "published",
-    "created": "2026-11-13T12:17:12+00:00",
-    "published": "2026-11-13T12:33:22+00:00",
-    "media_id": "17940235242392494",
-    "sha": "f6bc6cc6ba2eaaa3d229cb09fadfc95c8f1d08a2",
-    "sources": [
-      "https://newsable.asianetnews.com/sports/new-zealand-stun-india-with-massive-244-run-victory-in-fourth-odi-articleshow-uquz83g",
-      "https://www.dawn.com/news/2044278/henry-takes-six-as-new-zealand-thrash-india-by-244-runs",
-      "https://supersport.com/cricket/news/970e5a78-b58c-4e4d-b1a6-d293fd94a00f/henry-tears-india-top-order-apart-as-new-zealand-romp-to-244-run-win",
-      "https://www.aninews.in/news/sports/cricket/nz-vs-ind-4th-odi-india-wins-toss-elects-to-field-first20261113071632/"
-    ]
-  },
-  {
-    "slug": "2026-11-13-pm-pochettino-united",
-    "series": 13,
-    "sport": "football",
-    "headline": "Third in May. Sacked in November. United turn to Pochettino.",
-    "format": "carousel",
-    "status": "published",
-    "created": "2026-11-13T17:15:15+00:00",
-    "published": "2026-11-13T17:16:29+00:00",
-    "media_id": "18097745882394170",
-    "sha": "96a811ed7d10c947d01a29f15fee61f545ca9ff8",
-    "sources": [
-      "https://www.rte.ie/sport/soccer/2026/1113/1599098-pochettino-set-to-join-united-on-two-and-a-half-year-deal/",
-      "https://www.goal.com/en/news/mauricio-pochettino-manchester-united-manager-usmnt-liverpool/bltce123719a1128621",
-      "https://www.skysports.com/football/news/13610882/mauricio-pochettino-appointed-as-manchester-united-head-coach-after-michael-carricks-sacking-at-old-trafford"
-    ]
-  },
-  {
-    "slug": "2026-11-14-am-lakshya-kumamoto",
-    "series": 14,
-    "sport": "indian",
-    "headline": "Two finals in two weeks. Lakshya Sen is on a run.",
-    "format": "carousel",
-    "status": "published",
-    "created": "2026-11-14T04:12:54+00:00",
-    "published": "2026-11-14T04:13:55+00:00",
-    "media_id": "18136781656598677",
-    "sources": [
-      "https://ianslive.in/lakshya-sen-downs-alwi-farhan-to-storm-into-japan-masters-final--20261114092720",
-      "https://telanganatoday.com/lakshya-sen-reaches-second-consecutive-final-with-win-over-alwi-farhan",
-      "https://revsportz.in/japan-masters-2026-lakshya-sen-advances-to-final-after-overcoming-sixth-seed-alwi-farhan/"
-    ]
-  },
-  {
-    "slug": "2026-11-14-pm-f1-cost-cap",
-    "series": 15,
-    "sport": "f1",
-    "headline": "Mercedes wants more money. So does Williams. For other reasons.",
-    "format": "carousel",
-    "status": "published",
-    "created": "2026-11-14T08:15:12+00:00",
-    "published": "2026-11-14T13:29:06+00:00",
-    "media_id": "17973814419192386",
-    "sha": "3cd8734b9e33191b683ba8f0d22f358c9302e967",
-    "sources": [
-      "https://www.planetf1.com/news/mercedes-fia-formula-1-cost-cap",
-      "https://au.motorsport.com/f1/news/toto-wolff-wants-the-fia-to-lift-the-salary-cap-on-junior-staff-we-need-to-pay-them-better/10872626/",
-      "https://thejudge13.com/2026/11/13/newey-disagrees-with-wolff-over-f1-cost-cap-uplift/",
-      "https://www.the-race.com/formula-1/formula1-cost-cap-fix-f1-williams-2027-2028/"
-    ],
-    "note": "Approved by Ronak in its own run after a later run had marked it expired"
-  },
-  {
-    "slug": "2026-11-14-pm-rr-lsg-swap",
-    "series": 15,
-    "sport": "business",
-    "headline": "Rs 10 cr out. Rs 2.4 cr in. Why RR and LSG are talking a swap.",
-    "format": "carousel",
-    "status": "published",
-    "created": "2026-11-14T12:14:28+00:00",
-    "published": "2026-11-14T13:29:39+00:00",
-    "media_id": "18024626399944473",
-    "sha": "d61c738440bb8b901abd3944bff0460a48ae4d48",
-    "sources": [
-      "https://crickettimes.com/2026/11/ahead-of-ipl-2027-retentions-rr-and-lsg-explore-multi-player-trade-involving-sam-curran-and-mohammed-shami/",
-      "https://www.india.com/sports/cricket/mohammed-shami-to-become-vaibhav-sooryavanshi-teammate-talks-on-between-lsg-and-rr-over-trade-with-sam-curran-8544600/",
-      "https://sundayguardianlive.com/sports/mohammed-shami-to-rajasthan-royals-ipl-2027-trade-talks-with-lucknow-super-giants-involve-sam-curran-and-one-more-player-321704/",
-      "https://www.ap7am.com/en/138678/bcci-extends-ipl-2027-retention-deadline-to-november-17-due-to-india-nz-fifth-odi-clash",
-      "https://www.devdiscourse.com/article/sports-games/4000797-ipl-extends-deadline-for-retention-lists-to-november-17"
-    ]
-  },
-  {
-    "slug": "2026-11-14-pm-u19-asia-cup-heist",
-    "series": 16,
-    "sport": "cricket",
-    "headline": "Pakistan made 337. India chased it down with one wicket left.",
-    "format": "carousel",
-    "status": "published",
-    "created": "2026-11-14T17:17:29+00:00",
-    "published": "2026-11-14T17:31:24+00:00",
-    "media_id": "18145614457523821",
-    "sources": [
-      "https://newsable.asianetnews.com/sports/india-u19-clinches-2026-asia-cup-title-in-thrilling-win-over-pakistan-articleshow-ulviuuu",
-      "https://sports.yahoo.com/articles/asia-cup-u-19-final-133910101.html"
-    ]
-  },
-  {
-    "slug": "2026-11-15-am-saff-final-rematch",
-    "series": 17,
-    "sport": "football",
-    "headline": "Nov 5: India 3, Pakistan 2. Nov 17: the rematch is the final.",
-    "format": "carousel",
-    "status": "published",
-    "created": "2026-11-15T04:15:09+00:00",
-    "published": "2026-11-15T04:22:23+00:00",
-    "media_id": "18127206442904996",
-    "sources": [
-      "https://www.the-aiff.com/article/india-hold-off-bhutan-fightback-to-reach-saff-championship-final",
-      "https://khelnow.com/football/indian-football-saff-championship-2026-india-vs-bhutan-key-takeaways",
-      "https://theopenpress.in/article/india-beat-bhutan-2-1-saff-championship-final-november-17",
-      "https://pakera.pk/pakistan-beat-bangladesh-1-0-saff-championship-2026-semi-final-first-final-india/",
-      "https://www.sportsdunia.com/football-ratings/bangladesh-vs-pakistan-player-ratings-saff-championship-14th-november-2026",
-      "https://www.espn.com/soccer/match/_/gameId/401934183/pakistan-bangladesh"
-    ]
-  },
-  {
-    "slug": "2026-11-15-pm-209-to-defend",
-    "series": 18,
-    "sport": "cricket",
-    "headline": "Rohit 7. Kohli 5. India have 209 to defend for the series.",
-    "format": "carousel",
-    "status": "published",
-    "created": "2026-11-15T08:49:33+00:00",
-    "published": "2026-11-15T08:56:16+00:00",
-    "media_id": "18016417811986410",
-    "sha": "9de5d3bde2bb7a1e4ebba6b9a0b74d562c53b4cb",
-    "sources": [
-      "https://telanganatoday.com/india-bowled-out-for-209-against-new-zealand-in-fifth-odi-as-santner-duffy-take-three-wickets-each",
-      "https://www.mykhel.com/cricket/ind-vs-nz-5th-odi-india-bundle-out-for-209-as-rohit-sharma-virat-kohli-fail-yet-again-in-series-f-459029.html",
-      "https://www.india.com/sports/cricket/ind-vs-nz-5th-odi-axar-patels-46-run-innings-helps-india-post-209-against-new-zealand-8545028/",
-      "https://www.indiatvnews.com/sports/cricket/ind-vs-nz-5th-odi-live-score-india-look-to-bounce-back-after-defeat-in-previous-bout-1059481",
-      "https://newskarnataka.com/sports/india-vs-new-zealand-5th-odi-series-decider-in-mount-maunganui/15112026/"
-    ],
-    "reel_media_id": "18118479752037556"
-  },
-  {
-    "slug": "2026-11-15-pm-odi-decider-result",
-    "series": 19,
-    "sport": "cricket",
-    "headline": "209 didn't look enough. India defended it. Series won 3-1.",
-    "format": "carousel",
-    "status": "published",
-    "created": "2026-11-15T10:06:50+00:00",
-    "published": "2026-11-15T10:20:09+00:00",
-    "media_id": "18150353368563589",
-    "sha": "2e00f26e3ca66eb5dcb340c15064cd0e68d50d0b",
-    "sources": [
-      "https://udaipurkiran.com/india-clinches-odi-series-against-new-zealand/",
-      "https://www.thedailyjagran.com/cricket/news/ind-vs-nz-5th-odi-yash-thakur-india-vs-new-zealand-maiden-odi-wicket-fast-bowlers-script-stunning-comeback-win-to-seal-series-10336375",
-      "https://crex.com/cricket-live-score/ind-vs-nz-5th-odi-india-tour-of-new-zealand-2026-match-updates-12JL"
-    ],
-    "reel_media_id": "17936884374148059"
-  },
-  {
-    "slug": "2026-11-15-pm-lakshya-kumamoto-title",
-    "series": 20,
-    "sport": "indian",
-    "headline": "Lost the first game 13-21. Won the title anyway.",
-    "format": "carousel",
-    "status": "published",
-    "created": "2026-11-15T12:14:11+00:00",
-    "published": "2026-11-15T12:36:06+00:00",
-    "media_id": "18579708481079210",
-    "reel_media_id": "18100748912550292",
-    "sources": [
-      "https://www.onmanorama.com/sports/other-sports/2026/11/15/lakshya-sen-wins-kumamoto-masters-japan-open.html",
-      "https://english.dainikjagranmpcg.com/sports/lakshya-sen-wins-japan-masters-2026-beats-watanabe/article-44331",
-      "https://www.mykhel.com/news/sports-bulletin-nov-15-lakshya-sen-wins-japan-masters-india-clinch-u19-asia-cup-portugal-loose-459027.html"
-    ]
-  },
-  {
-    "slug": "2026-11-15-pm-ipl-trade-pay-cuts",
-    "series": 21,
-    "sport": "business",
-    "headline": "Rs 27 crore at Lucknow. Rs 15 crore at Delhi. Pant took the cut.",
-    "format": "carousel",
-    "status": "published",
-    "created": "2026-11-15T17:14:05Z",
-    "published": "2026-11-15T18:11:20Z",
-    "media_id": null,
-    "reel_media_id": "18140249356647999",
-    "sources": [
-      "https://www.india.com/sports/cricket/ipl-2027-hardik-pandya-and-arshdeep-singh-trade-between-mi-and-pbks-officially-completed-8543806/",
-      "https://sports.yahoo.com/articles/ipl-2027-trades-far-rishabh-103000922.html",
-      "https://crex.com/cricket-listicles/list-of-all-player-trades-in-ipl-2027-6af717e0525603a2aa21c74d",
-      "https://www.cricketnews.com/en/cricket/news/ipl-2027-retention-deadline-date-retained-players-mini-auction/7cdc39d5a9eddc5c2dc37629"
-    ],
-    "reel_published": "2026-11-15T17:22:44Z",
-    "note": "Reel via Windsor.ai; carousel posted manually by Ronak after Instagram rate limit (no media id logged)"
-  },
-  {
-    "slug": "2026-11-16-am-portugal-after-ronaldo",
-    "series": 22,
-    "sport": "football",
-    "headline": "Ronaldo retired. Game one without him: Portugal 1, Denmark 4.",
-    "format": "carousel",
-    "status": "published",
-    "created": "2026-11-16T04:14:51+00:00",
-    "published": "2026-11-16T04:41:06+00:00",
-    "media_id": null,
-    "reel_media_id": "17890967016653076",
-    "sources": [
-      "https://www.aljazeera.com/sports/2026/11/14/ronaldo-less-portugal-thrashed-4-1-by-denmark-in-the-nations-league",
-      "https://malaysia.news.yahoo.com/portugal-humbled-first-game-since-220543680.html",
-      "https://thefalse9.com/2026/11/portugal-denmark-4-1-first-game-since-ronaldo-retired-14-november.html"
-    ],
-    "note": "Reel published with share_to_feed. Carousel failed: Instagram 'Application request limit reached'; retry was not run. Slides at commit 797c328 if posting manually."
-  },
-  {
-    "slug": "2026-11-16-pm-two-wins-in-nz",
-    "series": 23,
-    "sport": "cricket",
-    "headline": "Now the Tests. India have won 2 Test series in NZ. Ever.",
-    "format": "carousel",
-    "status": "published",
-    "created": "2026-11-16T08:32:08Z",
-    "published": "2026-11-16T08:36:35+00:00",
-    "media_id": null,
-    "sources": [
-      "https://sports.yahoo.com/articles/india-vs-zealand-1st-test-101500092.html",
-      "https://blog.playo.co/india-vs-new-zealand-test-series-2026/",
-      "https://khelnow.com/cricket/ind-vs-nz-new-zealand-test-squad-202611",
-      "https://www.icc-cricket.com/news/india-wins-first-test-series-in-nz-in-41-years",
-      "https://www.business-standard.com/article/beyond-business/india-win-test-series-on-kiwi-soil-after-41-yrs-109040700139_1.html",
-      "https://www.newsbytesapp.com/news/sports/how-india-beat-new-zealand-in-2009-test-series/story",
-      "https://www.rnz.co.nz/news/sport/236531/draw-hands-nz-the-series",
-      "https://www.deccanchronicle.com/140218/sports-cricket/article/new-zealand-vs-india-kohli-ton-draws-match-nz-win-series-1-0",
-      "https://www.onmanorama.com/sports/cricket/2020/03/02/india-new-zealand-christchurch-test-series-win.html",
-      "https://www.easternmirrornagaland.com/nz-thrash-india-in-christchurch-test-clinch-series-2-0"
-    ],
-    "reel_media_id": "18345008905274437",
-    "note": "Reel published with share_to_feed. Carousel failed twice: Instagram 'Application request limit reached' (retried after 90 s). Slides at commit 162b28f if posting manually."
-  }
+ {
+  "slug": "2026-11-11-launch",
+  "series": 1,
+  "sport": "other",
+  "headline": "Scores tell you who won. We tell you why.",
+  "format": "single",
+  "status": "published",
+  "created": "2026-11-11",
+  "published": "2026-11-11",
+  "media_id": null,
+  "sources": []
+ },
+ {
+  "slug": "2026-11-11-pkl-skips-2026",
+  "series": 2,
+  "sport": "indian",
+  "headline": "No Pro Kabaddi this year",
+  "format": "carousel",
+  "status": "published",
+  "created": "2026-11-11",
+  "published": "2026-11-11",
+  "media_id": null,
+  "sources": [
+   "https://khelnow.com/kabaddi/pkl-13-not-in-2026-likely-june-july-2027",
+   "https://www.outlookindia.com/sports/others/pro-kabaddi-league-return-2027-broadcast-deal-delay-report"
+  ]
+ },
+ {
+  "slug": "2026-11-11-ipl-auction-goa",
+  "series": 3,
+  "sport": "cricket",
+  "headline": "The IPL auction is coming home",
+  "format": "single",
+  "status": "published",
+  "created": "2026-11-11",
+  "published": "2026-11-12",
+  "media_id": null,
+  "sources": [
+   "https://www.crictracker.com/cricket-news/ipl-2027-auction-to-be-held-on-december-16-in-goa-7060/",
+   "https://www.mykhel.com/cricket/ipl-2027-auction-bcci-gives-huge-update-on-mini-auction-date-and-venue-revealed-ipl-news-454247.html"
+  ]
+ },
+ {
+  "slug": "2026-11-12-f1-fight-for-p2",
+  "series": 4,
+  "sport": "f1",
+  "headline": "The title is done. The fight isn't.",
+  "format": "single",
+  "status": "published",
+  "created": "2026-11-12",
+  "published": "2026-11-12",
+  "media_id": null,
+  "sources": [
+   "https://www.crash.net/f1/news/1110014/1/new-f1-championship-standings-after-brazil-grand-prix"
+  ]
+ },
+ {
+  "slug": "2026-11-12-am-saff-two-indias",
+  "series": 5,
+  "sport": "football",
+  "headline": "India's seniors are in New Zealand. Their back-ups topped the group.",
+  "format": "carousel",
+  "status": "published",
+  "created": "2026-11-12T04:57:31+00:00",
+  "published": "2026-11-12T04:58:55+00:00",
+  "media_id": "18040445339892614",
+  "sources": [
+   "https://khelnow.com/football/indian-football-saff-championship-2026-india-vs-maldives-match-report",
+   "https://www.outlookindia.com/sports/football/india-vs-maldives-live-score-saff-championship-2026-commentary-match-latest-updates",
+   "https://theawayend.co/2026/11/11/saff-championship-2026-group-b-india-defeat-maldives-1-0-reach-semis/",
+   "https://en.prothomalo.com/sports/football/aj0opek1gb"
+  ]
+ },
+ {
+  "slug": "2026-11-12-pm-ipl-12-teams",
+  "series": 6,
+  "sport": "business",
+  "headline": "10 teams today. Two more could join in 2028.",
+  "format": "carousel",
+  "status": "published",
+  "created": "2026-11-12T08:14:35+00:00",
+  "published": "2026-11-12T08:17:49+00:00",
+  "media_id": "17950564089068495",
+  "sources": [
+   "https://www.businesstoday.in/sports/ipl/story/two-new-ipl-teams-from-2028-pune-vadodara-seen-as-frontrunners-new-franchises-could-cost-over-rs8000-crore-each-566968-2026-11-12",
+   "https://www.mykhel.com/cricket/ipl-2028-bcci-plans-12-team-league-pune-vadodara-emerge-as-potential-new-franchise-destinations-458631.html",
+   "https://www.freepressjournal.in/pune/pune-could-return-to-ipl-with-new-franchise-from-2028-heres-what-reports-say",
+   "https://en.wikipedia.org/wiki/2022_Indian_Premier_League"
+  ]
+ },
+ {
+  "slug": "2026-11-12-pm-niraj-la-quota",
+  "series": 7,
+  "sport": "indian",
+  "headline": "A bronze in Doha. A seat at LA 2028.",
+  "format": "carousel",
+  "status": "published",
+  "created": "2026-11-12T12:22:32+00:00",
+  "published": "2026-11-12T12:24:47+00:00",
+  "media_id": "18158798488577497",
+  "sources": [
+   "https://www.mykhel.com/more-sports/niraj-kumar-wins-50m-rifle-3-positions-bronze-secures-la-2028-olympic-quota-458695.html",
+   "https://www.dtnext.in/news/sports/rifle-shooter-niraj-kumar-secures-la-olympics-quota-with-bronze-in-mens-50m-3-position"
+  ]
+ },
+ {
+  "slug": "2026-11-12-pm-nz-one-win-away",
+  "series": 8,
+  "sport": "cricket",
+  "headline": "India can't lose this series. Tomorrow they can win it.",
+  "format": "carousel",
+  "status": "published",
+  "created": "2026-11-12T17:14:38+00:00",
+  "published": "2026-11-12T17:20:55+00:00",
+  "media_id": "18109050635343718",
+  "sources": [
+   "https://www.tribuneindia.com/news/sports/nz-vs-ind-4th-odi-new-zealand-look-to-avoid-series-defeat-as-iyer-set-for-odi-captaincy-debut/",
+   "https://www.newsbytesapp.com/news/sports/nz-vs-ind-mount-maunganui-odi-preview/story",
+   "https://www.outlookindia.com/sports/cricket/india-vs-new-zealand-3rd-odi-live-score-updates-highlights"
+  ]
+ },
+ {
+  "slug": "2026-11-13-pant-or-jurel",
+  "series": 9,
+  "sport": "cricket",
+  "headline": "Pant is fit. Now, who keeps?",
+  "format": "single",
+  "status": "published",
+  "created": "2026-11-13",
+  "published": "2026-11-13T03:19:16+00:00",
+  "media_id": "17969967612220393",
+  "sources": [
+   "https://www.aninews.in/news/sports/cricket/rishabh-pant-gets-bcci-coe8217s-fitness-clearance-leaves-for-new-zealand-ahead-of-test-series20261112164834",
+   "https://www.crictracker.com/cricket-news/rishabh-pant-departs-for-new-zealand-to-join-indias-test-squad-in-wellington-3577/",
+   "https://www.outlookindia.com/sports/cricket/rishabh-pant-injury-update-india-a-vs-new-zealand-a-3rd-unofficial-test-comeback-report"
+  ]
+ },
+ {
+  "slug": "2026-11-13-am-auckland-5-0",
+  "series": 10,
+  "sport": "football",
+  "headline": "New Zealand 5, India 0. It could have been worse.",
+  "format": "carousel",
+  "status": "published",
+  "created": "2026-11-13T04:13:35+00:00",
+  "published": "2026-11-13T04:20:19+00:00",
+  "media_id": "18486433912119963",
+  "sources": [
+   "https://www.mykhel.com/football/india-vs-new-zealand-blue-tigers-thrashed-as-oceanian-champions-put-five-goals-in-auckland-458759.html",
+   "https://sundayguardianlive.com/sports/india-vs-new-zealand-football-all-whites-thrash-blue-tigers-5-0-in-auckland-as-jesse-randall-scores-brace-international-friendly-highlights-321136/",
+   "https://www.india.com/sports/football/ind-vs-nz-new-zealand-thrash-india-5-0-in-auckland-friendly-blue-tigers-suffer-humiliating-defeat-8544365/",
+   "https://khelnow.com/football/indian-football-international-friendly-new-zealand-vs-india-player-ratings"
+  ]
+ },
+ {
+  "slug": "2026-11-13-pm-dakar-boxing-double",
+  "series": 11,
+  "sport": "indian",
+  "headline": "16 years. Zero boxing golds. Then two in one day.",
+  "format": "carousel",
+  "status": "published",
+  "created": "2026-11-13T08:15:07+00:00",
+  "published": "2026-11-13T08:51:51+00:00",
+  "media_id": "18130876288893131",
+  "sources": [
+   "https://www.aninews.in/news/sports/others/gunjan-wins-historic-gold-as-indian-boxers-complete-golden-double-at-dakar-youth-olympics20261113000451/",
+   "https://www.tribuneindia.com/news/sports/youth-olympic-games-2026-khelo-india-athletes-shine-as-nation-bags-10-medals-including-historic-boxing-double",
+   "https://www.outlookindia.com/sports/others/lairenlakpam-ambekar-meetei-gold-medal-boxing-50kg-dakar-youth-olympics-2026",
+   "https://khelnow.com/olympics/boxing-gold-report-youth-olympics-202611"
+  ]
+ },
+ {
+  "slug": "2026-11-13-pm-bay-oval-89",
+  "series": 12,
+  "sport": "cricket",
+  "headline": "New Zealand 333. India 89. India lose by 244 runs.",
+  "format": "carousel",
+  "status": "published",
+  "created": "2026-11-13T12:17:12+00:00",
+  "published": "2026-11-13T12:33:22+00:00",
+  "media_id": "17940235242392494",
+  "sha": "f6bc6cc6ba2eaaa3d229cb09fadfc95c8f1d08a2",
+  "sources": [
+   "https://newsable.asianetnews.com/sports/new-zealand-stun-india-with-massive-244-run-victory-in-fourth-odi-articleshow-uquz83g",
+   "https://www.dawn.com/news/2044278/henry-takes-six-as-new-zealand-thrash-india-by-244-runs",
+   "https://supersport.com/cricket/news/970e5a78-b58c-4e4d-b1a6-d293fd94a00f/henry-tears-india-top-order-apart-as-new-zealand-romp-to-244-run-win",
+   "https://www.aninews.in/news/sports/cricket/nz-vs-ind-4th-odi-india-wins-toss-elects-to-field-first20261113071632/"
+  ]
+ },
+ {
+  "slug": "2026-11-13-pm-pochettino-united",
+  "series": 13,
+  "sport": "football",
+  "headline": "Third in May. Sacked in November. United turn to Pochettino.",
+  "format": "carousel",
+  "status": "published",
+  "created": "2026-11-13T17:15:15+00:00",
+  "published": "2026-11-13T17:16:29+00:00",
+  "media_id": "18097745882394170",
+  "sha": "96a811ed7d10c947d01a29f15fee61f545ca9ff8",
+  "sources": [
+   "https://www.rte.ie/sport/soccer/2026/1113/1599098-pochettino-set-to-join-united-on-two-and-a-half-year-deal/",
+   "https://www.goal.com/en/news/mauricio-pochettino-manchester-united-manager-usmnt-liverpool/bltce123719a1128621",
+   "https://www.skysports.com/football/news/13610882/mauricio-pochettino-appointed-as-manchester-united-head-coach-after-michael-carricks-sacking-at-old-trafford"
+  ]
+ },
+ {
+  "slug": "2026-11-14-am-lakshya-kumamoto",
+  "series": 14,
+  "sport": "indian",
+  "headline": "Two finals in two weeks. Lakshya Sen is on a run.",
+  "format": "carousel",
+  "status": "published",
+  "created": "2026-11-14T04:12:54+00:00",
+  "published": "2026-11-14T04:13:55+00:00",
+  "media_id": "18136781656598677",
+  "sources": [
+   "https://ianslive.in/lakshya-sen-downs-alwi-farhan-to-storm-into-japan-masters-final--20261114092720",
+   "https://telanganatoday.com/lakshya-sen-reaches-second-consecutive-final-with-win-over-alwi-farhan",
+   "https://revsportz.in/japan-masters-2026-lakshya-sen-advances-to-final-after-overcoming-sixth-seed-alwi-farhan/"
+  ]
+ },
+ {
+  "slug": "2026-11-14-pm-f1-cost-cap",
+  "series": 15,
+  "sport": "f1",
+  "headline": "Mercedes wants more money. So does Williams. For other reasons.",
+  "format": "carousel",
+  "status": "published",
+  "created": "2026-11-14T08:15:12+00:00",
+  "published": "2026-11-14T13:29:06+00:00",
+  "media_id": "17973814419192386",
+  "sha": "3cd8734b9e33191b683ba8f0d22f358c9302e967",
+  "sources": [
+   "https://www.planetf1.com/news/mercedes-fia-formula-1-cost-cap",
+   "https://au.motorsport.com/f1/news/toto-wolff-wants-the-fia-to-lift-the-salary-cap-on-junior-staff-we-need-to-pay-them-better/10872626/",
+   "https://thejudge13.com/2026/11/13/newey-disagrees-with-wolff-over-f1-cost-cap-uplift/",
+   "https://www.the-race.com/formula-1/formula1-cost-cap-fix-f1-williams-2027-2028/"
+  ],
+  "note": "Approved by Ronak in its own run after a later run had marked it expired"
+ },
+ {
+  "slug": "2026-11-14-pm-rr-lsg-swap",
+  "series": 15,
+  "sport": "business",
+  "headline": "Rs 10 cr out. Rs 2.4 cr in. Why RR and LSG are talking a swap.",
+  "format": "carousel",
+  "status": "published",
+  "created": "2026-11-14T12:14:28+00:00",
+  "published": "2026-11-14T13:29:39+00:00",
+  "media_id": "18024626399944473",
+  "sha": "d61c738440bb8b901abd3944bff0460a48ae4d48",
+  "sources": [
+   "https://crickettimes.com/2026/11/ahead-of-ipl-2027-retentions-rr-and-lsg-explore-multi-player-trade-involving-sam-curran-and-mohammed-shami/",
+   "https://www.india.com/sports/cricket/mohammed-shami-to-become-vaibhav-sooryavanshi-teammate-talks-on-between-lsg-and-rr-over-trade-with-sam-curran-8544600/",
+   "https://sundayguardianlive.com/sports/mohammed-shami-to-rajasthan-royals-ipl-2027-trade-talks-with-lucknow-super-giants-involve-sam-curran-and-one-more-player-321704/",
+   "https://www.ap7am.com/en/138678/bcci-extends-ipl-2027-retention-deadline-to-november-17-due-to-india-nz-fifth-odi-clash",
+   "https://www.devdiscourse.com/article/sports-games/4000797-ipl-extends-deadline-for-retention-lists-to-november-17"
+  ]
+ },
+ {
+  "slug": "2026-11-14-pm-u19-asia-cup-heist",
+  "series": 16,
+  "sport": "cricket",
+  "headline": "Pakistan made 337. India chased it down with one wicket left.",
+  "format": "carousel",
+  "status": "published",
+  "created": "2026-11-14T17:17:29+00:00",
+  "published": "2026-11-14T17:31:24+00:00",
+  "media_id": "18145614457523821",
+  "sources": [
+   "https://newsable.asianetnews.com/sports/india-u19-clinches-2026-asia-cup-title-in-thrilling-win-over-pakistan-articleshow-ulviuuu",
+   "https://sports.yahoo.com/articles/asia-cup-u-19-final-133910101.html"
+  ]
+ },
+ {
+  "slug": "2026-11-15-am-saff-final-rematch",
+  "series": 17,
+  "sport": "football",
+  "headline": "Nov 5: India 3, Pakistan 2. Nov 17: the rematch is the final.",
+  "format": "carousel",
+  "status": "published",
+  "created": "2026-11-15T04:15:09+00:00",
+  "published": "2026-11-15T04:22:23+00:00",
+  "media_id": "18127206442904996",
+  "sources": [
+   "https://www.the-aiff.com/article/india-hold-off-bhutan-fightback-to-reach-saff-championship-final",
+   "https://khelnow.com/football/indian-football-saff-championship-2026-india-vs-bhutan-key-takeaways",
+   "https://theopenpress.in/article/india-beat-bhutan-2-1-saff-championship-final-november-17",
+   "https://pakera.pk/pakistan-beat-bangladesh-1-0-saff-championship-2026-semi-final-first-final-india/",
+   "https://www.sportsdunia.com/football-ratings/bangladesh-vs-pakistan-player-ratings-saff-championship-14th-november-2026",
+   "https://www.espn.com/soccer/match/_/gameId/401934183/pakistan-bangladesh"
+  ]
+ },
+ {
+  "slug": "2026-11-15-pm-209-to-defend",
+  "series": 18,
+  "sport": "cricket",
+  "headline": "Rohit 7. Kohli 5. India have 209 to defend for the series.",
+  "format": "carousel",
+  "status": "published",
+  "created": "2026-11-15T08:49:33+00:00",
+  "published": "2026-11-15T08:56:16+00:00",
+  "media_id": "18016417811986410",
+  "sha": "9de5d3bde2bb7a1e4ebba6b9a0b74d562c53b4cb",
+  "sources": [
+   "https://telanganatoday.com/india-bowled-out-for-209-against-new-zealand-in-fifth-odi-as-santner-duffy-take-three-wickets-each",
+   "https://www.mykhel.com/cricket/ind-vs-nz-5th-odi-india-bundle-out-for-209-as-rohit-sharma-virat-kohli-fail-yet-again-in-series-f-459029.html",
+   "https://www.india.com/sports/cricket/ind-vs-nz-5th-odi-axar-patels-46-run-innings-helps-india-post-209-against-new-zealand-8545028/",
+   "https://www.indiatvnews.com/sports/cricket/ind-vs-nz-5th-odi-live-score-india-look-to-bounce-back-after-defeat-in-previous-bout-1059481",
+   "https://newskarnataka.com/sports/india-vs-new-zealand-5th-odi-series-decider-in-mount-maunganui/15112026/"
+  ],
+  "reel_media_id": "18118479752037556"
+ },
+ {
+  "slug": "2026-11-15-pm-odi-decider-result",
+  "series": 19,
+  "sport": "cricket",
+  "headline": "209 didn't look enough. India defended it. Series won 3-1.",
+  "format": "carousel",
+  "status": "published",
+  "created": "2026-11-15T10:06:50+00:00",
+  "published": "2026-11-15T10:20:09+00:00",
+  "media_id": "18150353368563589",
+  "sha": "2e00f26e3ca66eb5dcb340c15064cd0e68d50d0b",
+  "sources": [
+   "https://udaipurkiran.com/india-clinches-odi-series-against-new-zealand/",
+   "https://www.thedailyjagran.com/cricket/news/ind-vs-nz-5th-odi-yash-thakur-india-vs-new-zealand-maiden-odi-wicket-fast-bowlers-script-stunning-comeback-win-to-seal-series-10336375",
+   "https://crex.com/cricket-live-score/ind-vs-nz-5th-odi-india-tour-of-new-zealand-2026-match-updates-12JL"
+  ],
+  "reel_media_id": "17936884374148059"
+ },
+ {
+  "slug": "2026-11-15-pm-lakshya-kumamoto-title",
+  "series": 20,
+  "sport": "indian",
+  "headline": "Lost the first game 13-21. Won the title anyway.",
+  "format": "carousel",
+  "status": "published",
+  "created": "2026-11-15T12:14:11+00:00",
+  "published": "2026-11-15T12:36:06+00:00",
+  "media_id": "18579708481079210",
+  "reel_media_id": "18100748912550292",
+  "sources": [
+   "https://www.onmanorama.com/sports/other-sports/2026/11/15/lakshya-sen-wins-kumamoto-masters-japan-open.html",
+   "https://english.dainikjagranmpcg.com/sports/lakshya-sen-wins-japan-masters-2026-beats-watanabe/article-44331",
+   "https://www.mykhel.com/news/sports-bulletin-nov-15-lakshya-sen-wins-japan-masters-india-clinch-u19-asia-cup-portugal-loose-459027.html"
+  ]
+ },
+ {
+  "slug": "2026-11-15-pm-ipl-trade-pay-cuts",
+  "series": 21,
+  "sport": "business",
+  "headline": "Rs 27 crore at Lucknow. Rs 15 crore at Delhi. Pant took the cut.",
+  "format": "carousel",
+  "status": "published",
+  "created": "2026-11-15T17:14:05Z",
+  "published": "2026-11-15T18:11:20Z",
+  "media_id": null,
+  "reel_media_id": "18140249356647999",
+  "sources": [
+   "https://www.india.com/sports/cricket/ipl-2027-hardik-pandya-and-arshdeep-singh-trade-between-mi-and-pbks-officially-completed-8543806/",
+   "https://sports.yahoo.com/articles/ipl-2027-trades-far-rishabh-103000922.html",
+   "https://crex.com/cricket-listicles/list-of-all-player-trades-in-ipl-2027-6af717e0525603a2aa21c74d",
+   "https://www.cricketnews.com/en/cricket/news/ipl-2027-retention-deadline-date-retained-players-mini-auction/7cdc39d5a9eddc5c2dc37629"
+  ],
+  "reel_published": "2026-11-15T17:22:44Z",
+  "note": "Reel via Windsor.ai; carousel posted manually by Ronak after Instagram rate limit (no media id logged)"
+ },
+ {
+  "slug": "2026-11-16-am-portugal-after-ronaldo",
+  "series": 22,
+  "sport": "football",
+  "headline": "Ronaldo retired. Game one without him: Portugal 1, Denmark 4.",
+  "format": "carousel",
+  "status": "published",
+  "created": "2026-11-16T04:14:51+00:00",
+  "published": "2026-11-16T04:41:06+00:00",
+  "media_id": null,
+  "reel_media_id": "17890967016653076",
+  "sources": [
+   "https://www.aljazeera.com/sports/2026/11/14/ronaldo-less-portugal-thrashed-4-1-by-denmark-in-the-nations-league",
+   "https://malaysia.news.yahoo.com/portugal-humbled-first-game-since-220543680.html",
+   "https://thefalse9.com/2026/11/portugal-denmark-4-1-first-game-since-ronaldo-retired-14-november.html"
+  ],
+  "note": "Reel published with share_to_feed. Carousel failed: Instagram 'Application request limit reached'; retry was not run. Slides at commit 797c328 if posting manually."
+ },
+ {
+  "slug": "2026-11-16-pm-two-wins-in-nz",
+  "series": 23,
+  "sport": "cricket",
+  "headline": "Now the Tests. India have won 2 Test series in NZ. Ever.",
+  "format": "carousel",
+  "status": "published",
+  "created": "2026-11-16T08:32:08Z",
+  "published": "2026-11-16T08:36:35+00:00",
+  "media_id": null,
+  "sources": [
+   "https://sports.yahoo.com/articles/india-vs-zealand-1st-test-101500092.html",
+   "https://blog.playo.co/india-vs-new-zealand-test-series-2026/",
+   "https://khelnow.com/cricket/ind-vs-nz-new-zealand-test-squad-202611",
+   "https://www.icc-cricket.com/news/india-wins-first-test-series-in-nz-in-41-years",
+   "https://www.business-standard.com/article/beyond-business/india-win-test-series-on-kiwi-soil-after-41-yrs-109040700139_1.html",
+   "https://www.newsbytesapp.com/news/sports/how-india-beat-new-zealand-in-2009-test-series/story",
+   "https://www.rnz.co.nz/news/sport/236531/draw-hands-nz-the-series",
+   "https://www.deccanchronicle.com/140218/sports-cricket/article/new-zealand-vs-india-kohli-ton-draws-match-nz-win-series-1-0",
+   "https://www.onmanorama.com/sports/cricket/2020/03/02/india-new-zealand-christchurch-test-series-win.html",
+   "https://www.easternmirrornagaland.com/nz-thrash-india-in-christchurch-test-clinch-series-2-0"
+  ],
+  "reel_media_id": "18345008905274437",
+  "note": "Reel published with share_to_feed. Carousel failed twice: Instagram 'Application request limit reached' (retried after 90 s). Slides at commit 162b28f if posting manually."
+ },
+ {
+  "slug": "2026-11-16-pm-icc-calendar-2035",
+  "series": 24,
+  "sport": "business",
+  "headline": "Last Champions Trophy at home: 2006. Next one: India, October 2029.",
+  "format": "carousel",
+  "status": "pending",
+  "created": "2026-11-16T12:19:34Z",
+  "published": null,
+  "media_id": null,
+  "sources": [
+   "https://www.tribuneindia.com/news/cricket/india-to-host-2029-champions-trophy-co-host-2031-odi-world-cup-icc-unveils-calendar-till-2035",
+   "https://khelnow.com/cricket/icc-unveils-schedule-mens-tournaments-till-2035-202611",
+   "https://sports.yahoo.com/articles/icc-tournaments-india-host-2028-145943335.html",
+   "https://thekashmirimages.com/2026/11/15/icc-finalises-window-for-major-events-until-2035-india-to-host-2029-ct-and-2031-odi-wc/",
+   "https://newsonair.gov.in/india-to-host-2029-champions-trophy-co-host-odi-world-cup-in-2031/"
+  ]
+ }
 ]

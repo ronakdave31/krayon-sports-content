@@ -1,0 +1,92 @@
+{
+  "slug": "2026-11-16-pm-icc-calendar-2035",
+  "tag": "SPORTS BUSINESS",
+  "sport": "business",
+  "series": "24 / THE CALENDAR",
+  "slides": [
+    {
+      "type": "hero",
+      "kicker": "ICC BOARD · BALI · NOV 15",
+      "grey": "Last Champions Trophy at home: 2006.",
+      "white": "Next one: India, October 2029.",
+      "sub": "The ICC has fixed dates for every men's event until 2035.",
+      "facts": [
+        [
+          "12",
+          "men's events, 2028 to 2035"
+        ],
+        [
+          "6",
+          "still without a host"
+        ]
+      ]
+    },
+    {
+      "type": "bars",
+      "kicker": "THE CONFIRMED HOSTS",
+      "title": "India get the longest one.",
+      "rows": [
+        [
+          "2031 WC",
+          "World Cup · India, Bangladesh",
+          46,
+          "46 days"
+        ],
+        [
+          "2028 T20",
+          "Australia and NZ · Oct to Nov",
+          32,
+          "32 days"
+        ],
+        [
+          "2030 T20",
+          "Eng, Ire, Scot · Jul to Aug",
+          32,
+          "32 days"
+        ],
+        [
+          "2029 CT",
+          "Champions Trophy · India",
+          20,
+          "20 days"
+        ],
+        [
+          "2029 WTC",
+          "WTC Final · England",
+          5,
+          "5 days"
+        ]
+      ],
+      "highlight_first": true,
+      "note": "Windows approved by the ICC Board"
+    },
+    {
+      "type": "stat",
+      "kicker": "THE PATTERN",
+      "big": "2 windows",
+      "body": "The T20 World Cup now swings between October to November (2028, 2032) and July to August (2030, 2034). The WTC Final stays in June, every two years, until 2035.",
+      "note": "Hosts for 2032 onwards are still to be confirmed."
+    },
+    {
+      "type": "text",
+      "kicker": "WHAT IT MEANS",
+      "title": "India's two big Octobers",
+      "bullets": [
+        "India host 2 of the 6 events with a confirmed host",
+        "The 2029 Champions Trophy is India's first since 2006",
+        "England host the 2029 and 2031 WTC Finals"
+      ],
+      "question": "Champions Trophy 2029 or World Cup 2031: which one are you going to?",
+      "footnote": "Windows approved by the ICC Board in Bali on November 15 (PTI)."
+    }
+  ],
+  "concept": "A 'calendar' carousel for the ICC's new men's events map to 2035, told through India's two home dates. The hero puts 2006 in grey and October 2029 in bright white, so the 23-year wait for a home Champions Trophy reads before the details. Slide 2 turns each confirmed tournament window into a gold-and-gradient bar measured in days, with the 46-day 2031 World Cup in India and Bangladesh lit up as the longest. Slide 3 is one big phrase, '2 windows', explaining the new T20 World Cup rhythm (Oct to Nov, then Jul to Aug) and the fixed June WTC Final. Slide 4 lands what it means for Indian fans and asks which event they will attend. Business gold, type and numbers only: no player photos, no ICC or board logos.",
+  "caption": "India get a Champions Trophy at home for the first time since 2006.\n\nThe ICC Board met in Bali on Sunday and fixed the windows for every men's event until 2035. India host the 2029 Champions Trophy from October 9 to 28. Then India and Bangladesh co-host the 2031 World Cup from October 9 to November 23.\n\nThe T20 World Cup now moves between October to November (Australia and New Zealand in 2028) and July to August (England, Ireland and Scotland in 2030). The WTC Final stays in June every two years, with England hosting in 2029 and 2031.\n\nSix of the 12 events from 2028 to 2035 still have no host.\n\nChampions Trophy 2029 or World Cup 2031: which one are you going to? Tell us below.\n\nDates via the ICC Board decision reported by PTI (The Tribune), Khel Now and The Cricket News.\n\n#KrayonSports #ICC #ChampionsTrophy #CricketWorldCup #SportsBusiness",
+  "sources": [
+    "https://www.tribuneindia.com/news/cricket/india-to-host-2029-champions-trophy-co-host-2031-odi-world-cup-icc-unveils-calendar-till-2035",
+    "https://khelnow.com/cricket/icc-unveils-schedule-mens-tournaments-till-2035-202611",
+    "https://sports.yahoo.com/articles/icc-tournaments-india-host-2028-145943335.html",
+    "https://thekashmirimages.com/2026/11/15/icc-finalises-window-for-major-events-until-2035-india-to-host-2029-ct-and-2031-odi-wc/",
+    "https://newsonair.gov.in/india-to-host-2029-champions-trophy-co-host-odi-world-cup-in-2031/"
+  ]
+}
