@@ -437,15 +437,18 @@
   "sport": "indian",
   "headline": "Arjun led the group with one game to go. Vaishali, in last place, beat him.",
   "format": "carousel",
-  "status": "pending",
+  "status": "published",
   "created": "2026-11-16T17:16:54Z",
-  "published": null,
-  "media_id": null,
+  "published": "2026-11-16T17:57:40+00:00",
+  "media_id": "18116456327120365",
   "sources": [
    "https://chessbase.in/news/total-chess-pilot-2026-day-5-vaishali-stuns-arjun-erigaisi",
    "https://www.totalchess.com/tournaments/budapest-2026/knockout",
    "https://en.wikipedia.org/wiki/Total_Chess_World_Championship_2026",
    "https://www.careerindia.com/news/school-assembly-news-headlines-today-november-16-2026-national-international-education-sports-068703.html"
-  ]
+  ],
+  "reel_media_id": "17871496002659381",
+  "published_reel": "2026-11-16T17:59:17+00:00",
+  "note": "Reel to Reels tab only (share_to_feed false). Carousel published although Windsor returned 'Application request limit reached' (confirmed via get_data, not retried)."
  }
 ]
