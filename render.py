@@ -157,7 +157,7 @@ def slide_hero(c, s):
     facts = s.get("facts") or []
     if facts:
         c.mark("facts")
-        fy = max(y + 30, 1000)
+        fy = max(y + 70, 1000)
         c.add(f'<rect x="{X0}" y="{fy-70}" width="{XMAX-X0}" height="2" fill="{LINE}"/>')
         colw = (XMAX - X0) / len(facts)
         for i, (big, small) in enumerate(facts):

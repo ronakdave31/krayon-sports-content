@@ -385,5 +385,28 @@
       "https://thefalse9.com/2026/11/portugal-denmark-4-1-first-game-since-ronaldo-retired-14-november.html"
     ],
     "note": "Reel published with share_to_feed. Carousel failed: Instagram 'Application request limit reached'; retry was not run. Slides at commit 797c328 if posting manually."
+  },
+  {
+    "slug": "2026-11-16-pm-two-wins-in-nz",
+    "series": 23,
+    "sport": "cricket",
+    "headline": "Now the Tests. India have won 2 Test series in NZ. Ever.",
+    "format": "carousel",
+    "status": "pending",
+    "created": "2026-11-16T08:32:08Z",
+    "published": null,
+    "media_id": null,
+    "sources": [
+      "https://sports.yahoo.com/articles/india-vs-zealand-1st-test-101500092.html",
+      "https://blog.playo.co/india-vs-new-zealand-test-series-2026/",
+      "https://khelnow.com/cricket/ind-vs-nz-new-zealand-test-squad-202611",
+      "https://www.icc-cricket.com/news/india-wins-first-test-series-in-nz-in-41-years",
+      "https://www.business-standard.com/article/beyond-business/india-win-test-series-on-kiwi-soil-after-41-yrs-109040700139_1.html",
+      "https://www.newsbytesapp.com/news/sports/how-india-beat-new-zealand-in-2009-test-series/story",
+      "https://www.rnz.co.nz/news/sport/236531/draw-hands-nz-the-series",
+      "https://www.deccanchronicle.com/140218/sports-cricket/article/new-zealand-vs-india-kohli-ton-draws-match-nz-win-series-1-0",
+      "https://www.onmanorama.com/sports/cricket/2020/03/02/india-new-zealand-christchurch-test-series-win.html",
+      "https://www.easternmirrornagaland.com/nz-thrash-india-in-christchurch-test-clinch-series-2-0"
+    ]
   }
 ]

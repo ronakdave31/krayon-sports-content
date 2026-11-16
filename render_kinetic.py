@@ -162,6 +162,8 @@ def parse_num(s):
     pre, num, suf = m.groups()
     if re.match(r"^(st|nd|rd|th)\b", suf.strip().lower()):
         return None          # ordinals ("10th") pop in instead of counting through "2th"
+    if re.fullmatch(r"(18|19|20)\d\d", num) and not pre.strip() and not suf.strip():
+        return None          # years ("1968") pop in instead of counting through "1919"
     dec = len(num.split(".")[1]) if "." in num else 0
     return pre, float(num.replace(",", "")), suf, dec, "," in num
 

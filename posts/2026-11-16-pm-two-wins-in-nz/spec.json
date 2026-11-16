@@ -1,0 +1,74 @@
+{
+  "slug": "2026-11-16-pm-two-wins-in-nz",
+  "tag": "CRICKET",
+  "sport": "cricket",
+  "series": "23 / THE BREAKDOWN",
+  "thumb": {
+    "title": "2 Test series wins in NZ. Ever.",
+    "sub": "NZ vs India 1st Test: Thursday, 3:30 am IST",
+    "ghost": "2"
+  },
+  "slides": [
+    {
+      "type": "hero",
+      "kicker": "NZ vs INDIA · TEST SERIES · STARTS THURSDAY",
+      "grey": "Now the Tests.",
+      "white": "India have won 2 Test series in NZ. Ever.",
+      "sub": "1st Test: Wellington, 3:30 am IST Thursday.",
+      "facts": [
+        [
+          "1968",
+          "the first series win"
+        ],
+        [
+          "2009",
+          "the last one"
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "kicker": "THE RECORD IN NZ",
+      "title": "Two wins. 41 years apart.",
+      "bullets": [
+        "1968: Pataudi's India win 3-1 on the first tour",
+        "2009: Dhoni's India win 1-0, by 10 wickets in Hamilton",
+        "2014: New Zealand win 1-0",
+        "2020: New Zealand win 2-0"
+      ]
+    },
+    {
+      "type": "stat",
+      "kicker": "THE LAST TIME THEY MET IN TESTS",
+      "big": "3-0",
+      "body": "New Zealand in India, 2024. The first team to whitewash India in a three-match home Test series.",
+      "note": "India haven't played a Test in New Zealand since 2020."
+    },
+    {
+      "type": "text",
+      "kicker": "WHAT'S DIFFERENT NOW",
+      "title": "Gill's India. Two Tests. WTC points.",
+      "bullets": [
+        "Shubman Gill leads, KL Rahul is vice-captain",
+        "Jasprit Bumrah is back in the Test squad",
+        "Rishabh Pant is named subject to fitness",
+        "2nd Test: Christchurch, from Nov 27"
+      ],
+      "question": "Can Gill's India make it three?"
+    }
+  ],
+  "concept": "The ODI series win is still fresh, so this post turns the page to what comes next and why it is harder. The hero greys out the good news (ODIs won 3-1) and puts the uncomfortable fact in bright white: India have won only two Test series in New Zealand, ever. The two dates sit underneath as fact chips, 1968 and 2009, so the 41-year gap does the talking. Slide 2 lays out every result since in a clean timeline, slide 3 isolates the 3-0 that New Zealand inflicted in India in 2024 as one giant number, and slide 4 shows what is different this time before asking fans if Gill's side can make it three. Cricket blue, type and data only: no player photos, no logos.",
+  "caption": "India have won two Test series in New Zealand. Ever.\n\nThe ODIs are done and won 3-1. Now come two Tests that count for the World Test Championship, starting Thursday at the Basin Reserve in Wellington (3:30 am IST).\n\nHistory is not on India's side. Pataudi's team won 3-1 on the first tour in 1968. Dhoni's team won 1-0 in 2009, the first series win there in 41 years. New Zealand took the next two: 1-0 in 2014 and 2-0 in 2020.\n\nThen in 2024 New Zealand became the first team to whitewash India 3-0 in a three-match home Test series.\n\nThis time Shubman Gill leads, Jasprit Bumrah is back in the Test squad and Rishabh Pant is named subject to fitness.\n\nCan Gill's India make it three? Tell us below.\n\nHistory via ICC, Business Standard, RNZ and Onmanorama. Schedule and squads via The Cricket News and Playo.\n\n#KrayonSports #NZvIND #TeamIndia #TestCricket #WTC",
+  "sources": [
+    "https://sports.yahoo.com/articles/india-vs-zealand-1st-test-101500092.html",
+    "https://blog.playo.co/india-vs-new-zealand-test-series-2026/",
+    "https://khelnow.com/cricket/ind-vs-nz-new-zealand-test-squad-202611",
+    "https://www.icc-cricket.com/news/india-wins-first-test-series-in-nz-in-41-years",
+    "https://www.business-standard.com/article/beyond-business/india-win-test-series-on-kiwi-soil-after-41-yrs-109040700139_1.html",
+    "https://www.newsbytesapp.com/news/sports/how-india-beat-new-zealand-in-2009-test-series/story",
+    "https://www.rnz.co.nz/news/sport/236531/draw-hands-nz-the-series",
+    "https://www.deccanchronicle.com/140218/sports-cricket/article/new-zealand-vs-india-kohli-ton-draws-match-nz-win-series-1-0",
+    "https://www.onmanorama.com/sports/cricket/2020/03/02/india-new-zealand-christchurch-test-series-win.html",
+    "https://www.easternmirrornagaland.com/nz-thrash-india-in-christchurch-test-clinch-series-2-0"
+  ]
+}
