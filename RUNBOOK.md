@@ -122,9 +122,9 @@ Include the reel in the preview (send reel.mp4 and reel-cover.jpg too) and ask:
 Publishing the reel (same caption as the post), Windsor.ai `execute_action`, connector `instagram`,
 account `17841463737212811`, action `create_video_post`, params:
 `{"video_url": <commit-SHA raw URL of reel.mp4>, "cover_url": <commit-SHA raw URL of reel-cover.jpg>,
-"caption": <caption>, "share_to_feed": true}`
-(Ronak wants reels to appear as posts too: share_to_feed true puts the reel in the feed and on the profile grid
-as well as in the Reels tab.)
+"caption": <caption>, "share_to_feed": false}`
+(Ronak decided on 2026-11-16 that reels go to the Reels tab only: share_to_feed false, so each story shows once
+on the profile grid (the carousel or single post) instead of twice. If only the reel is approved, still use false.)
 If Instagram rejects the raw.githubusercontent.com video link, retry once with the jsDelivr link
 `https://cdn.jsdelivr.net/gh/ronakdave31/krayon-sports-content@<commit-sha>/posts/<slug>/reel.mp4`
 (and the same jsDelivr form for the cover). Log the reel's media id in posted.json as `reel_media_id`.
@@ -156,6 +156,11 @@ for a Short, the cover is picked in the YouTube app; yt-thumbnail.jpg is for upl
 Windsor.ai `execute_action`, connector `instagram`, account `17841463737212811`:
 - 1 slide → action `create_image_post`, params `{"image_url": <url>, "caption": <caption>}`
 - 2–10 slides → action `create_carousel_post`, params `{"image_urls": [<urls in order>], "caption": <caption>}`
+
+If Windsor returns "Application request limit reached", the post may still have gone through. Before retrying,
+check with Windsor `get_data` (connector `instagram`, fields `media_id`, `media_type`, `timestamp`, `media_caption`,
+`date_preset` `last_3dT`) whether a post with this caption already exists. Retry only if it does not, or you will
+post it twice.
 
 Then set the entry's `status` to `published`, store the returned media id and time, commit and push,
 and tell Ronak it's live.
