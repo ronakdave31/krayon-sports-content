@@ -377,14 +377,14 @@
   "status": "published",
   "created": "2026-11-16T04:14:51+00:00",
   "published": "2026-11-16T04:41:06+00:00",
-  "media_id": null,
+  "media_id": "18570174118073392",
   "reel_media_id": "17890967016653076",
   "sources": [
    "https://www.aljazeera.com/sports/2026/11/14/ronaldo-less-portugal-thrashed-4-1-by-denmark-in-the-nations-league",
    "https://malaysia.news.yahoo.com/portugal-humbled-first-game-since-220543680.html",
    "https://thefalse9.com/2026/11/portugal-denmark-4-1-first-game-since-ronaldo-retired-14-november.html"
   ],
-  "note": "Reel published with share_to_feed. Carousel failed: Instagram 'Application request limit reached'; retry was not run. Slides at commit 797c328 if posting manually."
+  "note": "Reel shared to feed. Carousel also published: Windsor returned 'Application request limit reached' but the post went through (confirmed via Windsor media list)."
  },
  {
   "slug": "2026-11-16-pm-two-wins-in-nz",
@@ -395,7 +395,7 @@
   "status": "published",
   "created": "2026-11-16T08:32:08Z",
   "published": "2026-11-16T08:36:35+00:00",
-  "media_id": null,
+  "media_id": "18081706844402963",
   "sources": [
    "https://sports.yahoo.com/articles/india-vs-zealand-1st-test-101500092.html",
    "https://blog.playo.co/india-vs-new-zealand-test-series-2026/",
@@ -409,7 +409,7 @@
    "https://www.easternmirrornagaland.com/nz-thrash-india-in-christchurch-test-clinch-series-2-0"
   ],
   "reel_media_id": "18345008905274437",
-  "note": "Reel published with share_to_feed. Carousel failed twice: Instagram 'Application request limit reached' (retried after 90 s). Slides at commit 162b28f if posting manually."
+  "note": "Reel shared to feed. Carousel also published: Windsor returned 'Application request limit reached' but the post went through (confirmed via Windsor media list)."
  },
  {
   "slug": "2026-11-16-pm-icc-calendar-2035",
@@ -420,7 +420,7 @@
   "status": "published",
   "created": "2026-11-16T12:19:34Z",
   "published": "2026-11-16T12:25:23+00:00",
-  "media_id": null,
+  "media_id": "18133825534834964",
   "sources": [
    "https://www.tribuneindia.com/news/cricket/india-to-host-2029-champions-trophy-co-host-2031-odi-world-cup-icc-unveils-calendar-till-2035",
    "https://khelnow.com/cricket/icc-unveils-schedule-mens-tournaments-till-2035-202611",
@@ -429,6 +429,6 @@
    "https://newsonair.gov.in/india-to-host-2029-champions-trophy-co-host-odi-world-cup-in-2031/"
   ],
   "reel_media_id": "18643797208052357",
-  "note": "Reel published with share_to_feed. Carousel failed twice: Instagram 'Application request limit reached' (retried after 90 s). Slides at commit 2ab0eef if posting manually."
+  "note": "Reel shared to feed. Carousel also published: Windsor returned 'Application request limit reached' but the post went through (confirmed via Windsor media list)."
  }
 ]
