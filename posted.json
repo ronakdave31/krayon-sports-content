@@ -499,10 +499,10 @@
   "sport": "football",
   "headline": "Pakistan: first SAFF final ever. India: going for title No. 10.",
   "format": "carousel",
-  "status": "pending",
+  "status": "published",
   "created": "2026-11-17T12:58:00Z",
-  "published": null,
-  "media_id": null,
+  "published": "2026-11-17T13:35:23Z",
+  "media_id": "18036959624853055",
   "sources": [
    "https://www.thedailyjagran.com/sports/news/india-vs-pakistan-saff-championship-final-2026-where-to-watch-live-predicted-lineups-h2h-record-10336473",
    "https://en.prothomalo.com/sports/football/ecy7vvsgvo",
@@ -511,6 +511,8 @@
    "https://khelnow.com/football/indian-football-saff-championship-2026-india-vs-bhutan-key-takeaways",
    "https://www.mykhel.com/football/saff-championship-2026-india-hold-off-late-pakistan-fightback-to-win-3-2-in-dhaka-458231.html",
    "https://www.outlookindia.com/sports/football/india-vs-pakistan-saff-championship-2026-match-report"
-  ]
+  ],
+  "reel_media_id": "18122419123749214",
+  "note": "Carousel published although Windsor returned 'Application request limit reached' (confirmed via get_data, not retried). Reel to Reels tab only (share_to_feed false). Note: an India vs Pakistan SAFF final preview carousel (18127206442904996, 2026-11-15) exists on the account but was not logged in posted.json."
  }
 ]
