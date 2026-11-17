@@ -1,0 +1,43 @@
+{
+  "slug": "2026-11-17-pm-saff-final-result",
+  "tag": "FOOTBALL",
+  "sport": "football",
+  "series": "29 / FULL TIME",
+  "slides": [
+    {
+      "type": "hero",
+      "kicker": "SAFF CHAMPIONSHIP FINAL · DHAKA · FULL TIME",
+      "grey": "1-0 down at half-time.",
+      "white": "India beat Pakistan 2-1. Title No. 10.",
+      "sub": "Pakistan went down to 10 men. Sandip Mandi headed the winner in the 88th minute.",
+      "facts": [["10", "SAFF titles, a record"], ["3", "in a row, a first for India"]]
+    },
+    {
+      "type": "stat",
+      "kicker": "THE TURNING POINT",
+      "big": "59'",
+      "body": "Pakistan's Junaid Shah is sent off after a VAR review for a studs-up challenge on Brison Fernandes. One minute later, Suhail Ahmad Bhat equalises.",
+      "note": "Pakistan had led through Alamgir Ghazi's curler in first-half stoppage time."
+    },
+    {
+      "type": "text",
+      "kicker": "HOW IT TURNED",
+      "title": "From 1-0 down to champions",
+      "bullets": [
+        "45+1' Ghazi curls Pakistan ahead",
+        "59' Junaid Shah red card after VAR",
+        "60' Bhat side-foots the equaliser",
+        "88' Mandi heads in Rabeeh's corner"
+      ],
+      "question": "Did the red card decide the final?"
+    }
+  ],
+  "thumb": {"title": "India beat Pakistan to win SAFF title", "sub": "1-0 down. Then 10 men. Then two goals.", "ghost": "10"},
+  "concept": "A comeback told in the order it happened. The hero puts the half-time scoreline in muted grey and the result in white, so the eye reads the swing from 'down' to 'champions', with 10 titles and 3 in a row in the fact row. Slide 2 freezes the one minute that flipped the final: a giant 59' for the VAR red card, with Bhat's equaliser landing a minute later. Slide 3 is a four-line match timeline (45+1', 59', 60', 88') so fans can replay the night at a glance, then asks whether the red card decided it. Football green, type and pitch graphics only: no player photos, no federation logos.",
+  "caption": "1-0 down at half-time. Champions by full-time.\n\nIndia beat Pakistan 2-1 in the SAFF Championship final in Dhaka tonight to win a record 10th title. It is the first time India have won three editions in a row.\n\nWhy it turned: Pakistan led through Alamgir Ghazi's curling finish in first-half stoppage time. In the 59th minute Junaid Shah was sent off after a VAR review for a challenge on Brison Fernandes. One minute later Suhail Ahmad Bhat equalised.\n\nAgainst 10 men India kept pushing. Sandip Mandi headed in Abdul Rabeeh's corner in the 88th minute.\n\nPakistan were playing their first SAFF final. Did the red card decide it or would India have come back anyway? Tell us below.\n\nMatch details via the AIFF, PTI and The Sunday Guardian.\n\n#KrayonSports #SAFFChampionship #IndianFootball #BlueTigers #INDvPAK",
+  "sources": [
+    "https://www.the-aiff.com/article/mandis-late-winner-seals-india-comeback-and-historic-saff-title-hat-trick",
+    "https://www.thedailyjagran.com/sports/ind-vs-pak-saff-championship-2026-final-india-stage-stunning-comeback-to-beat-pakistan-2-1-seal-10th-title-10336667",
+    "https://sundayguardianlive.com/sports/india-vs-pakistan-football-highlights-sandip-mandis-last-gasp-heroics-sink-pakistan-as-india-clinch-10th-saff-championship-title-323682/"
+  ]
+}

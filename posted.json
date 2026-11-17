@@ -514,5 +514,21 @@
   ],
   "reel_media_id": "18122419123749214",
   "note": "Carousel published although Windsor returned 'Application request limit reached' (confirmed via get_data, not retried). Reel to Reels tab only (share_to_feed false). Note: an India vs Pakistan SAFF final preview carousel (18127206442904996, 2026-11-15) exists on the account but was not logged in posted.json."
+ },
+ {
+  "slug": "2026-11-17-pm-saff-final-result",
+  "series": 29,
+  "sport": "football",
+  "headline": "1-0 down at half-time. India beat Pakistan 2-1. Title No. 10.",
+  "format": "carousel",
+  "status": "pending",
+  "created": "2026-11-17T17:16:01Z",
+  "published": null,
+  "media_id": null,
+  "sources": [
+   "https://www.the-aiff.com/article/mandis-late-winner-seals-india-comeback-and-historic-saff-title-hat-trick",
+   "https://www.thedailyjagran.com/sports/ind-vs-pak-saff-championship-2026-final-india-stage-stunning-comeback-to-beat-pakistan-2-1-seal-10th-title-10336667",
+   "https://sundayguardianlive.com/sports/india-vs-pakistan-football-highlights-sandip-mandis-last-gasp-heroics-sink-pakistan-as-india-clinch-10th-saff-championship-title-323682/"
+  ]
  }
 ]
