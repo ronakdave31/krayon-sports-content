@@ -1,0 +1,75 @@
+{
+  "slug": "2026-11-17-am-england-end-spain-run",
+  "tag": "FOOTBALL",
+  "sport": "football",
+  "series": "26 / THE BREAKDOWN",
+  "slides": [
+    {
+      "type": "hero",
+      "kicker": "NATIONS LEAGUE · MADRID · NOV 15",
+      "grey": "Spain hadn't lost in 43 games.",
+      "white": "England were 3-0 up by the 57th minute.",
+      "sub": "Then a red card. Ten-man England held on to win 3-2 and top Group A3.",
+      "facts": [
+        [
+          "43",
+          "Spain's unbeaten run, ended"
+        ],
+        [
+          "10",
+          "away wins in a row: England record"
+        ]
+      ]
+    },
+    {
+      "type": "stat",
+      "kicker": "THE STREAK",
+      "big": "43",
+      "body": "Games without a defeat for Spain, a run that took in a Euro and a World Cup title. Their last loss: 1-0 to Colombia in a March 2024 friendly.",
+      "note": "Spain had not lost at home in over four years."
+    },
+    {
+      "type": "text",
+      "kicker": "HOW IT GOT TO 3-0",
+      "title": "12 minutes either side of half-time",
+      "bullets": [
+        "45': Kane penalty after VAR, his 93rd for England",
+        "53': Konsa heads in a Declan Rice corner",
+        "57': Ben White finishes low",
+        "Spain had no shot on target in the first half"
+      ]
+    },
+    {
+      "type": "stat",
+      "kicker": "THEN IT TURNED",
+      "big": "2",
+      "body": "Spain goals after Elliot Anderson's red card for a foul on Lamine Yamal. Oyarzabal scored the penalty, sub Nico Williams added another.",
+      "note": "James Trafford's stoppage-time double save kept it 3-2."
+    },
+    {
+      "type": "text",
+      "kicker": "WHAT'S NEXT",
+      "title": "Both teams go through",
+      "bullets": [
+        "England and Spain both finish on 15 points",
+        "England top Group A3 on goal difference",
+        "Quarter-finals in March 2027",
+        "Quarter-final draw: this Friday"
+      ],
+      "question": "Statement win or just a Nations League night?"
+    }
+  ],
+  "thumb": {
+    "title": "England end Spain's 43-game run",
+    "sub": "Spain 2-3 England · Nations League",
+    "ghost": "43"
+  },
+  "concept": "The story is a streak that looked unbreakable, broken by a team that then nearly threw it away, so the hero is a setup and a sting: 'Spain hadn't lost in 43 games' in muted grey, 'England were 3-0 up by the 57th minute' in white. Slide 2 makes the 43 huge on its own so the size of the run lands before the details. Slide 3 is the 12-minute burst as a clean minute-by-minute list, slide 4 flips the mood with a big 2 (the Spain comeback after the red card) and slide 5 says what both teams play for next and asks fans to judge the win. Football green, type only: no player photos, no crests or federation logos.",
+  "caption": "43 games unbeaten. Ended in Madrid by an England side that nearly let a 3-0 lead slip.\n\nHarry Kane scored a penalty right before half-time. Ezri Konsa headed in a Declan Rice corner and Ben White made it 3-0 inside an hour. Spain, world and European champions, had no shot on target in the first half.\n\nThen Elliot Anderson was sent off for a foul on Lamine Yamal in the box. Oyarzabal scored the penalty, Nico Williams pulled another back and James Trafford needed a stoppage-time double save to keep it 3-2.\n\nSpain's last defeat before Sunday was a March 2024 friendly against Colombia. England now top Group A3 on goal difference and both teams go into the March quarter-finals.\n\nStatement win for Tuchel's England, or just a Nations League night? Tell us below.\n\nMatch details via ESPN, Al Jazeera and Sky Sports.\n\n#KrayonSports #Football #NationsLeague #England #Spain #HarryKane",
+  "sources": [
+    "https://www.espn.com/soccer/story/_/id/50493712/england-spain-43-game-unbeaten-run",
+    "https://www.aljazeera.com/sports/2026/11/15/england-stun-spain-to-end-la-rojas-43-game-unbeaten-run",
+    "https://www.skysports.com/football/news/13611877/spain-2-3-england-three-lions-hold-on-for-famous-win-after-elliot-anderson-red-card-to-top-nations-league-group-a3",
+    "https://www.thejournal.ie/england-beat-spain-nations-league-2-7227367-Nov2026/"
+  ]
+}
