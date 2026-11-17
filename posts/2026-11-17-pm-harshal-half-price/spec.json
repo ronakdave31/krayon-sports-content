@@ -1,0 +1,88 @@
+{
+  "slug": "2026-11-17-pm-harshal-half-price",
+  "tag": "IPL BUSINESS",
+  "sport": "business",
+  "series": "27 / THE BREAKDOWN",
+  "slides": [
+    {
+      "type": "hero",
+      "kicker": "IPL 2027 · TRADE · NOV 17",
+      "grey": "Rs 8 crore at SRH. Two purple caps.",
+      "white": "Now Rs 4 crore at Gujarat Titans.",
+      "sub": "SRH trade Harshal Patel in an all-cash deal on retention deadline day.",
+      "facts": [
+        [
+          "Rs 4 cr",
+          "half his SRH fee"
+        ],
+        [
+          "5th",
+          "IPL team of his career"
+        ]
+      ]
+    },
+    {
+      "type": "bars",
+      "kicker": "WHY THE PRICE HALVED",
+      "title": "From purple cap to zero",
+      "sub": "Harshal Patel's wickets, by IPL season",
+      "rows": [
+        [
+          "2021",
+          "RCB · purple cap",
+          32
+        ],
+        [
+          "2024",
+          "PBKS · purple cap",
+          24
+        ],
+        [
+          "2025",
+          "SRH · 13 matches",
+          16
+        ],
+        [
+          "2026",
+          "SRH · 5 matches",
+          0,
+          "0"
+        ]
+      ],
+      "note": "SRH paid Rs 8 crore for him in 2025."
+    },
+    {
+      "type": "stat",
+      "kicker": "THE 2026 SEASON",
+      "big": "0",
+      "body": "Wickets in 5 matches for SRH in IPL 2026, at 10.82 runs an over.",
+      "note": "Career: 151 wickets in 124 IPL matches."
+    },
+    {
+      "type": "text",
+      "kicker": "WHAT'S NEXT",
+      "title": "Retention lists are due today",
+      "bullets": [
+        "All 10 teams name who stays and who goes",
+        "Player registration for the auction closes Nov 23",
+        "Mini-auction: Goa, December 16"
+      ],
+      "question": "Smart buy for GT at Rs 4 crore?"
+    }
+  ],
+  "thumb": {
+    "title": "Harshal Patel traded at half price",
+    "sub": "SRH to GT · Rs 8 cr to Rs 4 cr",
+    "ghost": "4"
+  },
+  "concept": "The story is a price tag cut in half, so the hero sets the old value against the new one: 'Two purple caps. Rs 8 crore at SRH.' in muted grey, 'Now Rs 4 crore at Gujarat Titans.' in white. Slide 2 explains why with a bar chart of his wickets by season, two purple-cap bars shrinking to a bar that is barely there for 2026, and slide 3 makes that 0 huge on its own. The last slide turns to today's retention deadline and the Goa auction and asks fans to judge the deal. Business gold, type and charts only: no player photos, no team logos.",
+  "caption": "Two purple caps. Rs 8 crore at SRH. Now Rs 4 crore at Gujarat Titans.\n\nSunrisers Hyderabad have traded Harshal Patel to GT in an all-cash deal at a revised fee of Rs 4 crore, half of what they paid for him at the 2025 mega auction.\n\nWhy the drop? He took 16 wickets in 13 matches in his first SRH season. In IPL 2026 he played 5 matches, went at 10.82 an over and did not take a wicket.\n\nHe still has 151 IPL wickets and purple caps from 2021 (RCB) and 2024 (PBKS). GT will be his fifth IPL team.\n\nThe trade came on retention deadline day. All 10 teams name their retained and released players today and the mini-auction is in Goa on December 16.\n\nSmart buy for GT at Rs 4 crore? Tell us below.\n\nTrade details via the IPL announcement, IANS, ETV Bharat and CricTracker.\n\n#KrayonSports #IPL2027 #HarshalPatel #GujaratTitans #SRH #IPLRetention",
+  "sources": [
+    "https://ianslive.in/ipl-2027-harshal-patel-traded-to-gujarat-titans-from-sunrisers-hyderabad--20261117132651",
+    "https://www.etvbharat.com/en/sports/ipl-2027-harshal-patel-joins-gujarat-titans-from-sunrisers-hyderabad-for-inr-4-crores-enn26111702846",
+    "https://www.crictracker.com/cricket-news/harshal-patel-traded-to-gujarat-titans-from-sunrisers-hyderabad-for-inr-4-crore/",
+    "https://thesportstak.com/cricket/story/srh-trade-2-time-purple-cap-winner-harshal-patel-to-gujarat-titans-for-half-fee-arste-3561614-2026-11-17",
+    "https://www.india.com/sports/cricket/bcci-extends-ipl-retention-deadline-to-november-17-shares-mini-auction-schedule-8541649/",
+    "https://www.india.com/sports/cricket/ipl-2027-retention-day-updates-indian-premier-league-player-auction-retained-released-players-list-bcci-news-8545527/"
+  ]
+}
