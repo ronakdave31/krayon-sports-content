@@ -457,15 +457,19 @@
     "sport": "football",
     "headline": "Spain hadn't lost in 43 games. England were 3-0 up by the 57th minute.",
     "format": "carousel",
-    "status": "pending",
+    "status": "published",
     "created": "2026-11-17T04:14:14+00:00",
-    "published": null,
-    "media_id": null,
+    "published": "2026-11-17T05:32:35+00:00",
+    "media_id": "18222607054349339",
     "sources": [
       "https://www.espn.com/soccer/story/_/id/50493712/england-spain-43-game-unbeaten-run",
       "https://www.aljazeera.com/sports/2026/11/15/england-stun-spain-to-end-la-rojas-43-game-unbeaten-run",
       "https://www.skysports.com/football/news/13611877/spain-2-3-england-three-lions-hold-on-for-famous-win-after-elliot-anderson-red-card-to-top-nations-league-group-a3",
       "https://www.thejournal.ie/england-beat-spain-nations-league-2-7227367-Nov2026/"
-    ]
+    ],
+    "reel_media_id": "17916718263509550",
+    "reel_published": "2026-11-17T05:34:09+00:00",
+    "sha": "67cd2e4daeeabebc1a6d74c7a4885dc0362c2859",
+    "note": "Carousel call returned rate-limit error but did publish (confirmed via get_data); reel share_to_feed false"
   }
 ]
