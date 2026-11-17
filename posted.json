@@ -478,10 +478,10 @@
     "sport": "business",
     "headline": "Rs 8 crore at SRH. Two purple caps. Now Rs 4 crore at Gujarat Titans.",
     "format": "carousel",
-    "status": "pending",
+    "status": "published",
     "created": "2026-11-17T08:15:21Z",
-    "published": null,
-    "media_id": null,
+    "published": "2026-11-17T08:24:51Z",
+    "media_id": "18139106323634646",
     "sources": [
       "https://ianslive.in/ipl-2027-harshal-patel-traded-to-gujarat-titans-from-sunrisers-hyderabad--20261117132651",
       "https://www.etvbharat.com/en/sports/ipl-2027-harshal-patel-joins-gujarat-titans-from-sunrisers-hyderabad-for-inr-4-crores-enn26111702846",
@@ -489,6 +489,8 @@
       "https://thesportstak.com/cricket/story/srh-trade-2-time-purple-cap-winner-harshal-patel-to-gujarat-titans-for-half-fee-arste-3561614-2026-11-17",
       "https://www.india.com/sports/cricket/bcci-extends-ipl-retention-deadline-to-november-17-shares-mini-auction-schedule-8541649/",
       "https://www.india.com/sports/cricket/ipl-2027-retention-day-updates-indian-premier-league-player-auction-retained-released-players-list-bcci-news-8545527/"
-    ]
+    ],
+    "reel_media_id": "18121790821995469",
+    "note": "Carousel published although Windsor returned 'Application request limit reached' (confirmed via get_data, not retried). Reel to Reels tab only (share_to_feed false), 08:25:50 UTC."
   }
 ]
