@@ -161,6 +161,10 @@ If Windsor returns "Application request limit reached", the post may still have 
 check with Windsor `get_data` (connector `instagram`, fields `media_id`, `media_type`, `timestamp`, `media_caption`,
 `date_preset` `last_3dT`) whether a post with this caption already exists. Retry only if it does not, or you will
 post it twice.
+Do NOT filter on `media_caption` (new posts can show up without a caption match): list all media for
+`last_1dT` and look for a new post of the right `media_type` with a timestamp after your first attempt.
+(On 2026-11-18 three "limit reached" carousel calls all went through and the caption filter showed nothing.)
+If the check is unclear, do not retry: tell Ronak instead.
 
 Then set the entry's `status` to `published`, store the returned media id and time, commit and push,
 and tell Ronak it's live.
