@@ -561,13 +561,15 @@
     "created": "2026-11-18T08:16:48Z",
     "published": null,
     "media_id": null,
-    "reel_media_id": null,
+    "reel_media_id": "17869023711678717",
     "sources": [
       "https://www.mykhel.com/more-sports/pv-sindhu-re-enters-world-s-top-five-after-four-years-459371.html",
       "https://revsportz.in/pv-sindhu-returns-to-worlds-top-five-after-four-years/",
       "https://indianopinion.org/pv-sindhu-returns-to-world-top-five-after-four-years/",
       "https://bwfworldtour.bwfbadminton.com/news-single/2026/07/19/japan-open-pusarla-breaks-title-drought/",
       "https://www.espn.com/espn/story/_/id/50337132/pv-sindhu-lakshya-sen-hylo-open-badminton-double-header-isl-india-hockey-asian-champions-trophy-indian-sports-live-november-1"
-    ]
+    ],
+    "reel_published": "2026-11-18T10:29:48Z",
+    "note": "reel live; carousel hit Windsor \"Application request limit reached\" 3 times, retry pending"
   }
 ]
