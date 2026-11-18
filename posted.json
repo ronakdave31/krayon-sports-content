@@ -539,7 +539,7 @@
     "sport": "cricket",
     "headline": "Five titles. No farewell. Dhoni retires. CSK make him mentor.",
     "format": "carousel",
-    "status": "pending",
+    "status": "expired",
     "created": "2026-11-18T04:14:42+00:00",
     "published": null,
     "media_id": null,
@@ -549,6 +549,25 @@
       "https://sports.yahoo.com/articles/ms-dhoni-retires-csk-legend-092828972.html",
       "https://sports.yahoo.com/articles/ms-dhoni-informed-csk-decision-124134229.html",
       "https://www.mykhel.com/cricket/ipl-2027-auction-purse-full-list-of-purse-remaining-squad-slots-for-all-10-teams-ahead-of-mini-auc-459295.html"
+    ]
+  },
+  {
+    "slug": "2026-11-18-pm-sindhu-top-five",
+    "series": 31,
+    "sport": "indian",
+    "headline": "No. 11 in October. Sindhu is back in the top 5.",
+    "format": "carousel",
+    "status": "pending",
+    "created": "2026-11-18T08:16:48Z",
+    "published": null,
+    "media_id": null,
+    "reel_media_id": null,
+    "sources": [
+      "https://www.mykhel.com/more-sports/pv-sindhu-re-enters-world-s-top-five-after-four-years-459371.html",
+      "https://revsportz.in/pv-sindhu-returns-to-worlds-top-five-after-four-years/",
+      "https://indianopinion.org/pv-sindhu-returns-to-world-top-five-after-four-years/",
+      "https://bwfworldtour.bwfbadminton.com/news-single/2026/07/19/japan-open-pusarla-breaks-title-drought/",
+      "https://www.espn.com/espn/story/_/id/50337132/pv-sindhu-lakshya-sen-hylo-open-badminton-double-header-isl-india-hockey-asian-champions-trophy-indian-sports-live-november-1"
     ]
   }
 ]
