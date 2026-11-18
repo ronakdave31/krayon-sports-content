@@ -1,0 +1,102 @@
+{
+  "slug": "2026-11-18-am-dhoni-retires",
+  "tag": "CRICKET",
+  "sport": "cricket",
+  "series": "30 / THE BREAKDOWN",
+  "slides": [
+    {
+      "type": "hero",
+      "kicker": "IPL 2027 RETENTIONS · CSK",
+      "grey": "Five titles. No farewell.",
+      "white": "Dhoni retires. CSK make him mentor.",
+      "sub": "He told CSK on retention deadline day. He missed all of IPL 2026.",
+      "facts": [
+        [
+          "5",
+          "IPL titles as CSK captain"
+        ],
+        [
+          "45",
+          "his age today"
+        ]
+      ]
+    },
+    {
+      "type": "stat",
+      "kicker": "WHY NOW",
+      "big": "0",
+      "body": "IPL 2026 matches played. A calf injury kept him out of the whole season and there is no farewell game at Chepauk.",
+      "note": "His contract with CSK was worth Rs 4 crore."
+    },
+    {
+      "type": "bars",
+      "kicker": "WHAT CSK TAKE TO GOA",
+      "title": "Auction purse left after retentions",
+      "sub": "Rs crore · mini-auction on December 16 in Goa",
+      "rows": [
+        [
+          "CSK",
+          "6 slots, 2 overseas",
+          28.05,
+          "28.05"
+        ],
+        [
+          "LSG",
+          "biggest purse",
+          47.45,
+          "47.45"
+        ],
+        [
+          "KKR",
+          "8 slots",
+          41.65,
+          "41.65"
+        ],
+        [
+          "MI",
+          "9 slots",
+          32.6,
+          "32.60"
+        ],
+        [
+          "RCB",
+          "5 slots",
+          14.15,
+          "14.15"
+        ],
+        [
+          "GT",
+          "smallest purse",
+          8.75,
+          "8.75"
+        ]
+      ],
+      "highlight_first": true,
+      "note": "All 10 teams: Rs 297.95 crore, 66 slots"
+    },
+    {
+      "type": "text",
+      "kicker": "WHAT CHANGES",
+      "title": "Off the field, still in charge",
+      "bullets": [
+        "Team mentor from IPL 2027",
+        "Stays part of team management",
+        "Reported to keep a big say in selection",
+        "CSK still need 6 players in Goa"
+      ]
+    }
+  ],
+  "thumb": {
+    "title": "MS Dhoni retires from the IPL",
+    "sub": "5 titles. No farewell game. Now CSK mentor.",
+    "ghost": "5"
+  },
+  "concept": "",
+  "caption": "",
+  "sources": [
+    "https://www.business-standard.com/cricket/ipl/ipl-2027-dhoni-head-released-players-auction-december-16-126111701191_1.html",
+    "https://sports.yahoo.com/articles/ms-dhoni-retires-csk-legend-092828972.html",
+    "https://sports.yahoo.com/articles/ms-dhoni-informed-csk-decision-124134229.html",
+    "https://www.mykhel.com/cricket/ipl-2027-auction-purse-full-list-of-purse-remaining-squad-slots-for-all-10-teams-ahead-of-mini-auc-459295.html"
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "slug": "2026-11-18-am-dhoni-retires",
+  "tag": "CRICKET",
+  "sport": "cricket",
+  "series": "30 / THE BREAKDOWN",
+  "slides": [
+    {
+      "type": "hero",
+      "kicker": "IPL 2027 RETENTIONS · CSK",
+      "grey": "Five titles. No farewell.",
+      "white": "Dhoni retires. CSK make him mentor.",
+      "sub": "He told CSK on retention deadline day. He missed all of IPL 2026.",
+      "facts": [
+        [
+          "5",
+          "IPL titles as CSK captain"
+        ],
+        [
+          "45",
+          "his age today"
+        ]
+      ]
+    },
+    {
+      "type": "stat",
+      "kicker": "WHY NOW",
+      "big": "0",
+      "body": "IPL 2026 matches played. A calf injury kept him out of the whole season and there is no farewell game at Chepauk.",
+      "note": "His contract with CSK was worth Rs 4 crore."
+    },
+    {
+      "type": "bars",
+      "kicker": "WHAT CSK TAKE TO GOA",
+      "title": "Auction purse left after retentions",
+      "sub": "Rs crore · mini-auction on December 16 in Goa",
+      "rows": [
+        [
+          "CSK",
+          "6 slots, 2 overseas",
+          28.05,
+          "28.05"
+        ],
+        [
+          "LSG",
+          "biggest purse",
+          47.45,
+          "47.45"
+        ],
+        [
+          "KKR",
+          "8 slots",
+          41.65,
+          "41.65"
+        ],
+        [
+          "MI",
+          "9 slots",
+          32.6,
+          "32.60"
+        ],
+        [
+          "RCB",
+          "5 slots",
+          14.15,
+          "14.15"
+        ],
+        [
+          "GT",
+          "smallest purse",
+          8.75,
+          "8.75"
+        ]
+      ],
+      "highlight_first": true,
+      "note": "All 10 teams: Rs 297.95 crore, 66 slots"
+    },
+    {
+      "type": "text",
+      "kicker": "WHAT CHANGES",
+      "title": "Off the field, still in charge",
+      "bullets": [
+        "Team mentor from IPL 2027",
+        "Stays part of team management",
+        "Reported to keep a big say in selection",
+        "CSK still need 6 players in Goa"
+      ],
+      "question": "Can CSK win a title without Dhoni on the field?"
+    }
+  ],
+  "thumb": {
+    "title": "MS Dhoni retires from the IPL",
+    "sub": "5 titles. No farewell. Now CSK mentor.",
+    "ghost": "5"
+  },
+  "concept": "The end of an era told as a handover, not a tribute. The hero sets 'Five titles. No farewell.' in muted grey above the news in white, so the quiet exit is the first thing you feel. Slide 2 is a single giant 0, the IPL 2026 games he played, which answers 'why now' in one glance. Slide 3 turns to what fans will ask next: CSK's Rs 28.05 crore auction purse as the one coloured bar against the biggest (LSG) and smallest (GT) purses, so you see where Chennai stand going into Goa. Slide 4 closes on his new job as mentor and asks if CSK can win without him on the field. Cricket blue, a self-drawing pitch in the reel, type only: no player photos, no team logos.",
+  "caption": "Five IPL titles. No farewell game.\n\nMS Dhoni has retired from the IPL. He told Chennai Super Kings on retention deadline day and moves straight into a new role as CSK's team mentor from IPL 2027.\n\nWhy now: a calf injury kept him out of the whole 2026 season. There will be no farewell match at Chepauk.\n\nWhat it means: CSK go to the December 16 mini-auction in Goa with Rs 28.05 crore and 6 squad places to fill (2 overseas). Dhoni stays in team management and is reported to keep a big say in selection.\n\nCan CSK win a title without Dhoni on the field? Tell us below.\n\nDetails via Business Standard, The Cricket News and myKhel.\n\n#KrayonSports #MSDhoni #CSK #IPL2027 #IPLAuction #Cricket",
+  "sources": [
+    "https://www.business-standard.com/cricket/ipl/ipl-2027-dhoni-head-released-players-auction-december-16-126111701191_1.html",
+    "https://sports.yahoo.com/articles/ms-dhoni-retires-csk-legend-092828972.html",
+    "https://sports.yahoo.com/articles/ms-dhoni-informed-csk-decision-124134229.html",
+    "https://www.mykhel.com/cricket/ipl-2027-auction-purse-full-list-of-purse-remaining-squad-slots-for-all-10-teams-ahead-of-mini-auc-459295.html"
+  ]
+}
