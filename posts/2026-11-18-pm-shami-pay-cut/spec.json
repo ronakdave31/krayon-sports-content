@@ -1,0 +1,62 @@
+{
+  "slug": "2026-11-18-pm-shami-pay-cut",
+  "tag": "IPL BUSINESS",
+  "sport": "business",
+  "series": "33 / THE BREAKDOWN",
+  "slides": [
+    {
+      "type": "hero",
+      "kicker": "IPL 2027 · TRADE · NOV 17",
+      "grey": "Rs 10 crore at Lucknow.",
+      "white": "Now Rs 8 crore at Rajasthan Royals.",
+      "sub": "LSG send Mohammed Shami and M Siddharth to RR. Sam Curran goes the other way.",
+      "facts": [
+        ["Rs 2 cr", "pay cut for Shami"],
+        ["145", "IPL wickets"]
+      ]
+    },
+    {
+      "type": "bars",
+      "kicker": "THE TRADE IN RUPEES",
+      "title": "Three players, three prices",
+      "sub": "IPL 2027 fee, Rs crore",
+      "rows": [
+        ["Shami", "LSG to RR · revised fee", 8, "8"],
+        ["Curran", "RR to LSG · same fee", 2.4, "2.4"],
+        ["Siddharth", "LSG to RR · same fee", 0.75, "0.75"]
+      ],
+      "highlight_first": true,
+      "note": "Shami's LSG fee was Rs 10 crore."
+    },
+    {
+      "type": "stat",
+      "kicker": "WHY THE CUT",
+      "big": "9.00",
+      "body": "Runs an over Shami went at in IPL 2026: 12 wickets in 13 matches.",
+      "note": "He is 36 and has retired from Tests."
+    },
+    {
+      "type": "text",
+      "kicker": "WHAT'S NEXT",
+      "title": "A new-look RR pace attack",
+      "bullets": [
+        "Shami joins Jofra Archer and Nandre Burger",
+        "Curran missed IPL 2026 injured, now heads to LSG",
+        "Mini-auction: December 16"
+      ],
+      "question": "Good deal for RR at Rs 8 crore?"
+    }
+  ],
+  "thumb": {
+    "title": "Shami traded to RR with a pay cut",
+    "sub": "LSG to RR · Rs 10 cr to Rs 8 cr",
+    "ghost": "8"
+  },
+  "concept": "Same idea as our trade-price series: the hero sets the old price against the new one, 'Rs 10 crore at Lucknow.' in muted grey and 'Now Rs 8 crore at Rajasthan Royals.' in white, so the cut reads in one glance. Slide 2 is a bar chart of the three-player swap in rupees, Shami's Rs 8 crore bar dwarfing Curran's Rs 2.4 crore and Siddharth's Rs 75 lakh. Slide 3 blows up the reason, his 9.00 economy in IPL 2026, and the last slide turns to RR's new pace attack and the December 16 auction before asking fans to judge the deal. Business gold, type and charts only: no player photos, no team logos.",
+  "caption": "Rs 10 crore at Lucknow. Now Rs 8 crore at Rajasthan Royals.\n\nLucknow Super Giants have traded Mohammed Shami and M Siddharth to RR in a three-player deal. Sam Curran moves to LSG at his existing Rs 2.4 crore fee.\n\nShami joins at a revised fee of Rs 8 crore, Rs 2 crore less than LSG paid. Why the cut? In IPL 2026 he took 12 wickets in 13 matches at 9.00 an over. He is 36 and has retired from Tests.\n\nHe still has 145 wickets in 132 IPL matches and he joins Jofra Archer and Nandre Burger in the RR pace attack. Siddharth moves at his existing Rs 75 lakh.\n\nThe mini-auction is on December 16.\n\nGood deal for RR at Rs 8 crore? Tell us below.\n\nTrade details via the IPL announcement, Business Today, ETV Bharat and Outlook India.\n\n#KrayonSports #IPL2027 #MohammedShami #RajasthanRoyals #LSG #IPLTrade",
+  "sources": [
+    "https://www.businesstoday.in/sports/ipl/story/ipl-2027-trade-mohammed-shami-moves-to-rajasthan-royals-for-rs-8-crore-sam-curran-joins-lucknow-567928-2026-11-17",
+    "https://www.etvbharat.com/en/sports/ipl-2027-mohammed-shami-to-rajasthan-royals-sam-curran-to-lucknow-super-giants-enn26111703839",
+    "https://www.outlookindia.com/sports/cricket/mohammed-shami-trade-rajasthan-royals-lucknow-super-giants-rr-lsg-sam-curran-m-siddharth-ipl-2027"
+  ]
+}
