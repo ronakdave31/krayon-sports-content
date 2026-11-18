@@ -582,10 +582,10 @@
     "sport": "f1",
     "headline": "The title is settled. Now five drivers fight for P2.",
     "format": "carousel",
-    "status": "expired",
+    "status": "published",
     "created": "2026-11-18T12:16:44Z",
-    "published": null,
-    "media_id": null,
+    "published": "2026-11-18T18:08:45Z",
+    "media_id": "18122803009983329",
     "sources": [
       "https://www.formula1.com/en/latest/article/its-race-week-5-storylines-were-excited-about-ahead-of-the-2026-las-vegas-grand-prix.3fjavheTbHD8fjZI0i7BWd",
       "https://racingnews365.com/2026-f1-championship-standings-after-sao-paulo-grand-prix",
@@ -594,7 +594,8 @@
       "https://sports.yahoo.com/articles/stat-day-one-point-separates-181500302.html"
     ],
     "note": "Marked expired at 22:41 IST, but a carousel with this caption appeared on Instagram at 18:08:45Z (media 18122803009983329), same second as the Shami carousel. Not published by the 10:40 pm run; Ronak to decide whether to delete it.",
-    "unexpected_media_id": "18122803009983329"
+    "unexpected_media_id": "18122803009983329",
+    "reel_media_id": "17910669600330131"
   },
   {
     "slug": "2026-11-18-pm-shami-pay-cut",
