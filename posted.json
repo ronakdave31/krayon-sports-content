@@ -592,7 +592,9 @@
       "https://grandepremio.com/en/f1/2026-f1-standings-after-sao-paulo-gp-as-mercedes-clinches-title-and-verstappen-extends-lead-over-russell/",
       "https://www.gpblog.com/en/news/world-championship-standings-after-the-brazilian-gp-verstappen-makes-major-gains-in-the-battle-for-p2",
       "https://sports.yahoo.com/articles/stat-day-one-point-separates-181500302.html"
-    ]
+    ],
+    "note": "Marked expired at 22:41 IST, but a carousel with this caption appeared on Instagram at 18:08:45Z (media 18122803009983329), same second as the Shami carousel. Not published by the 10:40 pm run; Ronak to decide whether to delete it.",
+    "unexpected_media_id": "18122803009983329"
   },
   {
     "slug": "2026-11-18-pm-shami-pay-cut",
@@ -600,14 +602,17 @@
     "sport": "business",
     "headline": "Rs 10 crore at Lucknow. Now Rs 8 crore at Rajasthan Royals.",
     "format": "carousel",
-    "status": "pending",
+    "status": "published",
     "created": "2026-11-18T17:14:54Z",
-    "published": null,
-    "media_id": null,
+    "published": "2026-11-18T18:08:45Z",
+    "media_id": "18212941738368607",
     "sources": [
       "https://www.businesstoday.in/sports/ipl/story/ipl-2027-trade-mohammed-shami-moves-to-rajasthan-royals-for-rs-8-crore-sam-curran-joins-lucknow-567928-2026-11-17",
       "https://www.etvbharat.com/en/sports/ipl-2027-mohammed-shami-to-rajasthan-royals-sam-curran-to-lucknow-super-giants-enn26111703839",
       "https://www.outlookindia.com/sports/cricket/mohammed-shami-trade-rajasthan-royals-lucknow-super-giants-rr-lsg-sam-curran-m-siddharth-ipl-2027"
-    ]
+    ],
+    "reel_media_id": "17885166531652067",
+    "reel_published": "2026-11-18T18:10:00Z",
+    "note": "Carousel call returned \"Application request limit reached\" but went through; not retried."
   }
 ]
