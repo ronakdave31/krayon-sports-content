@@ -575,5 +575,23 @@
       "17925723000266101",
       "17914670751564766"
     ]
+  },
+  {
+    "slug": "2026-11-18-pm-f1-fight-for-p2",
+    "series": 32,
+    "sport": "f1",
+    "headline": "The title is settled. Now five drivers fight for P2.",
+    "format": "carousel",
+    "status": "pending",
+    "created": "2026-11-18T12:16:44Z",
+    "published": null,
+    "media_id": null,
+    "sources": [
+      "https://www.formula1.com/en/latest/article/its-race-week-5-storylines-were-excited-about-ahead-of-the-2026-las-vegas-grand-prix.3fjavheTbHD8fjZI0i7BWd",
+      "https://racingnews365.com/2026-f1-championship-standings-after-sao-paulo-grand-prix",
+      "https://grandepremio.com/en/f1/2026-f1-standings-after-sao-paulo-gp-as-mercedes-clinches-title-and-verstappen-extends-lead-over-russell/",
+      "https://www.gpblog.com/en/news/world-championship-standings-after-the-brazilian-gp-verstappen-makes-major-gains-in-the-battle-for-p2",
+      "https://sports.yahoo.com/articles/stat-day-one-point-separates-181500302.html"
+    ]
   }
 ]

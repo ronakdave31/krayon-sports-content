@@ -1,0 +1,92 @@
+{
+  "slug": "2026-11-18-pm-f1-fight-for-p2",
+  "tag": "FORMULA 1",
+  "sport": "f1",
+  "series": "32 / THE GRID",
+  "slides": [
+    {
+      "type": "hero",
+      "kicker": "F1 2026 · LAS VEGAS GP THIS WEEK",
+      "grey": "The title is settled.",
+      "white": "Now five drivers fight for P2.",
+      "sub": "Kimi Antonelli is champion. Behind him, second to sixth are split by 33 points with three races left.",
+      "facts": [
+        [
+          "33",
+          "points cover P2 to P6"
+        ],
+        [
+          "129",
+          "points still to win"
+        ]
+      ]
+    },
+    {
+      "type": "bars",
+      "kicker": "DRIVERS' STANDINGS AFTER BRAZIL",
+      "title": "The race for runner-up",
+      "sub": "Points · champion Antonelli has 390",
+      "rows": [
+        [
+          "Verstappen",
+          "Red Bull",
+          279
+        ],
+        [
+          "Russell",
+          "Mercedes",
+          262
+        ],
+        [
+          "Hamilton",
+          "Ferrari",
+          261
+        ],
+        [
+          "Leclerc",
+          "Ferrari",
+          251
+        ],
+        [
+          "Norris",
+          "McLaren",
+          246
+        ]
+      ],
+      "highlight_first": true,
+      "note": "All five have won a race this year."
+    },
+    {
+      "type": "stat",
+      "kicker": "WHY MAX LEADS IT",
+      "big": "8",
+      "body": "straight podiums for Max Verstappen, three of them wins. That run has put him 17 points clear of George Russell.",
+      "note": "He has also won the Las Vegas GP twice (Formula 1)."
+    },
+    {
+      "type": "text",
+      "kicker": "STILL TO PLAY FOR",
+      "title": "Three fights in Vegas",
+      "bullets": [
+        "Russell vs Hamilton for P3: 1 point",
+        "Ferrari well placed for 2nd among teams",
+        "Red Bull 17 points clear of McLaren for 3rd"
+      ],
+      "question": "Who finishes the year as P2?"
+    }
+  ],
+  "thumb": {
+    "title": "F1: five drivers, 33 points, one P2",
+    "sub": "Verstappen leads the fight behind champion Antonelli",
+    "ghost": "P2"
+  },
+  "concept": "A title race that is over, told through the one that isn't. The hero puts 'The title is settled' in muted grey and the live story, 'Now five drivers fight for P2', in white, so the shift in focus is the first thing you read. Slide 2 is a standings bar chart where the five bars are almost the same length: the closeness is the point, and only Verstappen's bar is lit. Slide 3 explains why he leads with one giant 8, his run of straight podiums, and slide 4 lists the other fights to watch in Vegas with a question for fans. F1 red, a track line that draws itself behind the text in the reel, type only: no driver photos and no F1 or team logos.",
+  "caption": "The title is gone. The fight for P2 is wide open.\n\nKimi Antonelli wrapped up the 2026 drivers' title in Mexico City. Behind him just 33 points cover the next five: Verstappen 279, Russell 262, Hamilton 261, Leclerc 251 and Norris 246. All five have won a race this year.\n\nWhy Max leads: eight straight podiums including three wins. He is also a two-time Las Vegas GP winner.\n\nThree races are left with 129 points on offer, starting in Las Vegas this weekend. Russell and Hamilton are split by a single point for P3.\n\nWho finishes the year as P2? Tell us below.\n\nStandings via Formula 1, RacingNews365, GPblog and Grande Premio.\n\n#KrayonSports #F1 #LasVegasGP #Verstappen #Formula1",
+  "sources": [
+    "https://www.formula1.com/en/latest/article/its-race-week-5-storylines-were-excited-about-ahead-of-the-2026-las-vegas-grand-prix.3fjavheTbHD8fjZI0i7BWd",
+    "https://racingnews365.com/2026-f1-championship-standings-after-sao-paulo-grand-prix",
+    "https://grandepremio.com/en/f1/2026-f1-standings-after-sao-paulo-gp-as-mercedes-clinches-title-and-verstappen-extends-lead-over-russell/",
+    "https://www.gpblog.com/en/news/world-championship-standings-after-the-brazilian-gp-verstappen-makes-major-gains-in-the-battle-for-p2",
+    "https://sports.yahoo.com/articles/stat-day-one-point-separates-181500302.html"
+  ]
+}
