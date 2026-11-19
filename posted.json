@@ -622,7 +622,7 @@
   "sport": "cricket",
   "headline": "New Zealand were 70 for 5. Then India couldn't take another wicket.",
   "format": "carousel",
-  "status": "pending",
+  "status": "expired",
   "created": "2026-11-19T05:44:41Z",
   "published": null,
   "media_id": null,
@@ -635,6 +635,21 @@
    "https://www.stuff.co.nz/sport/361060685/sublime-henry-nicholls-century-puts-black-caps-top-after-horror-start-first-test-against-india",
    "https://theopenpress.in/article/india-vs-new-zealand-1st-test-nicholls-phillips-century-partnership-19-november",
    "https://www.wisden.com/series/new-zealand-vs-india-m-2026/cricket-news/nz-vs-ind-tests-2026-schedule-squads-match-timings"
+  ]
+ },
+ {
+  "slug": "2026-11-19-pm-nz-243-for-5",
+  "series": 35,
+  "sport": "cricket",
+  "headline": "New Zealand were 70 for 5. They finished day 1 on 243 for 5.",
+  "format": "carousel",
+  "status": "pending",
+  "created": "2026-11-19T08:20:43Z",
+  "published": null,
+  "media_id": null,
+  "sources": [
+   "https://www.thehansindia.com/sports/1st-test-nicholls-unbeaten-113-phillips-counterattack-lift-new-zealand-to-2435-on-day-1-1143557",
+   "https://argusenglish.in/sports/1st-test-nicholls-phillips-rescue-new-zealand-after-india-rock-top-order-on-day-1"
   ]
  }
 ]

@@ -1,0 +1,82 @@
+{
+  "slug": "2026-11-19-pm-nz-243-for-5",
+  "tag": "CRICKET",
+  "sport": "cricket",
+  "series": "35 / THE BREAKDOWN",
+  "thumb": {
+    "title": "70 for 5. Stumps: 243 for 5.",
+    "sub": "Nicholls 113*, Phillips 94*",
+    "ghost": "173"
+  },
+  "slides": [
+    {
+      "type": "hero",
+      "kicker": "NZ vs INDIA · 1st TEST · DAY 1 STUMPS",
+      "grey": "New Zealand were 70 for 5.",
+      "white": "They finished day 1 on 243 for 5.",
+      "sub": "Basin Reserve, Wellington. India chose to bowl.",
+      "facts": [
+        [
+          "173",
+          "unbroken 6th-wicket stand"
+        ],
+        [
+          "3/52",
+          "Bumrah, 17 overs"
+        ]
+      ]
+    },
+    {
+      "type": "bars",
+      "kicker": "WHERE THE 243 CAME FROM",
+      "title": "New Zealand's runs on day 1",
+      "rows": [
+        [
+          "Nicholls",
+          "113 not out, 221 balls",
+          113,
+          "113*"
+        ],
+        [
+          "Phillips",
+          "94 not out, 182 balls",
+          94,
+          "94*"
+        ],
+        [
+          "The rest",
+          "five batters plus extras",
+          36,
+          "36"
+        ]
+      ],
+      "highlight_first": true,
+      "note": "Lunch: 60 for 4. Fifth wicket down at 70."
+    },
+    {
+      "type": "stat",
+      "kicker": "THE STAND",
+      "big": "173",
+      "body": "Unbroken for the 6th wicket. India's only wicket after lunch was Tom Blundell, caught at slip off Anshul Kamboj.",
+      "note": "Nicholls: 5th Test hundred at the Basin Reserve, in 15 innings there."
+    },
+    {
+      "type": "text",
+      "kicker": "WHY IT GOT AWAY",
+      "title": "Bumrah 3 for 52. The rest 2 for 186.",
+      "bullets": [
+        "Nicholls was dropped soon after his hundred",
+        "Padikkal and Pant both went for the top edge",
+        "Prasidh Krishna: 16 overs, 0 for 58",
+        "One wicket in the last two sessions"
+      ],
+      "question": "Day 2: who breaks the stand first?"
+    }
+  ],
+  "concept": "The day is a before and after, so the hero greys out the morning (New Zealand 70 for 5) and puts the stumps score in bright white underneath it. Slide 2 splits the 243 into three bars: Nicholls and Phillips are two long bars and everyone else is one short one, so you see who made the day before reading a number. Slide 3 gives the unbroken 173 stand one giant figure, and slide 4 answers why with a single contrast in the headline (Bumrah 3 for 52, the rest 2 for 186) before asking who breaks the stand on day 2. Cricket blue, type and data only: no player photos, no logos.",
+  "caption": "New Zealand were 70 for 5. They finished day 1 on 243 for 5.\n\nIndia chose to bowl at the Basin Reserve and Jasprit Bumrah made it count with 3 for 52. New Zealand were 60 for 4 at lunch and lost a fifth wicket at 70.\n\nThen Henry Nicholls and Glenn Phillips batted out the day. Their unbroken stand is worth 173. Nicholls is 113 not out, his fifth Test hundred at the Basin Reserve. Phillips is 94 not out.\n\nIndia's other bowlers took 2 for 186 between them. Nicholls was also dropped soon after his hundred when Devdutt Padikkal and Rishabh Pant both went for a top edge and neither held it.\n\nWho breaks the stand first on day 2? Tell us below.\n\nScores via IANS (The Hans India and Argus English).\n\n#KrayonSports #NZvIND #TeamIndia #TestCricket #Bumrah",
+  "sources": [
+    "https://www.thehansindia.com/sports/1st-test-nicholls-unbeaten-113-phillips-counterattack-lift-new-zealand-to-2435-on-day-1-1143557",
+    "https://argusenglish.in/sports/1st-test-nicholls-phillips-rescue-new-zealand-after-india-rock-top-order-on-day-1"
+  ]
+}
