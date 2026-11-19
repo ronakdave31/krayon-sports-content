@@ -1,0 +1,66 @@
+{
+  "slug": "2026-11-19-pm-rakshitha-beats-chen",
+  "tag": "BADMINTON",
+  "sport": "indian",
+  "series": "36 / THE BREAKDOWN",
+  "thumb": {
+    "title": "19-year-old beats the Olympic champion",
+    "sub": "Rakshitha Ramraj 21-18, 24-22",
+    "ghost": "24-22"
+  },
+  "slides": [
+    {
+      "type": "hero",
+      "kicker": "BADMINTON · HONG KONG OPEN · SUPER 500",
+      "grey": "She is 19.",
+      "white": "She just beat the Olympic champion.",
+      "sub": "Rakshitha Ramraj d. Chen Yu Fei 21-18, 24-22 to reach the quarter-finals.",
+      "facts": [
+        [
+          "No. 4",
+          "Chen's world ranking"
+        ],
+        [
+          "2",
+          "straight-game wins this week"
+        ]
+      ]
+    },
+    {
+      "type": "stat",
+      "kicker": "THE SECOND GAME",
+      "big": "24-22",
+      "body": "Rakshitha closed out the Tokyo 2020 champion in extra points. A day earlier she beat world No. 20 Mia Blichfeldt 21-18, 21-18.",
+      "note": "From Coimbatore. Trains at the Pullela Gopichand Academy."
+    },
+    {
+      "type": "stat",
+      "kicker": "MEANWHILE: RACE TO FINALS",
+      "big": "560",
+      "body": "Points between Lakshya Sen (74,180) and Koki Watanabe (73,620). Srikanth beat Watanabe 21-16, 16-21, 21-9 and that sent Lakshya to the World Tour Finals.",
+      "note": "Top 8 qualify. Hong Kong was the last qualifying event."
+    },
+    {
+      "type": "text",
+      "kicker": "QUARTER-FINALS",
+      "title": "Who India face next in Hong Kong",
+      "bullets": [
+        "Rakshitha vs Pornpawee Chochuwong (THA)",
+        "Lakshya vs Loh Kean Yew, 2021 world champion",
+        "Satwik-Chirag vs Hu Ke Yuan and Lin Xiang Yi",
+        "World Tour Finals: Hangzhou, Dec 9 to 13"
+      ],
+      "question": "Who goes furthest in Hong Kong?"
+    }
+  ],
+  "concept": "Two Indian stories from the same Hong Kong Open, told back to back. The hero sets the age in grey (She is 19.) against the result in bright white (She just beat the Olympic champion.) so the contrast is the hook before any name appears. Slide 2 gives the 24-22 second game one giant number, because the extra points are where a 19-year-old held her nerve. Slide 3 turns to the Race to Finals with one giant number, 560: the gap between Lakshya Sen and Koki Watanabe, closed for good when Srikanth beat Watanabe. Slide 4 lists the quarter-finals and asks who goes furthest. Indian-sport orange, type and data only: no player photos, no logos.",
+  "caption": "She is 19. She just beat the Olympic champion.\n\nRakshitha Ramraj knocked out Tokyo 2020 gold medallist Chen Yu Fei 21-18, 24-22 at the Hong Kong Open on Thursday to reach the quarter-finals. Chen is world No. 4. A day earlier Rakshitha beat world No. 20 Mia Blichfeldt.\n\nThere was more. On Wednesday Kidambi Srikanth beat Koki Watanabe 21-16, 16-21, 21-9. Watanabe was Lakshya Sen's nearest rival in the Race to Finals (73,620 points to Lakshya's 74,180) so that win sealed Lakshya's place at the BWF World Tour Finals in Hangzhou from December 9 to 13. He reached the semi-finals on his debut there in 2021.\n\nLakshya then beat Rasmus Gemke 21-11, 21-18 and faces Loh Kean Yew next. Satwik and Chirag beat Tan Wee Kiong and Nur Mohd Azriyn Ayub 21-19, 21-16 and play Hu Ke Yuan and Lin Xiang Yi.\n\nWho goes furthest in Hong Kong? Tell us below.\n\nResults via PTI, ANI and the Badminton Association of India.\n\n#KrayonSports #Badminton #HongKongOpen #LakshyaSen #IndianSports",
+  "sources": [
+    "https://www.tribuneindia.com/news/chen-yu-fei/hong-kong-open-rakshita-ramraj-stuns-former-olympic-champion-to-reach-qfs",
+    "https://www.thedailyjagran.com/sports/news/india-shine-at-hong-kong-open-as-satwikchirag-reach-quarterfinals-rakshitha-stuns-olympic-champion-10336861",
+    "https://nenews.in/sports/rakshitha-stuns-olympic-champion-chen-yu-fei-as-satwik-chirag-advance-at-hong-kong-open/71436/",
+    "https://thebridge.in/badminton/lakshya-sen-qualifies-bwf-world-tour-finals-2026-58423",
+    "https://www.outlookindia.com/sports/badminton/lakshya-sen-qualifies-bwf-world-tour-kidambi-srikanth-koki-watanabe-hong-kong-open",
+    "https://www.mykhel.com/badminton/bwf-world-tour-finals-2026-lakshya-sen-qualifies-for-sowpiece-event-after-srikanths-hong-kong-open-459431.html"
+  ]
+}
