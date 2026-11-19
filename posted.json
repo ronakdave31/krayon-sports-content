@@ -658,10 +658,10 @@
     "sport": "indian",
     "headline": "She is 19. She just beat the Olympic champion.",
     "format": "carousel",
-    "status": "pending",
+    "status": "published",
     "created": "2026-11-19T12:19:02Z",
-    "published": null,
-    "media_id": null,
+    "published": "2026-11-19T13:01:00Z",
+    "media_id": "18113459768631103",
     "sources": [
       "https://www.tribuneindia.com/news/chen-yu-fei/hong-kong-open-rakshita-ramraj-stuns-former-olympic-champion-to-reach-qfs",
       "https://www.thedailyjagran.com/sports/news/india-shine-at-hong-kong-open-as-satwikchirag-reach-quarterfinals-rakshitha-stuns-olympic-champion-10336861",
@@ -669,6 +669,9 @@
       "https://thebridge.in/badminton/lakshya-sen-qualifies-bwf-world-tour-finals-2026-58423",
       "https://www.outlookindia.com/sports/badminton/lakshya-sen-qualifies-bwf-world-tour-kidambi-srikanth-koki-watanabe-hong-kong-open",
       "https://www.mykhel.com/badminton/bwf-world-tour-finals-2026-lakshya-sen-qualifies-for-sowpiece-event-after-srikanths-hong-kong-open-459431.html"
-    ]
+    ],
+    "reel_media_id": "17954732787083822",
+    "reel_published": "2026-11-19T13:02:12Z",
+    "note": "Carousel call returned \"Application request limit reached\" but get_data showed it live at 13:01 UTC; not retried. Reel share_to_feed false."
   }
 ]
