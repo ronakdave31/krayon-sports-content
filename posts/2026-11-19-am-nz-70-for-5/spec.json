@@ -1,0 +1,105 @@
+{
+  "slug": "2026-11-19-am-nz-70-for-5",
+  "tag": "CRICKET",
+  "sport": "cricket",
+  "series": "34 / THE BREAKDOWN",
+  "thumb": {
+    "title": "70 for 5. Then India lost the day.",
+    "sub": "Nicholls hundred in Wellington",
+    "ghost": "70"
+  },
+  "slides": [
+    {
+      "type": "hero",
+      "kicker": "NZ vs INDIA · 1st TEST · DAY 1",
+      "grey": "New Zealand were 70 for 5.",
+      "white": "Then India couldn't take another wicket.",
+      "sub": "Basin Reserve, Wellington. India chose to bowl.",
+      "facts": [
+        [
+          "3",
+          "wickets for Bumrah"
+        ],
+        [
+          "100+",
+          "stand for the 6th wicket"
+        ]
+      ]
+    },
+    {
+      "type": "bars",
+      "kicker": "HOW THE FIVE FELL",
+      "title": "NZ score at each wicket",
+      "rows": [
+        [
+          "Latham, 0",
+          "bowled Bumrah, 1st over",
+          0,
+          "0"
+        ],
+        [
+          "Conway, 4",
+          "ct Pant b Kamboj",
+          12,
+          "12"
+        ],
+        [
+          "Ravindra, 15",
+          "ct Pant b Akash Deep",
+          51,
+          "51"
+        ],
+        [
+          "Mitchell, 1",
+          "ct Jaiswal b Bumrah",
+          52,
+          "52"
+        ],
+        [
+          "Blundell, 5",
+          "ct Gill b Bumrah, 29th over",
+          70,
+          "70"
+        ],
+        [
+          "Tea",
+          "still five down",
+          140,
+          "140"
+        ]
+      ],
+      "note": "Lunch: 60 for 4. Tea: 140 for 5."
+    },
+    {
+      "type": "stat",
+      "kicker": "THE FIGHTBACK",
+      "big": "100+",
+      "body": "Henry Nicholls and Glenn Phillips, unbroken for the 6th wicket. Nicholls reached his hundred in the final session.",
+      "note": "Phillips went past 50 early in the last session."
+    },
+    {
+      "type": "text",
+      "kicker": "WHY IT GOT AWAY",
+      "title": "Early bite. Then nothing.",
+      "bullets": [
+        "Grass on the pitch helped the seamers early",
+        "Ravindra edged one behind; India didn't review",
+        "India lost a review against Phillips",
+        "Siraj and Jadeja left out for Kamboj and Sundar"
+      ],
+      "question": "Day 2: can India's bowlers get it back?"
+    }
+  ],
+  "concept": "The whole day turns on one number, so the hero greys out the good part (New Zealand 70 for 5) and puts the twist in bright white: India never took a sixth wicket. Slide 2 is the collapse as a bar chart, one bar per wicket showing NZ's score when it fell, so the five short bars and then the long tea bar make the fightback visible before you read a word. Slide 3 gives the Nicholls and Phillips stand one giant number, and slide 4 lists the small things that let the day slip before asking what India do on day 2. Cricket blue, type and data only: no player photos, no logos.",
+  "caption": "New Zealand were 70 for 5. India didn't take another wicket.\n\nShubman Gill won the toss and bowled first on a grassy Basin Reserve pitch. It worked. Jasprit Bumrah bowled Tom Latham in the first over and finished the morning burst with three wickets. Anshul Kamboj and Akash Deep took one each.\n\nThen Henry Nicholls and Glenn Phillips batted through the rest of day 1. Their unbroken 6th-wicket stand went past 100 and Nicholls reached his hundred in the final session.\n\nIndia had their chances. Rachin Ravindra edged one behind that India didn't review and they lost a review against Phillips. Mohammed Siraj and Ravindra Jadeja were left out of the XI.\n\nCan India's bowlers get it back on day 2? Tell us below.\n\nScores and details via The Tribune (ANI), Outlook India, Telangana Today (IANS), Stuff and The Open Press.\n\n#KrayonSports #NZvIND #TeamIndia #TestCricket #Bumrah",
+  "sources": [
+    "https://www.tribuneindia.com/news/akash-deep/1st-test-bumrah-strikes-twice-as-india-reduce-new-zealand-to-60-4-at-lunch-on-day-1",
+    "https://www.tribuneindia.com/news/glenn-phillips/1st-test-nicholls-phillips-lead-new-zealands-fightback-after-top-order-collapse-take-hosts-to-140-5-at-tea-against-india",
+    "https://www.outlookindia.com/sports/cricket/india-vs-new-zealand-1st-test-day-1-live-score-ind-vs-nz-playing-xi-scorecard-latest-commentary-highlights",
+    "https://telanganatoday.com/1st-test-new-zealand-recover-to-140-5-at-tea-despite-bumrahs-three-wickets",
+    "https://newsable.asianetnews.com/sports/nicholls-and-phillips-lead-new-zealand-fightback-against-india-test-articleshow-m3val6l",
+    "https://www.stuff.co.nz/sport/361060685/sublime-henry-nicholls-century-puts-black-caps-top-after-horror-start-first-test-against-india",
+    "https://theopenpress.in/article/india-vs-new-zealand-1st-test-nicholls-phillips-century-partnership-19-november",
+    "https://www.wisden.com/series/new-zealand-vs-india-m-2026/cricket-news/nz-vs-ind-tests-2026-schedule-squads-match-timings"
+  ]
+}
