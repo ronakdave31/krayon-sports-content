@@ -673,5 +673,23 @@
     "reel_media_id": "17954732787083822",
     "reel_published": "2026-11-19T13:02:12Z",
     "note": "Carousel call returned \"Application request limit reached\" but get_data showed it live at 13:01 UTC; not retried. Reel share_to_feed false."
+  },
+  {
+    "slug": "2026-11-19-pm-league-panel",
+    "series": 37,
+    "sport": "business",
+    "headline": "The IPL works. Most other leagues struggle. Now 14 people get 8 weeks to fix that.",
+    "format": "carousel",
+    "status": "pending",
+    "created": "2026-11-19T17:16:02+00:00",
+    "published": null,
+    "media_id": null,
+    "reel_media_id": null,
+    "sources": [
+      "https://thebridge.in/news/sports-ministry-panel-develop-sustainable-sports-leagues-58415",
+      "https://theprint.in/sport/ipl-coo-amin-ioa-ceo-iyer-in-sports-ministry-committee-to-create-framework-for-leagues-in-india/3101902/",
+      "https://www.mykhel.com/news/sports-ministry-14-member-committee-sports-leagues-hemang-amin-459415.html",
+      "https://indiantelevision.com/television/government-forms-14-member-panel-to-build-indias-sports-league-ecosystem/"
+    ]
   }
 ]

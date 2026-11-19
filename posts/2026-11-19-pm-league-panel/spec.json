@@ -1,0 +1,102 @@
+{
+  "slug": "2026-11-19-pm-league-panel",
+  "tag": "SPORTS BUSINESS",
+  "sport": "business",
+  "series": "37 / THE BREAKDOWN",
+  "thumb": {
+    "title": "Can India build leagues beyond the IPL?",
+    "sub": "14-member panel. 8 weeks to report.",
+    "ghost": "14"
+  },
+  "slides": [
+    {
+      "type": "hero",
+      "kicker": "SPORTS BUSINESS · LEAGUES",
+      "grey": "The IPL works. Most other leagues struggle.",
+      "white": "Now 14 people get 8 weeks to fix that.",
+      "sub": "The Sports Ministry has set up a panel to design professionally managed, financially sustainable leagues.",
+      "facts": [
+        [
+          "14",
+          "panel members"
+        ],
+        [
+          "8 weeks",
+          "to report back"
+        ]
+      ]
+    },
+    {
+      "type": "bars",
+      "kicker": "WHO IS ON THE PANEL",
+      "title": "Money and media hold 8 of 14 seats.",
+      "rows": [
+        [
+          "Corporates",
+          "RIL, GMR, Adani, JSW",
+          4,
+          "4"
+        ],
+        [
+          "Media",
+          "JioStar, Sony, DD, Zee",
+          4,
+          "4"
+        ],
+        [
+          "Ministry",
+          "Two joint secretaries",
+          2,
+          "2"
+        ],
+        [
+          "Others",
+          "BVL, a sports lawyer",
+          2,
+          "2"
+        ],
+        [
+          "BCCI / IPL",
+          "CEO Hemang Amin",
+          1,
+          "1"
+        ],
+        [
+          "IOA",
+          "CEO Raghuram Iyer",
+          1,
+          "1"
+        ]
+      ],
+      "note": "Convener: Kunal, Joint Secretary (Governance)"
+    },
+    {
+      "type": "stat",
+      "kicker": "WHY NOW",
+      "big": "2 years",
+      "body": "The revived hockey league faces the prospect of a shutdown within two years of its revival, PTI reports. The ministry says many sports hit viability hurdles early on.",
+      "note": "Franchise leagues exist in badminton, kabaddi, hockey and wrestling."
+    },
+    {
+      "type": "text",
+      "kicker": "THE BRIEF",
+      "title": "What the panel has to work out",
+      "bullets": [
+        "Which sports first: Olympic, women's, youth, indigenous",
+        "A model for each sport, not one size for all",
+        "Owners, sponsors, media rights and CSR money",
+        "Viability gap funding and cheaper government venues",
+        "Links to schools, colleges and local clubs"
+      ],
+      "question": "Which sport deserves the next big league?"
+    }
+  ],
+  "concept": "This is a money and power story, so it is told in sports-business gold and built like a boardroom chart. The hero sets the problem in grey (the IPL works, most other leagues struggle) against the deadline in white (14 people, 8 weeks) so the hook is the ticking clock. Slide 2 is a seat chart: bars counting who holds the 14 chairs, which makes the point that corporates and broadcasters hold 8 of them without us having to say it. Slide 3 gives one giant number, 2 years, the hockey league's reported shutdown risk, as the reason the panel exists. Slide 4 is the brief as a checklist and ends on the question fans can argue about: which sport deserves the next big league. Type and data only: no photos, no logos.",
+  "caption": "The IPL works. Most other Indian leagues struggle. Now 14 people get 8 weeks to fix that.\n\nThe Sports Ministry has formed a 14-member committee to build a framework for professionally managed and financially sustainable sports leagues. It must report within eight weeks.\n\nLook at who is in the room: BCCI CEO and IPL COO Hemang Amin, IOA CEO Raghuram Iyer, Reliance, GMR, Adani and JSW, plus JioStar, Sony, DD Sports and Zee. Eight of the 14 seats belong to corporates and broadcasters.\n\nTheir brief: pick priority sports (Olympic, women's, youth, indigenous and emerging) and suggest a model for each one. They must find ways to bring in franchise owners, sponsors, media rights and CSR money. They will also look at viability gap funding and cheaper access to government venues. PTI reports the revived hockey league already faces the prospect of a shutdown within two years.\n\nWhich sport deserves the next big league? Tell us below.\n\nDetails via PTI and the Sports Ministry.\n\n#KrayonSports #SportsBusiness #IndianSports #SportsLeagues #KheloIndia",
+  "sources": [
+    "https://thebridge.in/news/sports-ministry-panel-develop-sustainable-sports-leagues-58415",
+    "https://theprint.in/sport/ipl-coo-amin-ioa-ceo-iyer-in-sports-ministry-committee-to-create-framework-for-leagues-in-india/3101902/",
+    "https://www.mykhel.com/news/sports-ministry-14-member-committee-sports-leagues-hemang-amin-459415.html",
+    "https://indiantelevision.com/television/government-forms-14-member-panel-to-build-indias-sports-league-ecosystem/"
+  ]
+}
