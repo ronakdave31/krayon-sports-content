@@ -1,0 +1,110 @@
+{
+  "slug": "2026-11-20-pm-bengaluru-top",
+  "tag": "FOOTBALL",
+  "sport": "football",
+  "series": "41 / FULL TIME",
+  "slides": [
+    {
+      "type": "hero",
+      "kicker": "ISL 2026-27 · BENGALURU · FULL TIME",
+      "grey": "Mumbai had more of the ball.",
+      "white": "Bengaluru had the goals. And top spot.",
+      "sub": "Bengaluru FC beat Mumbai City 2-0 on Sunil Chhetri's 200th ISL appearance to go top of the table.",
+      "facts": [
+        [
+          "2-0",
+          "Bengaluru v Mumbai City"
+        ],
+        [
+          "13 pts",
+          "from 5 games, unbeaten"
+        ]
+      ]
+    },
+    {
+      "type": "bars",
+      "kicker": "THE MATCH IN NUMBERS",
+      "title": "Mumbai shot more. Bengaluru scored.",
+      "rows": [
+        [
+          "Mumbai City",
+          "Shots · 0 goals",
+          16,
+          "16"
+        ],
+        [
+          "Bengaluru FC",
+          "Shots · 2 goals",
+          9,
+          "9"
+        ],
+        [
+          "Mumbai City",
+          "On target",
+          5,
+          "5"
+        ],
+        [
+          "Bengaluru FC",
+          "On target",
+          4,
+          "4"
+        ]
+      ],
+      "highlight_first": false,
+      "note": "Mumbai had 51% of the ball. Via SportsAdda.",
+      "sub": "Shots and shots on target, Friday night"
+    },
+    {
+      "type": "bars",
+      "kicker": "ISL 2026-27 · TOP OF THE TABLE",
+      "title": "One point clear, for now",
+      "rows": [
+        [
+          "Bengaluru FC",
+          "Unbeaten · 5 played",
+          13,
+          "13 pts"
+        ],
+        [
+          "Mohun Bagan",
+          "Second",
+          12,
+          "12 pts"
+        ],
+        [
+          "NorthEast",
+          "Unbeaten · play FC Goa on Saturday",
+          11,
+          "11 pts"
+        ]
+      ],
+      "highlight_first": true,
+      "note": "A NorthEast win on Saturday puts them on 14."
+    },
+    {
+      "type": "text",
+      "kicker": "HOW IT TURNED",
+      "title": "Patience, then a penalty",
+      "bullets": [
+        "0-0 at half-time in Bengaluru",
+        "57' Borja Martinez scores a penalty",
+        "85' sub Ryan Williams seals it",
+        "Mumbai's first game under Ashvir Johal",
+        "Mumbai: still no win in 5 games"
+      ],
+      "question": "Can Bengaluru stay top all season?"
+    }
+  ],
+  "thumb": {
+    "title": "Bengaluru FC go top of the ISL",
+    "sub": "Fewer shots. Two goals. Chhetri's 200th game.",
+    "ghost": "2-0"
+  },
+  "concept": "A win that the stats sheet argues with. The hero puts Mumbai's edge in muted grey ('more of the ball') and the result in white ('the goals. And top spot'), with the score and Bengaluru's 13 points underneath. Slide 2 is the twist as a chart: Mumbai's shots bar is almost twice as long as Bengaluru's, yet the subtitles read 0 goals against 2. Slide 3 is a three-row mini table that shows how thin the lead is with NorthEast playing on Saturday, and slide 4 replays the night in a few lines (0-0, 57' penalty, 85' sub, Mumbai's new coach) before handing the title-race question to fans. Football green, pitch lines and type only: no player photos, no club or ISL logos.",
+  "caption": "Mumbai had more of the ball. Bengaluru had the goals.\n\nBengaluru FC beat Mumbai City 2-0 at the Sree Kanteerava tonight to go top of the ISL with 13 points from 5 games. Sunil Chhetri captained the side in his 200th ISL appearance.\n\nWhy it went Bengaluru's way: Mumbai had 51% of the ball and 16 shots to Bengaluru's 9. But it was 0-0 at the break and Borja Martinez scored a penalty in the 57th minute. Substitute Ryan Williams made it 2-0 in the 85th.\n\nMumbai, in their first game under new coach Ashvir Singh Johal, are still without a win in 5. Bengaluru are one point clear of Mohun Bagan and NorthEast United can go above them with a win over FC Goa on Saturday.\n\nCan Bengaluru stay top all season? Tell us below.\n\nMatch details via Khel Now and SportsAdda.\n\n#KrayonSports #ISL #IndianFootball #BengaluruFC #SunilChhetri",
+  "sources": [
+    "https://khelnow.com/football/indian-football-isl-2026-27-bengaluru-fc-vs-mumbai-city-fc-match-report",
+    "https://www.sportsadda.asia/football/news-football/chhetri-made-his-200th-isl-appearance-and-bengaluru-fc-beat-mumbai-city-2-0-to-go-top/"
+  ]
+}

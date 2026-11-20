@@ -735,10 +735,10 @@
     "sport": "cricket",
     "headline": "One attacked. One waited. Together they put on 130.",
     "format": "carousel",
-    "status": "pending",
+    "status": "published",
     "created": "2026-11-20T12:18:48+00:00",
-    "published": null,
-    "media_id": null,
+    "published": "2026-11-20T12:34:16Z",
+    "media_id": "18009803633791513",
     "sources": [
       "https://english.metrovaartha.com/sports/cricket/jaiswal-smashes-85-as-india-end-day-2-on-1591-after-new-zealands-368",
       "https://www.newsbytesapp.com/news/sports/new-zealand-vs-india-1st-test-day-2-report/story",
@@ -747,6 +747,21 @@
     ],
     "reel_media_id": "18353059873265894",
     "reel_published": "2026-11-20T12:35:00Z",
-    "note": "Carousel create_carousel_post at 12:33Z returned 'Application request limit reached'; get_data (cache only) could not confirm. Not retried, waiting for Ronak."
+    "note": "Carousel call at 12:33Z returned 'Application request limit reached' but the post went through: confirmed via Windsor get_data at 17:15Z (media 18009803633791513, 12:34:16Z). Not retried."
+  },
+  {
+    "slug": "2026-11-20-pm-bengaluru-top",
+    "series": 41,
+    "sport": "football",
+    "headline": "Mumbai had more of the ball. Bengaluru had the goals. And top spot.",
+    "format": "carousel",
+    "status": "pending",
+    "created": "2026-11-20T17:15:49+00:00",
+    "published": null,
+    "media_id": null,
+    "sources": [
+      "https://khelnow.com/football/indian-football-isl-2026-27-bengaluru-fc-vs-mumbai-city-fc-match-report",
+      "https://www.sportsadda.asia/football/news-football/chhetri-made-his-200th-isl-appearance-and-bengaluru-fc-beat-mumbai-city-2-0-to-go-top/"
+    ]
   }
 ]
