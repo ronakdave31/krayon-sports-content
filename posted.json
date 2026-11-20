@@ -716,16 +716,17 @@
   "sport": "f1",
   "headline": "Rain wiped out FP1. Max got one lap in FP2.",
   "format": "carousel",
-  "status": "pending",
+  "status": "published",
   "created": "2026-11-20T08:16:31+00:00",
-  "published": null,
-  "media_id": null,
+  "published": "2026-11-20T10:53:42Z",
+  "media_id": "18083335616421030",
   "sources": [
    "https://www.planetf1.com/news/2026-las-vegas-grand-prix-fp2-report",
    "https://www.planetf1.com/news/f1-results-las-vegas-grand-prix-2026-fp2-las-vegas-strip-circuit",
    "https://www.autosport.com/f1/news/f1-las-vegas-gp-russell-fastest-in-damp-fp2-from-gasly/10875841/",
    "https://sundayguardianlive.com/sports/las-vegas-gp-fp2-results-george-russell-leads-pierre-gasly-charles-leclerc-as-max-verstappen-finishes-13th-324854/",
    "https://sports.yahoo.com/articles/russell-strikes-deny-dominant-leclerc-050400911.html"
-  ]
+  ],
+  "reel_media_id": "18126453229944109"
  }
 ]
