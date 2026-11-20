@@ -1,0 +1,67 @@
+{
+  "slug": "2026-11-20-pm-vegas-washout",
+  "tag": "FORMULA 1",
+  "sport": "f1",
+  "series": "39 / THE GRID",
+  "slides": [
+    {
+      "type": "hero",
+      "kicker": "F1 2026 · LAS VEGAS GP · PRACTICE",
+      "grey": "Rain wiped out FP1.",
+      "white": "Max got one lap in FP2.",
+      "sub": "George Russell topped a damp second practice in Vegas. Verstappen, his rival for P2 in the title race, was 13th.",
+      "facts": [
+        ["0", "lap times set in FP1"],
+        ["0.071s", "Russell ahead of Gasly"]
+      ]
+    },
+    {
+      "type": "bars",
+      "kicker": "FP2 · GAP TO RUSSELL (1:47.272)",
+      "title": "How far back they were",
+      "sub": "Seconds off the fastest lap",
+      "rows": [
+        ["Verstappen", "Red Bull · P13", 2.869, "+2.869"],
+        ["Antonelli", "Mercedes · P8", 1.771, "+1.771"],
+        ["Hamilton", "Ferrari · P6", 1.211, "+1.211"],
+        ["Leclerc", "Ferrari · P3", 0.333, "+0.333"],
+        ["Gasly", "Alpine · P2", 0.071, "+0.071"]
+      ],
+      "highlight_first": true,
+      "note": "Team-mate Hadjar was 4th."
+    },
+    {
+      "type": "stat",
+      "kicker": "WHY MAX WAS 13TH",
+      "big": "1",
+      "body": "timed lap for Verstappen. He reported a lack of power, then a red flag for plastic on the track kept him in the garage. His only time came in the last minutes.",
+      "note": "Reported by Autosport and PlanetF1."
+    },
+    {
+      "type": "text",
+      "kicker": "WHY DAY ONE MAY NOT COUNT",
+      "title": "A timesheet in the wet",
+      "bullets": [
+        "FP1: 20 laps and not one time set",
+        "FP2 began on full wets, then inters",
+        "Air as cold as 11C on the Strip",
+        "Max leads Russell by 17 for P2"
+      ],
+      "question": "Can Max bounce back in qualifying?"
+    }
+  ],
+  "thumb": {
+    "title": "Vegas washout: Max 13th, Russell fastest",
+    "sub": "Rain wiped out FP1. Verstappen got one timed lap in FP2.",
+    "ghost": "P13"
+  },
+  "concept": "A practice day that tells you less than it seems. The hero puts the washout in muted grey ('Rain wiped out FP1') and the real surprise in white ('Max got one lap in FP2'), with two numbers underneath: zero FP1 times and Russell's 0.071s edge. Slide 2 flips the usual chart: bars show how far each driver was off Russell, so the longest bar is the worst, and only Verstappen's is lit. Slide 3 explains it with one giant 1, his single timed lap, and slide 4 lists why the order may not hold, then links it back to the fight for P2 we covered on Wednesday. F1 red, a race line drawing itself in the reel, type only: no driver photos, no F1 or team logos.",
+  "caption": "Rain wiped out FP1 in Vegas. Max got one timed lap in FP2.\n\nNot a single lap time was set in the first session. In a damp FP2 George Russell went fastest in 1:47.272, just 0.071s ahead of Pierre Gasly with Charles Leclerc third.\n\nMax Verstappen was 13th, 2.869s back. He reported a lack of power and a red flag for plastic on the track kept him in the garage, so his only time came in the final minutes.\n\nWhy it matters: Max leads Russell by 17 points in the fight for P2 behind champion Kimi Antonelli, who was 8th.\n\nCan Max bounce back in qualifying? Tell us below.\n\nTimes via PlanetF1, Autosport and GPblog.\n\n#KrayonSports #F1 #LasVegasGP #Verstappen #GeorgeRussell",
+  "sources": [
+    "https://www.planetf1.com/news/2026-las-vegas-grand-prix-fp2-report",
+    "https://www.planetf1.com/news/f1-results-las-vegas-grand-prix-2026-fp2-las-vegas-strip-circuit",
+    "https://www.autosport.com/f1/news/f1-las-vegas-gp-russell-fastest-in-damp-fp2-from-gasly/10875841/",
+    "https://sundayguardianlive.com/sports/las-vegas-gp-fp2-results-george-russell-leads-pierre-gasly-charles-leclerc-as-max-verstappen-finishes-13th-324854/",
+    "https://sports.yahoo.com/articles/russell-strikes-deny-dominant-leclerc-050400911.html"
+  ]
+}
