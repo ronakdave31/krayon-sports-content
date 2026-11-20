@@ -1,0 +1,85 @@
+{
+  "slug": "2026-11-20-pm-openers-130",
+  "tag": "CRICKET",
+  "sport": "cricket",
+  "series": "40 / THE BREAKDOWN",
+  "thumb": {
+    "title": "One attacked. One waited.",
+    "sub": "Jaiswal 85, Rahul 52*: India 159 for 1",
+    "ghost": "130"
+  },
+  "slides": [
+    {
+      "type": "hero",
+      "kicker": "NZ vs INDIA · 1st TEST · DAY 2",
+      "grey": "NZ made 368 all out.",
+      "white": "India's openers answered with 130.",
+      "sub": "Basin Reserve, Wellington. India closed day 2 on 159 for 1.",
+      "facts": [
+        [
+          "130",
+          "opening stand"
+        ],
+        [
+          "209",
+          "runs behind"
+        ]
+      ]
+    },
+    {
+      "type": "bars",
+      "kicker": "TWO SPEEDS",
+      "title": "Runs per 100 balls",
+      "rows": [
+        [
+          "Jaiswal",
+          "85 off 89 balls",
+          95.5,
+          "95.5"
+        ],
+        [
+          "Rahul",
+          "52* off 116 balls",
+          44.8,
+          "44.8"
+        ]
+      ],
+      "highlight_first": true,
+      "note": "Jaiswal scored at twice Rahul's speed.",
+      "sub": "Jaiswal fell at 130. Rahul batted on to stumps."
+    },
+    {
+      "type": "stat",
+      "kicker": "JAISWAL'S JOB",
+      "big": "64",
+      "body": "Of his 85 runs came in fours. 16 boundaries in 89 balls put New Zealand on the back foot.",
+      "note": "He survived a dropped catch by Glenn Phillips."
+    },
+    {
+      "type": "stat",
+      "kicker": "RAHUL'S JOB",
+      "big": "116",
+      "body": "Balls faced for 52 not out. While Jaiswal attacked, Rahul made sure the other end did not fall.",
+      "note": "Matt Henry broke the stand: Jaiswal caught behind for 85."
+    },
+    {
+      "type": "text",
+      "kicker": "WHAT IT MEANS",
+      "title": "209 behind. 9 in hand.",
+      "bullets": [
+        "Rahul (52*) and Padikkal (16*) resume on day 3",
+        "One attacked, one waited: that is how 130 happened",
+        "Bat through day 3 and India can take the lead"
+      ],
+      "question": "Can India take a first-innings lead?"
+    }
+  ],
+  "concept": "The story of India's reply is one partnership with two very different speeds, so the post is built as a split. The hero greys out New Zealand's 368 and puts India's 130 stand in white. Slide 2 is a two-bar speed test: Jaiswal's bar runs at 95.5 runs per 100 balls and Rahul's is less than half as long. Slides 3 and 4 give each opener his own giant number for his job (64 runs in fours for the attacker, 116 balls faced for the anchor), and the last slide sets up day 3 with the deficit and a question. Cricket blue accents, type and data only: no player photos, no logos.",
+  "caption": "One attacked. One waited. Together they put on 130.\n\nNew Zealand were bowled out for 368 at the Basin Reserve. India's openers then took the reply to 130 before Matt Henry had Yashasvi Jaiswal caught behind for 85.\n\nJaiswal made his 85 off 89 balls with 16 fours, surviving a dropped catch by Glenn Phillips. KL Rahul went the other way: 52 not out off 116 balls, keeping one end shut while Jaiswal took on the bowling.\n\nIndia closed day 2 on 159 for 1. Rahul and Devdutt Padikkal (16 not out) resume 209 runs behind with nine wickets in hand.\n\nCan India take a first-innings lead? Tell us below.\n\nScores via Metrovaartha, NewsBytes and CricTracker.\n\n#KrayonSports #NZvIND #TeamIndia #TestCricket #Jaiswal",
+  "sources": [
+    "https://english.metrovaartha.com/sports/cricket/jaiswal-smashes-85-as-india-end-day-2-on-1591-after-new-zealands-368",
+    "https://www.newsbytesapp.com/news/sports/new-zealand-vs-india-1st-test-day-2-report/story",
+    "https://www.crictracker.com/cricket-news/nz-vs-ind-2026-new-zealand-vs-india-highlights-review-1st-test-day-2-2132/",
+    "https://www.outlookindia.com/sports/cricket/india-vs-new-zealand-1st-test-day-2-live-score-ind-vs-nz-scorecard-latest-updates-highlights"
+  ]
+}
