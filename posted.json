@@ -755,13 +755,16 @@
     "sport": "football",
     "headline": "Mumbai had more of the ball. Bengaluru had the goals. And top spot.",
     "format": "carousel",
-    "status": "pending",
+    "status": "published",
     "created": "2026-11-20T17:15:49+00:00",
-    "published": null,
-    "media_id": null,
+    "published": "2026-11-20T17:22:41Z",
+    "media_id": "17956679868317678",
     "sources": [
       "https://khelnow.com/football/indian-football-isl-2026-27-bengaluru-fc-vs-mumbai-city-fc-match-report",
       "https://www.sportsadda.asia/football/news-football/chhetri-made-his-200th-isl-appearance-and-bengaluru-fc-beat-mumbai-city-2-0-to-go-top/"
-    ]
+    ],
+    "reel_media_id": "17991470430095370",
+    "reel_published": "2026-11-20T17:24:54Z",
+    "note": "Carousel call returned 'Application request limit reached' but went through (confirmed via get_data, 17:22:41Z). Not retried."
   }
 ]
