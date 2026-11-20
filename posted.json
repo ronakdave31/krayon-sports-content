@@ -691,5 +691,23 @@
       "https://www.mykhel.com/news/sports-ministry-14-member-committee-sports-leagues-hemang-amin-459415.html",
       "https://indiantelevision.com/television/government-forms-14-member-panel-to-build-indias-sports-league-ecosystem/"
     ]
+  },
+  {
+    "slug": "2026-11-20-am-nicholls-phillips-293",
+    "series": 38,
+    "sport": "cricket",
+    "headline": "Nine batters made 55. Two made 293.",
+    "format": "carousel",
+    "status": "pending",
+    "created": "2026-11-20T04:15:17+00:00",
+    "published": null,
+    "media_id": null,
+    "reel_media_id": null,
+    "sources": [
+      "https://theprint.in/sport/day-2-new-zealand-score-368-riding-on-nicholls-unbeaten-175-india-16-for-no-loss-at-tea/3103775/",
+      "https://sundayguardianlive.com/sports/ind-vs-nz-1st-test-day-2-live-update-new-zealand-all-out-for-368-india-begin-first-innings-in-wellington-324799/",
+      "https://openthemagazine.com/sports/new-zealand-vs-india-1st-test-nicholls-phillips-hit-hundreds-before-hosts-are-bowled-out-for-368",
+      "https://www.mykhel.com/news/sports-news-bulletin-november-20-india-bundle-out-kiwis-ms-dhoni-room-opened-rakshitha-stuns-olym-459565.html"
+    ]
   }
 ]

@@ -1,0 +1,122 @@
+{
+  "slug": "2026-11-20-am-nicholls-phillips-293",
+  "tag": "CRICKET",
+  "sport": "cricket",
+  "series": "38 / THE BREAKDOWN",
+  "thumb": {
+    "title": "70 for 5. All out 368.",
+    "sub": "Nicholls 175*, Phillips 118",
+    "ghost": "293"
+  },
+  "slides": [
+    {
+      "type": "hero",
+      "kicker": "NZ vs INDIA · 1st TEST · DAY 2",
+      "grey": "New Zealand were 70 for 5.",
+      "white": "Two batters took them to 368.",
+      "sub": "Basin Reserve, Wellington. Henry Nicholls finished 175 not out.",
+      "facts": [
+        [
+          "293",
+          "Nicholls + Phillips"
+        ],
+        [
+          "55",
+          "the other nine batters"
+        ]
+      ]
+    },
+    {
+      "type": "bars",
+      "kicker": "WHERE THE 368 CAME FROM",
+      "title": "New Zealand's first innings",
+      "rows": [
+        [
+          "Nicholls",
+          "175 not out",
+          175,
+          "175*"
+        ],
+        [
+          "Phillips",
+          "bowled by Akash Deep",
+          118,
+          "118"
+        ],
+        [
+          "Other nine",
+          "batters combined",
+          55,
+          "55"
+        ],
+        [
+          "Extras",
+          "",
+          20,
+          "20"
+        ]
+      ],
+      "highlight_first": true,
+      "note": "Day 1 lunch: 60 for 4. Fifth wicket down at 70."
+    },
+    {
+      "type": "stat",
+      "kicker": "THE STAND",
+      "big": "216",
+      "body": "For the 6th wicket. It took New Zealand from 70 for 5 to 286 for 6 before Akash Deep hit the top of Phillips' off stump.",
+      "note": "The last four wickets then added 82 more."
+    },
+    {
+      "type": "bars",
+      "kicker": "INDIA'S WICKETS",
+      "title": "All 10 went to the quicks",
+      "rows": [
+        [
+          "Bumrah",
+          "29 overs, 4 for 92",
+          4,
+          "4"
+        ],
+        [
+          "Akash Deep",
+          "23 overs, 3 for 53",
+          3,
+          "3"
+        ],
+        [
+          "Kamboj",
+          "23 overs, 2 for 69",
+          2,
+          "2"
+        ],
+        [
+          "Prasidh",
+          "26 overs, 1 for 100",
+          1,
+          "1"
+        ]
+      ],
+      "highlight_first": true,
+      "note": "Spinner Washington Sundar went wicketless."
+    },
+    {
+      "type": "text",
+      "kicker": "WHAT IT MEANS",
+      "title": "Nine batters made 55. Two made 293.",
+      "bullets": [
+        "70 for 5 was India's moment",
+        "New Zealand added 298 more from there",
+        "Now India's batters need a big first innings"
+      ],
+      "question": "Was it the stand, or did India run out of plans?"
+    }
+  ],
+  "concept": "The whole innings is one lopsided split, so the post is built on it: the hero greys out the collapse (70 for 5) and puts the final total in white, with 293 against 55 as the two facts underneath. Slide 2 turns the 368 into bars, where Nicholls and Phillips are two long bars and nine batters together make one short one. Slide 3 gives the 216 stand a single giant number, slide 4 flips to India's side with a wickets chart (all 10 to the quicks) and slide 5 asks whether India lost it to the stand or to a lack of plans. Cricket blue, type and data only: no player photos, no logos.",
+  "caption": "Nine New Zealand batters made 55 between them. Two made 293.\n\nNew Zealand were 70 for 5 on day 1 at the Basin Reserve. They were bowled out for 368 on day 2.\n\nHenry Nicholls finished 175 not out. Glenn Phillips made 118 and the pair put on 216 for the sixth wicket before Akash Deep hit the top of Phillips' off stump.\n\nIndia's quicks took all 10 wickets. Jasprit Bumrah 4 for 92, Akash Deep 3 for 53, Anshul Kamboj 2 for 69 and Prasidh Krishna 1 for 100. The problem was one stand that India could not break for nearly 66 overs.\n\nWas it the stand, or did India run out of plans? Tell us below.\n\nScores via PTI (ThePrint) and The Sunday Guardian.\n\n#KrayonSports #NZvIND #TeamIndia #TestCricket #Bumrah",
+  "sources": [
+    "https://theprint.in/sport/day-2-new-zealand-score-368-riding-on-nicholls-unbeaten-175-india-16-for-no-loss-at-tea/3103775/",
+    "https://sundayguardianlive.com/sports/ind-vs-nz-1st-test-day-2-live-update-new-zealand-all-out-for-368-india-begin-first-innings-in-wellington-324799/",
+    "https://openthemagazine.com/sports/new-zealand-vs-india-1st-test-nicholls-phillips-hit-hundreds-before-hosts-are-bowled-out-for-368",
+    "https://www.mykhel.com/news/sports-news-bulletin-november-20-india-bundle-out-kiwis-ms-dhoni-room-opened-rakshitha-stuns-olym-459565.html"
+  ]
+}
