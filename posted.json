@@ -833,13 +833,16 @@
   "sport": "cricket",
   "headline": "Started the day 209 behind. Ended it 118 ahead.",
   "format": "carousel",
-  "status": "pending",
+  "status": "published",
   "created": "2026-11-21T17:13:56+00:00",
-  "published": null,
-  "media_id": null,
+  "published": "2026-11-21T17:41:56Z",
+  "media_id": "18658077325030853",
   "sources": [
    "https://www.dawn.com/news/2046114/india-take-118-run-lead-over-new-zealand-reach-486-4-at-stumps-on-day-3",
    "https://www.outlookindia.com/sports/cricket/ind-vs-nz-1st-test-day-3-report-kl-rahul-shubman-gill-put-india-in-command"
-  ]
+  ],
+  "reel_media_id": "17900249715412169",
+  "reel_published": "2026-11-21T17:42:59Z",
+  "note": "Carousel call returned 'Application request limit reached' but went through (confirmed via get_data, 17:41:56Z). Not retried."
  }
 ]
