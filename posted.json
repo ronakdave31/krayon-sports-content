@@ -790,14 +790,15 @@
   "sport": "f1",
   "headline": "Fastest in qualifying. Starting sixth.",
   "format": "carousel",
-  "status": "pending",
+  "status": "published",
   "created": "2026-11-21T08:13:30+00:00",
-  "published": null,
-  "media_id": null,
+  "published": "2026-11-21T09:18:26+00:00",
+  "media_id": "18101237525417249",
   "sources": [
    "https://www.formula1.com/en/latest/article/antonelli-quickest-in-las-vegas-gp-qualifying-as-verstappen-inherits-pole-position.6R7udh8iYMHunSOGI6zStK",
    "https://www.gpblog.com/en/news/f1-full-results-verstappen-inherits-las-vegas-gp-pole-antonelli-fastest",
    "https://www.motorsportweek.com/2026/11/21/f1-2026-las-vegas-grand-prix-qualifying-results/"
-  ]
+  ],
+  "reel_media_id": "18427761619146805"
  }
 ]
