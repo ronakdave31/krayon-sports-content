@@ -1,0 +1,79 @@
+{
+ "slug": "2026-11-21-am-rahul-sena-set",
+ "tag": "CRICKET",
+ "sport": "cricket",
+ "series": "42 / THE BREAKDOWN",
+ "thumb": {
+  "title": "Rahul completes the SENA set",
+  "sub": "124* in Wellington. India 344 for 2 at tea.",
+  "ghost": "4/4"
+ },
+ "slides": [
+  {
+   "type": "hero",
+   "kicker": "NZ vs INDIA · 1st TEST · DAY 3",
+   "grey": "Australia. England. South Africa.",
+   "white": "Now New Zealand.",
+   "sub": "KL Rahul is the first Indian opener with Test hundreds in all four SENA countries.",
+   "facts": [
+    [
+     "124*",
+     "off 265 balls at tea"
+    ],
+    [
+     "4/4",
+     "SENA countries"
+    ]
+   ]
+  },
+  {
+   "type": "bars",
+   "kicker": "ONE MAN IN BOTH",
+   "title": "Two 100 stands up top",
+   "sub": "Rahul was in both. A 4th for India in SENA Tests.",
+   "rows": [
+    [
+     "Padikkal",
+     "with Rahul · 2nd wicket",
+     165,
+     "165"
+    ],
+    [
+     "Jaiswal",
+     "with Rahul · 1st wicket",
+     130,
+     "130"
+    ]
+   ],
+   "highlight_first": true,
+   "note": "Partnership runs"
+  },
+  {
+   "type": "stat",
+   "kicker": "WHY IT WORKED",
+   "big": "265",
+   "body": "Balls Rahul faced by tea. He held one end while Jaiswal (85 off 89) and Padikkal (80) scored around him.",
+   "note": "Third Indian after Gavaskar and Surinder Amarnath to make 100 in his first Test innings in NZ."
+  },
+  {
+   "type": "text",
+   "kicker": "WHERE IT STANDS",
+   "title": "344 for 2. 24 behind.",
+   "bullets": [
+    "That was India at tea on day 3",
+    "NZ made 368 in their first innings",
+    "Jamieson bowled Padikkal for 80",
+    "Gill (36* off 40) is in with Rahul"
+   ],
+   "question": "How big a lead does India need?"
+  }
+ ],
+ "concept": "The story is a set being completed, so the hero reads like a checklist: Australia, England and South Africa sit in muted grey and 'Now New Zealand.' lands in white as the final box ticked, with 4/4 underneath. Slide 2 shows why India are on top: two bars for the two century stands, each with a different partner but the same man at the other end. Slide 3 gives Rahul's role one giant number, 265 balls faced by tea, because his patience is what let Jaiswal and Padikkal score around him. The last slide sets the scene for the rest of the Test with the tea score and a question. Cricket blue, type and data only: no player photos, no logos.",
+ "caption": "Australia. England. South Africa. Now New Zealand.\n\nKL Rahul made an unbeaten 124 on day 3 in Wellington. That makes him the first Indian opener with Test hundreds in all four SENA countries. It was also his first Test innings in New Zealand: only Sunil Gavaskar and Surinder Amarnath had made a hundred in theirs before him.\n\nWhy India are on top: Rahul was in both of the first two stands. 130 with Yashasvi Jaiswal (85 off 89). Then 165 with Devdutt Padikkal (80) before Kyle Jamieson bowled Padikkal. India have had 100 stands for each of the first two wickets in a SENA Test only four times.\n\nAt tea India were 344 for 2 in reply to New Zealand's 368, with Rahul and Shubman Gill (36 not out off 40) together.\n\nHow big a lead does India need from here? Tell us below.\n\nScores and records via Telangana Today, Avenue Mail and NewsX.\n\n#KrayonSports #NZvIND #TeamIndia #TestCricket #KLRahul",
+ "sources": [
+  "https://telanganatoday.com/1st-test-rahul-s-unbeaten-century-padikkal-s-80-puts-india-a0aff6cf",
+  "https://avenuemail.in/kl-rahul-century-india-vs-new-zealand-1st-test-day-3/",
+  "https://www.newsx.com/sports/ind-vs-nz-1st-test-day-3-live-update-kl-rahul-slams-century-india-trail-by-just-24-runs-at-tea-293959/",
+  "https://www.outlookindia.com/sports/cricket/india-vs-new-zealand-1st-test-day-3-live-score-ind-vs-nz-scorecard-latest-updates-highlights"
+ ]
+}
