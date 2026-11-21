@@ -773,16 +773,19 @@
   "sport": "cricket",
   "headline": "Australia. England. South Africa. Now New Zealand.",
   "format": "carousel",
-  "status": "expired",
+  "status": "published",
   "created": "2026-11-21T05:31:41+00:00",
-  "published": null,
-  "media_id": null,
+  "published": "2026-11-21T11:13:46Z",
+  "media_id": "18402355711201964",
   "sources": [
    "https://telanganatoday.com/1st-test-rahul-s-unbeaten-century-padikkal-s-80-puts-india-a0aff6cf",
    "https://avenuemail.in/kl-rahul-century-india-vs-new-zealand-1st-test-day-3/",
    "https://www.newsx.com/sports/ind-vs-nz-1st-test-day-3-live-update-kl-rahul-slams-century-india-trail-by-just-24-runs-at-tea-293959/",
    "https://www.outlookindia.com/sports/cricket/india-vs-new-zealand-1st-test-day-3-live-score-ind-vs-nz-scorecard-latest-updates-highlights"
-  ]
+  ],
+  "reel_media_id": "17908949199671284",
+  "reel_published": "2026-11-21T11:15:08Z",
+  "note": "Marked expired by the 1:40 pm run, then Ronak replied yes in the original run and chose to publish as is (tea-score version). Carousel call returned 'Application request limit reached' but went through (confirmed via get_data). Not retried."
  },
  {
   "slug": "2026-11-21-pm-antonelli-p6",
