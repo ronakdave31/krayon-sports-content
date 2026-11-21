@@ -1,0 +1,90 @@
+{
+ "slug": "2026-11-21-pm-antonelli-p6",
+ "tag": "F1",
+ "sport": "f1",
+ "series": "43 / THE BREAKDOWN",
+ "thumb": {
+  "title": "Fastest in Vegas. Starts 6th.",
+  "sub": "Why Verstappen inherits pole",
+  "ghost": "P6"
+ },
+ "slides": [
+  {
+   "type": "hero",
+   "kicker": "LAS VEGAS GP · QUALIFYING",
+   "grey": "Fastest in qualifying.",
+   "white": "Starting sixth.",
+   "sub": "Champion Kimi Antonelli topped the session. An engine penalty hands Max Verstappen pole.",
+   "facts": [
+    [
+     "1:33.893",
+     "Antonelli's best lap"
+    ],
+    [
+     "+0.258",
+     "Verstappen's gap"
+    ]
+   ]
+  },
+  {
+   "type": "bars",
+   "kicker": "HOW CLOSE IT WAS",
+   "title": "Gap to Antonelli's lap",
+   "rows": [
+    [
+     "Verstappen",
+     "Red Bull · now on pole",
+     0.258,
+     "+0.258"
+    ],
+    [
+     "Russell",
+     "Mercedes",
+     0.331,
+     "+0.331"
+    ],
+    [
+     "Norris",
+     "McLaren",
+     0.351,
+     "+0.351"
+    ],
+    [
+     "Hadjar",
+     "Red Bull",
+     0.699,
+     "+0.699"
+    ]
+   ],
+   "highlight_first": true,
+   "note": "Seconds behind the fastest Q3 lap",
+   "sub": "Verstappen, Russell and Norris were split by less than a tenth."
+  },
+  {
+   "type": "stat",
+   "kicker": "WHY HE DROPS",
+   "big": "5",
+   "body": "Grid places Antonelli loses for new power unit parts. He was a quarter of a second clear and still starts sixth.",
+   "note": "Piastri and Sainz take 10-place power unit penalties too."
+  },
+  {
+   "type": "text",
+   "kicker": "WHAT'S STILL AT STAKE",
+   "title": "The fight for P2",
+   "bullets": [
+    "Antonelli already has the title",
+    "Verstappen 279 points, Russell 262",
+    "They start side by side on the front row",
+    "Both Ferraris went out in Q2"
+   ],
+   "question": "Can Antonelli win from sixth?"
+  }
+ ],
+ "concept": "The story is a contradiction: the fastest driver does not start first. So the hero is built like a split result, 'Fastest in qualifying.' in muted grey and 'Starting sixth.' in white, with the 1:33.893 lap and Verstappen's +0.258 gap as the evidence underneath. Slide 2 turns the gap into bars that grow with time lost, so Verstappen's short highlighted bar shows how close pole really was. Slide 3 explains the why with one giant number, the 5 grid places lost to new power unit parts. The last slide moves to what is still alive in a settled season: the fight for P2 between the two front-row starters. F1 red, type and data only: no driver photos, no team logos.",
+ "caption": "Fastest in Vegas. Starting sixth.\n\nKimi Antonelli, already the 2026 world champion, topped qualifying in Las Vegas with a 1:33.893. Max Verstappen was 0.258s slower. Yet Verstappen starts on pole.\n\nWhy: Antonelli has a five-place grid penalty for new power unit parts. GPblog reports it was his sixth ICE of the season. Oscar Piastri and Carlos Sainz also take 10-place power unit penalties.\n\nBehind the title, there is still a race for P2 in the standings. Verstappen has 279 points to George Russell's 262. The two of them share the front row.\n\nCan Antonelli win from sixth? Tell us below.\n\nTimes and penalties via Formula1.com and GPblog.\n\n#KrayonSports #F1 #LasVegasGP #Formula1 #Verstappen",
+ "sources": [
+  "https://www.formula1.com/en/latest/article/antonelli-quickest-in-las-vegas-gp-qualifying-as-verstappen-inherits-pole-position.6R7udh8iYMHunSOGI6zStK",
+  "https://www.gpblog.com/en/news/f1-full-results-verstappen-inherits-las-vegas-gp-pole-antonelli-fastest",
+  "https://www.motorsportweek.com/2026/11/21/f1-2026-las-vegas-grand-prix-qualifying-results/"
+ ]
+}

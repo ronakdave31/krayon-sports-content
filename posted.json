@@ -773,7 +773,7 @@
   "sport": "cricket",
   "headline": "Australia. England. South Africa. Now New Zealand.",
   "format": "carousel",
-  "status": "pending",
+  "status": "expired",
   "created": "2026-11-21T05:31:41+00:00",
   "published": null,
   "media_id": null,
@@ -782,6 +782,22 @@
    "https://avenuemail.in/kl-rahul-century-india-vs-new-zealand-1st-test-day-3/",
    "https://www.newsx.com/sports/ind-vs-nz-1st-test-day-3-live-update-kl-rahul-slams-century-india-trail-by-just-24-runs-at-tea-293959/",
    "https://www.outlookindia.com/sports/cricket/india-vs-new-zealand-1st-test-day-3-live-score-ind-vs-nz-scorecard-latest-updates-highlights"
+  ]
+ },
+ {
+  "slug": "2026-11-21-pm-antonelli-p6",
+  "series": 43,
+  "sport": "f1",
+  "headline": "Fastest in qualifying. Starting sixth.",
+  "format": "carousel",
+  "status": "pending",
+  "created": "2026-11-21T08:13:30+00:00",
+  "published": null,
+  "media_id": null,
+  "sources": [
+   "https://www.formula1.com/en/latest/article/antonelli-quickest-in-las-vegas-gp-qualifying-as-verstappen-inherits-pole-position.6R7udh8iYMHunSOGI6zStK",
+   "https://www.gpblog.com/en/news/f1-full-results-verstappen-inherits-las-vegas-gp-pole-antonelli-fastest",
+   "https://www.motorsportweek.com/2026/11/21/f1-2026-las-vegas-grand-prix-qualifying-results/"
   ]
  }
 ]
