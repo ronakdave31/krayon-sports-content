@@ -1,0 +1,67 @@
+{
+ "slug": "2026-11-21-pm-india-lead-118",
+ "tag": "CRICKET",
+ "sport": "cricket",
+ "series": "45 / THE BREAKDOWN",
+ "thumb": {
+  "title": "209 behind to 118 ahead in one day",
+  "sub": "India 486 for 4 at stumps on day 3 in Wellington",
+  "ghost": "+118"
+ },
+ "slides": [
+  {
+   "type": "hero",
+   "kicker": "NZ vs INDIA · 1st TEST · DAY 3 STUMPS",
+   "grey": "Started the day 209 behind.",
+   "white": "Ended it 118 ahead.",
+   "sub": "India scored 327 runs on day 3 in Wellington and lost just three wickets.",
+   "facts": [["486/4", "at stumps"], ["+118", "first-innings lead"]]
+  },
+  {
+   "type": "bars",
+   "kicker": "WHY: NOBODY FAILED",
+   "title": "All of India's top five made 50",
+   "rows": [
+    ["Rahul", "bowled by Nathan Smith", 136, "136"],
+    ["Gill", "bowled by Jacob Duffy", 98, "98"],
+    ["Jaiswal", "85 off 89 balls", 85, "85"],
+    ["Padikkal", "bowled by Kyle Jamieson", 80, "80"],
+    ["Pant", "off 62 balls", 55, "55*"]
+   ],
+   "highlight_first": true,
+   "note": "A first for India in a Test innings in NZ"
+  },
+  {
+   "type": "stat",
+   "kicker": "THE MOMENT NZ MISSED",
+   "big": "5",
+   "body": "Rahul's score when an lbw appeal was given not out. New Zealand did not review. Replays showed he was out. He made 131 more.",
+   "note": "Rahul: \"Those 15 seconds were probably the slowest 15 seconds of my life.\""
+  },
+  {
+   "type": "stat",
+   "kicker": "THE COST FOR NEW ZEALAND",
+   "big": "1-180",
+   "body": "Jacob Duffy's figures from 29 overs. AFP calls them the fourth most expensive in New Zealand's Test history.",
+   "note": "His one wicket: Gill bowled for 98, three balls before stumps."
+  },
+  {
+   "type": "text",
+   "kicker": "WHAT'S NEXT",
+   "title": "Two days left. 118 ahead.",
+   "bullets": [
+    "Pant (55* off 62) resumes on day 4",
+    "He and Gill added 100 in the last session",
+    "NZ made 368 in their first innings",
+    "To win, India must bowl NZ out again"
+   ],
+   "question": "Can India force a win in two days?"
+  }
+ ],
+ "concept": "The whole story is one swing, so the hero is a before and after: 'Started the day 209 behind.' sits in muted grey and 'Ended it 118 ahead.' lands in white, with 486/4 and +118 as the two scoreboard facts. Slide 2 answers why with five bars, one per top-order batter, every one of them past 50: a wall with no gap in it. Then two giant numbers tell the New Zealand side: 5, the score Rahul was on when an unreviewed lbw went his way, and 1-180, the bill Jacob Duffy paid for the day. The last slide looks ahead to day 4 and asks the question. Cricket blue, type and data only: no player photos, no logos.",
+ "caption": "Started the day 209 behind. Ended it 118 ahead.\n\nIndia scored 327 runs on day 3 in Wellington for the loss of three wickets. At stumps they were 486 for 4 in reply to New Zealand's 368.\n\nWhy: all of India's top five made fifties. KL Rahul 136, Shubman Gill 98, Yashasvi Jaiswal 85, Devdutt Padikkal 80 and Rishabh Pant 55 not out off 62. Outlook calls it a first for India in a Test innings in New Zealand.\n\nNew Zealand had their chance. Rahul was given not out lbw on 5, they did not review and replays showed he was out. Jacob Duffy finished with 1 for 180 from 29 overs, which AFP lists as the fourth most expensive figures in New Zealand's Test history. His one wicket was Gill, bowled three balls before stumps.\n\nTwo days are left. To win, India still have to bowl New Zealand out again.\n\nCan India force a win from here? Tell us below.\n\nScores via AFP (Dawn) and Outlook India.\n\n#KrayonSports #NZvIND #TeamIndia #TestCricket #KLRahul",
+ "sources": [
+  "https://www.dawn.com/news/2046114/india-take-118-run-lead-over-new-zealand-reach-486-4-at-stumps-on-day-3",
+  "https://www.outlookindia.com/sports/cricket/ind-vs-nz-1st-test-day-3-report-kl-rahul-shubman-gill-put-india-in-command"
+ ]
+}

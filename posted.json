@@ -810,10 +810,10 @@
   "sport": "indian",
   "headline": "13 wins in a row. Two titles. Then Anders Antonsen.",
   "format": "carousel",
-  "status": "pending",
+  "status": "published",
   "created": "2026-11-21T12:21:17+00:00",
-  "published": null,
-  "media_id": null,
+  "published": "2026-11-21T12:49:53Z",
+  "media_id": "18115832929885303",
   "sources": [
    "https://revsportz.in/lakshya-sens-13-match-winning-streak-ends-after-hong-kong-open-semifinal-loss/",
    "https://www.indiasportshub.com/articles/lakshya-sen-vs-anders-antonsen-can-india-s-star-extend-his-13-match-winning-streak-at-hong-kong-open-2026",
@@ -825,6 +825,21 @@
   ],
   "reel_media_id": "18203098123386222",
   "reel_published": "2026-11-21T12:50:00Z",
-  "carousel_note": "create_carousel_post at 2026-11-21T12:49Z returned 'Application request limit reached'; Windsor data too stale to confirm; not retried"
+  "carousel_note": "create_carousel_post at 2026-11-21T12:49Z returned 'Application request limit reached'; Windsor data too stale to confirm; not retried. Confirmed by the 10:40 pm run via get_data: carousel 18115832929885303 went through at 12:49:53Z."
+ },
+ {
+  "slug": "2026-11-21-pm-india-lead-118",
+  "series": 45,
+  "sport": "cricket",
+  "headline": "Started the day 209 behind. Ended it 118 ahead.",
+  "format": "carousel",
+  "status": "pending",
+  "created": "2026-11-21T17:13:56+00:00",
+  "published": null,
+  "media_id": null,
+  "sources": [
+   "https://www.dawn.com/news/2046114/india-take-118-run-lead-over-new-zealand-reach-486-4-at-stumps-on-day-3",
+   "https://www.outlookindia.com/sports/cricket/ind-vs-nz-1st-test-day-3-report-kl-rahul-shubman-gill-put-india-in-command"
+  ]
  }
 ]
