@@ -874,14 +874,14 @@
   "status": "published",
   "created": "2026-11-22T08:40:00Z",
   "published": "2026-11-22T08:25:00Z",
-  "media_id": null,
+  "media_id": "18047704010641112",
   "reel_media_id": "18150751345576761",
   "sources": [
    "https://www.formula1.com/en/latest/article/verstappen-wins-exhilarating-las-vegas-grand-prix-from-norris-and-piastri.2eeBWqekZdir9mdDVK9YVX",
    "https://www.the-race.com/formula-1/f1-2026-las-vegas-grand-prix-race-result/",
    "https://racingnews365.com/2026-f1-las-vegas-grand-prix-results"
   ],
-  "carousel_status": "unconfirmed: create_carousel_post returned \"Application request limit reached\" at 08:24 UTC; get_data cache could not confirm; not retried"
+  "carousel_status": "confirmed via get_data on 2026-11-22 14:40 UTC: carousel live at 08:24:18 UTC"
  },
  {
   "slug": "2026-11-22-pm-arsenal-six-clear",
@@ -889,10 +889,10 @@
   "sport": "football",
   "headline": "Arsenal dropped two points. They are still six clear.",
   "format": "carousel",
-  "status": "pending",
+  "status": "published",
   "created": "2026-11-22T12:40:00Z",
-  "published": null,
-  "media_id": null,
+  "published": "2026-11-22T14:38:17Z",
+  "media_id": "17967529875246623",
   "sources": [
    "https://www.skysports.com/football/newcastle-united-vs-arsenal/report/559552",
    "https://www.nowarsenal.com/player-ratings/player-ratings-newcastle-2-2-arsenal/",
@@ -900,6 +900,8 @@
    "https://www.aljazeera.com/sports/2026/11/21/man-city-fightback-for-1-1-draw-with-fulham-to-end-three-game-losing-streak",
    "https://www.skysports.com/football/news/13611869/man-city-1-1-fulham-elliot-anderson-equaliser-ends-losing-streak-but-city-held-amid-erling-haaland-goal-debate",
    "https://www.myfootballfacts.com/match-reports/man-city-1-1-fulham-anderson-levels-after-muniz-strike-as-hosts-fail-to-convert-15-shots/"
-  ]
+  ],
+  "reel_media_id": "17940502239403242",
+  "note": "create_carousel_post returned \"Application request limit reached\" but get_data showed the carousel live at 14:38:17 UTC; not retried"
  }
 ]
