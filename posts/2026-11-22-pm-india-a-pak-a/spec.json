@@ -1,0 +1,110 @@
+{
+ "slug": "2026-11-22-pm-india-a-pak-a",
+ "tag": "CRICKET",
+ "sport": "cricket",
+ "series": "50 / THE BREAKDOWN",
+ "thumb": {
+  "title": "Tilak made 100. Pakistan A won by 48",
+  "sub": "India A bowled out for 265 chasing 314",
+  "ghost": "48"
+ },
+ "slides": [
+  {
+   "type": "hero",
+   "kicker": "ASIA CUP RISING STARS · DOHA",
+   "grey": "Tilak Varma made a hundred.",
+   "white": "Pakistan A won by 48 runs.",
+   "sub": "Chasing 314, India A were bowled out for 265 in 49.1 overs. No handshakes at the toss or the end.",
+   "facts": [
+    [
+     "313",
+     "Pakistan A, 49.2 overs"
+    ],
+    [
+     "265",
+     "India A, 49.1 overs"
+    ]
+   ]
+  },
+  {
+   "type": "bars",
+   "kicker": "TOP SCORES, RUNS AND BALLS",
+   "title": "Pakistan scored faster",
+   "rows": [
+    [
+     "Tilak",
+     "India A, off 149 balls",
+     100,
+     "100"
+    ],
+    [
+     "Nawaz",
+     "Pakistan A, off 82 balls",
+     79,
+     "79"
+    ],
+    [
+     "Abhishek",
+     "India A, off 42 balls",
+     70,
+     "70"
+    ],
+    [
+     "Sadaqat",
+     "Pakistan A, off 63 balls",
+     59,
+     "59"
+    ],
+    [
+     "Shahbaz",
+     "India A, off 49 balls",
+     56,
+     "56"
+    ],
+    [
+     "Yousaf",
+     "Pakistan A, off 48 balls",
+     56,
+     "56"
+    ]
+   ],
+   "highlight_first": true,
+   "note": "Pakistan A 313. India A 265."
+  },
+  {
+   "type": "stat",
+   "kicker": "WHY: THE RATE CLIMBED",
+   "big": "137",
+   "body": "Runs India A still needed off the last 91 balls, at 177 for 6 in the 35th over. Tilak kept going but kept losing partners.",
+   "note": "Score at 10:48 pm IST as reported by the Free Press Journal."
+  },
+  {
+   "type": "stat",
+   "kicker": "THE DIFFERENCE: HASAN NAWAZ",
+   "big": "79 + 2",
+   "body": "79 off 82 balls with four sixes, then two wickets with the ball, including Abhishek Sharma for 70.",
+   "note": "Ali Raza took three wickets. Mohammad Imran Randhawa took two."
+  },
+  {
+   "type": "text",
+   "kicker": "WHAT IT MEANS",
+   "title": "Pakistan A two from two",
+   "bullets": [
+    "Pakistan A beat UAE by 61 runs in their opener",
+    "India A beat Nepal by 306 runs in theirs",
+    "India A now have one win and one loss in Group B"
+   ],
+   "question": "What cost India A this chase?"
+  }
+ ],
+ "concept": "A result where the best innings was on the losing side, so the hero is built as a turn: 'Tilak Varma made a hundred.' sits in muted grey and 'Pakistan A won by 48 runs.' lands in white, with the two totals as evidence. Slide 2 lines up the six top scores with the balls each took, so you can read the tempo gap straight off the subtitles: Tilak's 100 took 149 balls while Pakistan's three fifties came at close to a run a ball. Slide 3 is the moment the chase slipped (137 needed off 91 balls) and slide 4 gives Hasan Nawaz, the all-rounder who made the difference, one big '79 + 2'. The last slide places the result in Group B. Cricket blue, type and data only: no player photos, no logos.",
+ "caption": "Tilak Varma made a hundred. Pakistan A won by 48 runs.\n\nPakistan A made 313 in 49.2 overs in Doha. India A were bowled out for 265 in 49.1 overs in the Asia Cup Rising Stars.\n\nWhy it slipped away: the chase never caught up with the rate. Abhishek Sharma hit 70 off 42 at the top, but India A were 177 for 6 in the 35th over and still needed 137 off 91 balls. Tilak's 100 took 149 balls (Free Press Journal) and he kept losing partners.\n\nThe difference was Hasan Nawaz. He made 79 off 82 with four sixes, then took two wickets, including Abhishek. Maaz Sadaqat (59) and Farhan Yousaf (56) also passed fifty. Ali Raza took three wickets.\n\nIt was a heated game: no handshakes at the toss or at the end.\n\nPakistan A have now won both their games. India A have one win and one loss in Group B after beating Nepal by 306 runs.\n\nWhat cost India A this chase? Tell us below.\n\nScores via Free Press Journal, Jagran and Dawn.\n\n#KrayonSports #INDAvPAKA #AsiaCupRisingStars #TilakVarma #IndianCricket",
+ "sources": [
+  "https://www.freepressjournal.in/sports/ind-a-vs-pak-a-hasan-nawazs-all-round-heroics-power-pakistan-a-to-48-run-win-no-handshakes-after-heated-clash",
+  "https://www.thedailyjagran.com/cricket/news/ind-vs-pak-asia-cup-rising-stars-tilak-varmas-century-in-vain-as-india-suffer-48-run-defeat-pakistan-10337265",
+  "https://www.dawn.com/news/2046331/pakistan-shaheens-post-313-against-india-a-in-heated-rising-stars-asia-cup-clash",
+  "https://www.freepressjournal.in/sports/ind-a-vs-pak-a-tilak-varma-leads-india-as-fightback-with-gritty-fifty-off-95-balls-in-high-pressure-chase",
+  "https://www.outlookindia.com/sports/cricket/india-a-vs-pakistan-a-live-score-asia-cup-rising-stars-2026",
+  "https://crex.com/cricket-live-score/ind-a-vs-pak-a-8th-one-day-mens-asia-cup-rising-stars-2026-150Z"
+ ]
+}

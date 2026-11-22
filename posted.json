@@ -924,5 +924,24 @@
   "reel_media_id": "17968237665232799",
   "reel_published": "2026-11-22T18:18:40Z",
   "note": "Carousel call returned 'Application request limit reached' but went through (confirmed via get_data, 18:17:32Z). Not retried."
+ },
+ {
+  "slug": "2026-11-22-pm-india-a-pak-a",
+  "series": 50,
+  "sport": "cricket",
+  "headline": "Tilak Varma made a hundred. Pakistan A won by 48 runs.",
+  "format": "carousel",
+  "status": "pending",
+  "created": "2026-11-22T19:05:32+00:00",
+  "published": null,
+  "media_id": null,
+  "sources": [
+   "https://www.freepressjournal.in/sports/ind-a-vs-pak-a-hasan-nawazs-all-round-heroics-power-pakistan-a-to-48-run-win-no-handshakes-after-heated-clash",
+   "https://www.thedailyjagran.com/cricket/news/ind-vs-pak-asia-cup-rising-stars-tilak-varmas-century-in-vain-as-india-suffer-48-run-defeat-pakistan-10337265",
+   "https://www.dawn.com/news/2046331/pakistan-shaheens-post-313-against-india-a-in-heated-rising-stars-asia-cup-clash",
+   "https://www.freepressjournal.in/sports/ind-a-vs-pak-a-tilak-varma-leads-india-as-fightback-with-gritty-fifty-off-95-balls-in-high-pressure-chase",
+   "https://www.outlookindia.com/sports/cricket/india-a-vs-pakistan-a-live-score-asia-cup-rising-stars-2026",
+   "https://crex.com/cricket-live-score/ind-a-vs-pak-a-8th-one-day-mens-asia-cup-rising-stars-2026-150Z"
+  ]
  }
 ]
