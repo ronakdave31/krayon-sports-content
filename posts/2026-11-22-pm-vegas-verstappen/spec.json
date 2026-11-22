@@ -1,0 +1,102 @@
+{
+ "slug": "2026-11-22-pm-vegas-verstappen",
+ "tag": "F1",
+ "sport": "f1",
+ "series": "47 / THE BREAKDOWN",
+ "thumb": {
+  "title": "Vegas chaos. Verstappen still wins.",
+  "sub": "Top 5 inside 3 seconds",
+  "ghost": "0.639"
+ },
+ "slides": [
+  {
+   "type": "hero",
+   "kicker": "LAS VEGAS GP · RACE",
+   "grey": "The lead kept changing.",
+   "white": "Verstappen kept taking it back.",
+   "sub": "Max Verstappen won from pole by 0.639s after 50 laps of swaps, a Safety Car and penalties.",
+   "facts": [
+    [
+     "0.639s",
+     "Winning margin"
+    ],
+    [
+     "3rd",
+     "His Las Vegas win"
+    ]
+   ]
+  },
+  {
+   "type": "bars",
+   "kicker": "HOW CLOSE IT WAS",
+   "title": "Gap to the winner",
+   "rows": [
+    [
+     "Norris",
+     "McLaren",
+     0.639,
+     "+0.639"
+    ],
+    [
+     "Piastri",
+     "McLaren · from 17th",
+     1.529,
+     "+1.529"
+    ],
+    [
+     "Antonelli",
+     "Mercedes · from 6th",
+     2.574,
+     "+2.574"
+    ],
+    [
+     "Gasly",
+     "Alpine",
+     2.927,
+     "+2.927"
+    ]
+   ],
+   "highlight_first": true,
+   "note": "Seconds behind the winner after 50 laps",
+   "sub": "Five cars finished within three seconds."
+  },
+  {
+   "type": "stat",
+   "kicker": "DRIVE OF THE NIGHT",
+   "big": "17 → 3",
+   "body": "Oscar Piastri started 17th after a 10-place power unit penalty. He finished on the podium.",
+   "note": "Kimi Antonelli went from sixth to fourth."
+  },
+  {
+   "type": "text",
+   "kicker": "WHY RUSSELL LOST POINTS",
+   "title": "One move too many",
+   "bullets": [
+    "Russell started on the front row",
+    "In the final laps he went for second",
+    "He locked up and hit the barrier",
+    "He rejoined and finished ninth"
+   ],
+   "footnote": "Laps and positions via Formula1.com and RacingNews365"
+  },
+  {
+   "type": "text",
+   "kicker": "THE FIGHT FOR P2",
+   "title": "Two races left",
+   "bullets": [
+    "Verstappen 304 points",
+    "Hamilton 267",
+    "Russell 264",
+    "Norris 264"
+   ],
+   "question": "Can anyone catch Verstappen for second?"
+  }
+ ],
+ "concept": "The race was a blur of lead changes, so the hero reads like a tug of war: 'The lead kept changing.' in muted grey, then 'Verstappen kept taking it back.' in white, with the 0.639s margin as proof underneath. Slide 2 turns the finish into gap bars, where Norris's tiny highlighted bar and five cars inside three seconds show how tight 50 laps of chaos ended. Slide 3 is one giant '17 → 3' for Piastri's climb from a penalty to the podium, and it answers our qualifying question too: Antonelli went sixth to fourth. Slide 4 is the why behind Russell's ninth, one late move for second that ended in the barrier. The last slide moves to what is still open, the race for P2 with two rounds left. F1 red, type and data only: no driver photos, no team logos.",
+ "caption": "Vegas chaos. Verstappen still won.\n\nThe lead changed hands again and again in Las Vegas. Max Verstappen kept taking it back and beat Lando Norris by 0.639s. It is his third Las Vegas win.\n\nOscar Piastri started 17th after a 10-place power unit penalty and finished third. Champion Kimi Antonelli climbed from sixth to fourth.\n\nGeorge Russell started on the front row. Late on he tried to pass Antonelli for second, locked up and hit the barrier. He finished ninth.\n\nWith two races left Verstappen has 304 points. Lewis Hamilton has 267 and Russell and Norris have 264 each.\n\nCan anyone catch Verstappen for second? Tell us below.\n\nResults and standings via Formula1.com, The Race and RacingNews365.\n\n#KrayonSports #F1 #LasVegasGP #Formula1 #Verstappen #Piastri",
+ "sources": [
+  "https://www.formula1.com/en/latest/article/verstappen-wins-exhilarating-las-vegas-grand-prix-from-norris-and-piastri.2eeBWqekZdir9mdDVK9YVX",
+  "https://www.the-race.com/formula-1/f1-2026-las-vegas-grand-prix-race-result/",
+  "https://racingnews365.com/2026-f1-las-vegas-grand-prix-results"
+ ]
+}

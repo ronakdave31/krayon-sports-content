@@ -864,5 +864,22 @@
   "reel_media_id": "18081278294743630",
   "reel_published": "2026-11-22T05:45:21Z",
   "note": "Carousel call returned 'Application request limit reached' but went through (confirmed via get_data, 05:44:11Z). Not retried."
+ },
+ {
+  "slug": "2026-11-22-pm-vegas-verstappen",
+  "series": 47,
+  "sport": "f1",
+  "headline": "The lead kept changing. Verstappen kept taking it back.",
+  "format": "carousel",
+  "status": "pending",
+  "created": "2026-11-22T08:40:00Z",
+  "published": null,
+  "media_id": null,
+  "reel_media_id": null,
+  "sources": [
+   "https://www.formula1.com/en/latest/article/verstappen-wins-exhilarating-las-vegas-grand-prix-from-norris-and-piastri.2eeBWqekZdir9mdDVK9YVX",
+   "https://www.the-race.com/formula-1/f1-2026-las-vegas-grand-prix-race-result/",
+   "https://racingnews365.com/2026-f1-las-vegas-grand-prix-results"
+  ]
  }
 ]
