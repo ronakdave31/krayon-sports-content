@@ -910,16 +910,19 @@
   "sport": "indian",
   "headline": "Seven goals against Thailand. Six came from set pieces.",
   "format": "carousel",
-  "status": "pending",
+  "status": "published",
   "created": "2026-11-22T17:20:00+00:00",
-  "published": null,
-  "media_id": null,
+  "published": "2026-11-22T18:17:32Z",
+  "media_id": "18169385722476845",
   "sources": [
    "https://www.tribuneindia.com/news/sports/defending-champions-india-beat-thailand-7-0-reach-semifinals-of-womens-asian-champions-trophy-2026",
    "https://ianslive.in/womens-act-2026-defending-champions-india-cruise-past-thailand-70-seal-semis-berth--20261122203909",
    "https://www.thedailyjagran.com/sports/news/womens-asian-champions-trophy-2026-india-hammer-thailand-70-in-dominant-display-to-extend-winning-run-10337248",
    "https://www.outlookindia.com/sports/hockey/india-vs-malaysia-womens-asian-champions-trophy-2026-match-report",
    "https://www.espn.in/espn/story/_/id/50550515/india-women-face-thailand-asian-champions-trophy-hockey-mohun-bagan-vs-churchill-brothers-isl-indian-sports-live-november-22"
-  ]
+  ],
+  "reel_media_id": "17968237665232799",
+  "reel_published": "2026-11-22T18:18:40Z",
+  "note": "Carousel call returned 'Application request limit reached' but went through (confirmed via get_data, 18:17:32Z). Not retried."
  }
 ]
