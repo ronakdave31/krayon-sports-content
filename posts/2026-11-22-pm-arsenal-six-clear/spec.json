@@ -1,0 +1,97 @@
+{
+  "slug": "2026-11-22-pm-arsenal-six-clear",
+  "tag": "FOOTBALL",
+  "sport": "football",
+  "series": "48 / THE BREAKDOWN",
+  "slides": [
+    {
+      "type": "hero",
+      "kicker": "PREMIER LEAGUE · SATURDAY",
+      "grey": "Arsenal dropped two points.",
+      "white": "They are still six clear.",
+      "sub": "The leaders drew 2-2 at Newcastle. Manchester City could only draw 1-1 at home to Fulham.",
+      "facts": [
+        [
+          "2-2",
+          "Newcastle v Arsenal"
+        ],
+        [
+          "1-1",
+          "Man City v Fulham"
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "kicker": "ST JAMES' PARK · HOW IT TURNED",
+      "title": "Ahead, behind, level",
+      "bullets": [
+        "33' Eze puts Arsenal 1-0 up",
+        "49' Harvey Barnes levels",
+        "Malick Thiaw makes it 2-1 Newcastle",
+        "78' Noni Madueke rescues a point",
+        "Raya off injured with a shoulder problem"
+      ]
+    },
+    {
+      "type": "stat",
+      "kicker": "MAN CITY 1-1 FULHAM",
+      "big": "15",
+      "body": "shots for City at home to Fulham. Only 3 on target.",
+      "note": "Muniz scored, Anderson levelled and a Haaland goal was ruled out. Stats via My Football Facts."
+    },
+    {
+      "type": "bars",
+      "kicker": "PREMIER LEAGUE · TOP THREE",
+      "title": "The gap after Saturday",
+      "rows": [
+        [
+          "Arsenal",
+          "2-2 at Newcastle",
+          28,
+          "28 pts"
+        ],
+        [
+          "Brighton",
+          "At Hull, Sunday",
+          22,
+          "22 pts"
+        ],
+        [
+          "Man City",
+          "1-1 v Fulham",
+          22,
+          "22 pts"
+        ]
+      ],
+      "highlight_first": true,
+      "note": "A Brighton win at Hull cuts the gap to three."
+    },
+    {
+      "type": "text",
+      "kicker": "WHAT IT MEANS",
+      "title": "A bad day that cost nothing",
+      "bullets": [
+        "Arsenal's run without conceding is over",
+        "City are winless in four league games",
+        "Brighton can close in on Sunday"
+      ],
+      "question": "Is the title Arsenal's to lose?"
+    }
+  ],
+  "thumb": {
+    "title": "Arsenal drop points. Still six clear.",
+    "sub": "Newcastle 2-2 Arsenal. Man City 1-1 Fulham.",
+    "ghost": "+6"
+  },
+  "concept": "A bad day that cost the leaders nothing. The hero puts the setback in muted grey ('Arsenal dropped two points') and the twist in white ('They are still six clear'), with both Saturday scores underneath. Slide 2 replays St James' Park as a minute-by-minute timeline (ahead, behind, level) so the swing reads at a glance. Slide 3 is one giant number: City's 15 shots that produced only three on target, which is why the chasing side could not take advantage. Slide 4 is a three-row bar chart where Arsenal's glowing bar sits clearly ahead of two identical grey bars, then the last slide sums up what it means and hands the title question to fans. Football green, pitch lines and type only: no player photos, no club or league logos.",
+  "caption": "Arsenal dropped two points. Nobody caught up.\n\nNewcastle 2-2 Arsenal at St James' Park on Saturday. Eze put Arsenal ahead in the 33rd minute. Harvey Barnes and Malick Thiaw turned it around for Newcastle before Noni Madueke rescued a point in the 78th. Arsenal also lost David Raya to a shoulder injury.\n\nWhy the lead survived: Manchester City drew too. Rodrigo Muniz put Fulham ahead, Elliot Anderson levelled and a Haaland goal was ruled out for a foul on Leno. City had 15 shots and only 3 on target.\n\nArsenal are on 28 points, six clear of Brighton and City. Brighton play Hull on Sunday and can cut the gap to three.\n\nIs the title Arsenal's to lose? Tell us below.\n\nMatch details via Sky Sports, Al Jazeera (AP) and My Football Facts.\n\n#KrayonSports #PremierLeague #Arsenal #ManCity #NewcastleUnited #PLTitleRace",
+  "sources": [
+    "https://www.skysports.com/football/newcastle-united-vs-arsenal/report/559552",
+    "https://www.nowarsenal.com/player-ratings/player-ratings-newcastle-2-2-arsenal/",
+    "https://www.mykhel.com/news/sports-bulletin-november-22-advantage-india-in-wellington-kalyan-chaubey-gets-fresh-roadblock-ars-459773.html",
+    "https://www.aljazeera.com/sports/2026/11/21/man-city-fightback-for-1-1-draw-with-fulham-to-end-three-game-losing-streak",
+    "https://www.skysports.com/football/news/13611869/man-city-1-1-fulham-elliot-anderson-equaliser-ends-losing-streak-but-city-held-amid-erling-haaland-goal-debate",
+    "https://www.myfootballfacts.com/match-reports/man-city-1-1-fulham-anderson-levels-after-muniz-strike-as-hosts-fail-to-convert-15-shots/"
+  ]
+}

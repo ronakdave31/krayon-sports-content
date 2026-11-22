@@ -882,5 +882,24 @@
    "https://racingnews365.com/2026-f1-las-vegas-grand-prix-results"
   ],
   "carousel_status": "unconfirmed: create_carousel_post returned \"Application request limit reached\" at 08:24 UTC; get_data cache could not confirm; not retried"
+ },
+ {
+  "slug": "2026-11-22-pm-arsenal-six-clear",
+  "series": 48,
+  "sport": "football",
+  "headline": "Arsenal dropped two points. They are still six clear.",
+  "format": "carousel",
+  "status": "pending",
+  "created": "2026-11-22T12:40:00Z",
+  "published": null,
+  "media_id": null,
+  "sources": [
+   "https://www.skysports.com/football/newcastle-united-vs-arsenal/report/559552",
+   "https://www.nowarsenal.com/player-ratings/player-ratings-newcastle-2-2-arsenal/",
+   "https://www.mykhel.com/news/sports-bulletin-november-22-advantage-india-in-wellington-kalyan-chaubey-gets-fresh-roadblock-ars-459773.html",
+   "https://www.aljazeera.com/sports/2026/11/21/man-city-fightback-for-1-1-draw-with-fulham-to-end-three-game-losing-streak",
+   "https://www.skysports.com/football/news/13611869/man-city-1-1-fulham-elliot-anderson-equaliser-ends-losing-streak-but-city-held-amid-erling-haaland-goal-debate",
+   "https://www.myfootballfacts.com/match-reports/man-city-1-1-fulham-anderson-levels-after-muniz-strike-as-hosts-fail-to-convert-15-shots/"
+  ]
  }
 ]
