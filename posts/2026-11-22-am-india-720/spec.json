@@ -1,0 +1,135 @@
+{
+ "slug": "2026-11-22-am-india-720",
+ "tag": "CRICKET",
+ "sport": "cricket",
+ "series": "46 / THE BREAKDOWN",
+ "thumb": {
+  "title": "720: a New Zealand record",
+  "sub": "Why India's total broke the record",
+  "ghost": "720"
+ },
+ "slides": [
+  {
+   "type": "hero",
+   "kicker": "NZ vs INDIA · 1st TEST · DAY 4",
+   "grey": "The record in New Zealand was 715.",
+   "white": "India declared on 720.",
+   "sub": "India's 720 for 9 in Wellington is the highest Test total ever made in New Zealand.",
+   "facts": [
+    [
+     "720/9",
+     "declared in 166 overs"
+    ],
+    [
+     "+352",
+     "first-innings lead"
+    ]
+   ]
+  },
+  {
+   "type": "bars",
+   "kicker": "THE NUMBERS IT PASSED",
+   "title": "Highest totals in NZ Tests",
+   "rows": [
+    [
+     "India",
+     "Wellington 2026",
+     720,
+     "720/9"
+    ],
+    [
+     "New Zealand",
+     "v Bangladesh 2019",
+     715,
+     "715/6"
+    ],
+    [
+     "West Indies",
+     "old visitors' best",
+     660,
+     "660/5"
+    ],
+    [
+     "India",
+     "old India best",
+     520,
+     "520"
+    ]
+   ],
+   "highlight_first": true,
+   "note": "Also India's third-highest Test total ever"
+  },
+  {
+   "type": "bars",
+   "kicker": "WHY: NOBODY FAILED",
+   "title": "Six batters made 78 or more",
+   "rows": [
+    [
+     "Rahul",
+     "bowled by Nathan Smith",
+     136,
+     "136"
+    ],
+    [
+     "Pant",
+     "off 153 balls",
+     128,
+     "128"
+    ],
+    [
+     "Gill",
+     "bowled by Jacob Duffy",
+     98,
+     "98"
+    ],
+    [
+     "Jaiswal",
+     "off 89 balls",
+     85,
+     "85"
+    ],
+    [
+     "Padikkal",
+     "bowled by Kyle Jamieson",
+     80,
+     "80"
+    ],
+    [
+     "Jurel",
+     "off 79 balls",
+     78,
+     "78"
+    ]
+   ],
+   "highlight_first": true,
+   "note": "50-plus stands for each of the first 7 wickets"
+  },
+  {
+   "type": "stat",
+   "kicker": "DAY 4: THE FINAL PUSH",
+   "big": "234",
+   "body": "Runs India added on day 4 before declaring. Pant hit 10 fours and six sixes in his 128. Jurel made 78 off 79.",
+   "note": "Jacob Duffy bowled 33 overs and conceded 201 runs."
+  },
+  {
+   "type": "text",
+   "kicker": "WHAT'S NEXT",
+   "title": "New Zealand bat to save it",
+   "bullets": [
+    "They made 368. They trail by 352",
+    "Bumrah took Latham in the first over",
+    "India must bowl them out again",
+    "Day 5 is the last day"
+   ],
+   "question": "Can New Zealand save this Test?"
+  }
+ ],
+ "concept": "The story is a record broken by five runs, so the hero is built like a before and after: the old mark, 'The record in New Zealand was 715.', sits in muted grey and 'India declared on 720.' lands in white underneath, with the 720/9 and the 352 lead as the evidence. Slide 2 puts India's bar on top of the totals it passed, so you see how narrowly 715 fell and how far India's old best of 520 was left behind. Slide 3 answers the why with six bars of almost equal length: no single hero, six batters between 78 and 136. Slide 4 is one big number for the day 4 push, and the last slide turns to what is left: New Zealand batting to save the Test. Cricket blue, type and data only: no player photos, no logos.",
+ "caption": "720. The highest Test total ever made in New Zealand.\n\nIndia declared on 720 for 9 on day 4 in Wellington. The old record was New Zealand's own 715 for 6 against Bangladesh in 2019. It is also India's third-highest Test total ever, after 759 for 7 and 726 for 9.\n\nWhy it happened: nobody failed. KL Rahul 136, Rishabh Pant 128 off 153, Shubman Gill 98, Yashasvi Jaiswal 85, Devdutt Padikkal 80 and Dhruv Jurel 78 off 79. Outlook India reports India had a 50-plus stand for each of the first seven wickets.\n\nOn day 4 alone India added 234 before declaring. Jacob Duffy finished with 33 overs for 201 runs.\n\nNew Zealand made 368 in their first innings, so they trail by 352. Jasprit Bumrah removed Tom Latham in the first over of their reply.\n\nCan New Zealand save this Test? Tell us below.\n\nRecords and scores via Outlook India, PTI (Siasat) and ANI (Asianet Newsable).\n\n#KrayonSports #NZvIND #TeamIndia #TestCricket #RishabhPant",
+ "sources": [
+  "https://www.outlookindia.com/sports/cricket/india-highest-test-total-against-new-zealand-record",
+  "https://www.siasat.com/india-declare-at-720-9-highest-team-total-in-new-zealand-3583669/",
+  "https://newsable.asianetnews.com/sports/india-creates-test-history-in-wellington-declaring-at-massive-720/9-articleshow-8zqpcni",
+  "https://sundayguardianlive.com/sports/ind-vs-nz-live-updates-india-declare-first-innings-at-7209-take-352-run-lead-as-rishabh-pant-kl-rahul-shine-in-wellington-test-325853/"
+ ]
+}
