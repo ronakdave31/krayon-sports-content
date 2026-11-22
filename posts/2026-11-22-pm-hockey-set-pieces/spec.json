@@ -1,0 +1,118 @@
+{
+ "slug": "2026-11-22-pm-hockey-set-pieces",
+ "tag": "HOCKEY",
+ "sport": "indian",
+ "series": "49 / THE BREAKDOWN",
+ "thumb": {
+  "title": "7-0: six goals from set pieces",
+  "sub": "India into the semi-finals",
+  "ghost": "7-0"
+ },
+ "slides": [
+  {
+   "type": "hero",
+   "kicker": "HOCKEY · WOMEN'S ASIAN CHAMPIONS TROPHY",
+   "grey": "Seven goals against Thailand.",
+   "white": "Six came from set pieces.",
+   "sub": "Defending champions India won 7-0 in Bhopal and are into the semi-finals with two group games to spare.",
+   "facts": [
+    [
+     "3 / 3",
+     "wins so far"
+    ],
+    [
+     "+11",
+     "goal difference"
+    ]
+   ]
+  },
+  {
+   "type": "bars",
+   "kicker": "HOW THE SEVEN GOALS CAME",
+   "title": "Set pieces did the damage",
+   "rows": [
+    [
+     "Corners",
+     "Deepika x3, Sunelita Toppo",
+     4,
+     "4"
+    ],
+    [
+     "Strokes",
+     "Navneet Kaur x2",
+     2,
+     "2"
+    ],
+    [
+     "Open play",
+     "Mumtaz Khan, 28th minute",
+     1,
+     "1"
+    ]
+   ],
+   "highlight_first": true,
+   "note": "India led 3-0 after 11 minutes and 4-0 at half-time"
+  },
+  {
+   "type": "stat",
+   "kicker": "DEEPIKA'S HAT-TRICK",
+   "big": "3",
+   "body": "Penalty corner goals for Deepika, in the 10th, 11th and 56th minutes. Navneet Kaur scored from the stroke in the 4th minute and again in the 56th.",
+   "note": "Sunelita Toppo converted a penalty corner in the 32nd minute."
+  },
+  {
+   "type": "bars",
+   "kicker": "THE TABLE AFTER THREE GAMES",
+   "title": "India top on goal difference",
+   "rows": [
+    [
+     "India",
+     "goal difference +11",
+     9,
+     "9 pts"
+    ],
+    [
+     "Japan",
+     "goal difference +6",
+     9,
+     "9 pts"
+    ],
+    [
+     "China",
+     "goal difference +5",
+     4,
+     "4 pts"
+    ],
+    [
+     "Malaysia",
+     "beat Korea 3-1 today",
+     4,
+     "4 pts"
+    ]
+   ],
+   "highlight_first": true,
+   "note": "India and Japan are through to the semi-finals"
+  },
+  {
+   "type": "text",
+   "kicker": "WHAT'S NEXT",
+   "title": "China on Tuesday",
+   "bullets": [
+    "So far: 4-1 Malaysia, 2-1 South Korea, 7-0 Thailand",
+    "Monday is a rest day",
+    "India play China on November 24",
+    "Two round-robin games left"
+   ],
+   "question": "Can India defend the title?"
+  }
+ ],
+ "concept": "A rout explained by how the goals were scored, not just how many. The hero puts the scoreline in muted grey (Seven goals against Thailand.) and the reason in white (Six came from set pieces.), so the why lands before any detail. Slide 2 splits the seven goals into three bars: four penalty corners, two penalty strokes and a single goal from open play, so the gap between set pieces and open play is the picture. Slide 3 gives Deepika's hat-trick one giant 3, slide 4 shows the table where India and Japan are level on 9 points and India lead on goal difference, and the last slide moves to China on Tuesday. Indian-sport orange, type and numbers only: no player photos, no logos.",
+ "caption": "Seven goals against Thailand. Six came from set pieces.\n\nDefending champions India beat Thailand 7-0 in Bhopal on Sunday to reach the semi-finals of the Women's Asian Champions Trophy with two group games to spare.\n\nWhy it was so one-sided: India kept winning set pieces and kept scoring from them. Deepika scored a hat-trick of penalty corner goals (10th, 11th and 56th minutes). Navneet Kaur converted two penalty strokes (4th and 56th). Sunelita Toppo added a penalty corner in the 32nd. Mumtaz Khan's 28th-minute strike was the only goal from open play.\n\nIt was 3-0 after 11 minutes and 4-0 at half-time.\n\nIndia have 9 points from 3 wins (4-1 Malaysia, 2-1 South Korea, 7-0 Thailand) and top the table on goal difference, +11 to Japan's +6. Both are through. India play China on Tuesday, November 24.\n\nCan India defend the title? Tell us below.\n\nMatch details via ANI (Tribune), IANS, Jagran and ESPN.\n\n#KrayonSports #IndianHockey #WomensACT #Hockey #IndianSports",
+ "sources": [
+  "https://www.tribuneindia.com/news/sports/defending-champions-india-beat-thailand-7-0-reach-semifinals-of-womens-asian-champions-trophy-2026",
+  "https://ianslive.in/womens-act-2026-defending-champions-india-cruise-past-thailand-70-seal-semis-berth--20261122203909",
+  "https://www.thedailyjagran.com/sports/news/womens-asian-champions-trophy-2026-india-hammer-thailand-70-in-dominant-display-to-extend-winning-run-10337248",
+  "https://www.outlookindia.com/sports/hockey/india-vs-malaysia-womens-asian-champions-trophy-2026-match-report",
+  "https://www.espn.in/espn/story/_/id/50550515/india-women-face-thailand-asian-champions-trophy-hockey-mohun-bagan-vs-churchill-brothers-isl-indian-sports-live-november-22"
+ ]
+}

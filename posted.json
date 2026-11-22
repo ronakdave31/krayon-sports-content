@@ -903,5 +903,23 @@
   ],
   "reel_media_id": "17940502239403242",
   "note": "create_carousel_post returned \"Application request limit reached\" but get_data showed the carousel live at 14:38:17 UTC; not retried"
+ },
+ {
+  "slug": "2026-11-22-pm-hockey-set-pieces",
+  "series": 49,
+  "sport": "indian",
+  "headline": "Seven goals against Thailand. Six came from set pieces.",
+  "format": "carousel",
+  "status": "pending",
+  "created": "2026-11-22T17:20:00+00:00",
+  "published": null,
+  "media_id": null,
+  "sources": [
+   "https://www.tribuneindia.com/news/sports/defending-champions-india-beat-thailand-7-0-reach-semifinals-of-womens-asian-champions-trophy-2026",
+   "https://ianslive.in/womens-act-2026-defending-champions-india-cruise-past-thailand-70-seal-semis-berth--20261122203909",
+   "https://www.thedailyjagran.com/sports/news/womens-asian-champions-trophy-2026-india-hammer-thailand-70-in-dominant-display-to-extend-winning-run-10337248",
+   "https://www.outlookindia.com/sports/hockey/india-vs-malaysia-womens-asian-champions-trophy-2026-match-report",
+   "https://www.espn.in/espn/story/_/id/50550515/india-women-face-thailand-asian-champions-trophy-hockey-mohun-bagan-vs-churchill-brothers-isl-indian-sports-live-november-22"
+  ]
  }
 ]
