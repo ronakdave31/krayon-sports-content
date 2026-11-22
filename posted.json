@@ -871,15 +871,16 @@
   "sport": "f1",
   "headline": "The lead kept changing. Verstappen kept taking it back.",
   "format": "carousel",
-  "status": "pending",
+  "status": "published",
   "created": "2026-11-22T08:40:00Z",
-  "published": null,
+  "published": "2026-11-22T08:25:00Z",
   "media_id": null,
-  "reel_media_id": null,
+  "reel_media_id": "18150751345576761",
   "sources": [
    "https://www.formula1.com/en/latest/article/verstappen-wins-exhilarating-las-vegas-grand-prix-from-norris-and-piastri.2eeBWqekZdir9mdDVK9YVX",
    "https://www.the-race.com/formula-1/f1-2026-las-vegas-grand-prix-race-result/",
    "https://racingnews365.com/2026-f1-las-vegas-grand-prix-results"
-  ]
+  ],
+  "carousel_status": "unconfirmed: create_carousel_post returned \"Application request limit reached\" at 08:24 UTC; get_data cache could not confirm; not retried"
  }
 ]
