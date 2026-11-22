@@ -851,15 +851,18 @@
   "sport": "cricket",
   "headline": "The record in New Zealand was 715. India declared on 720.",
   "format": "carousel",
-  "status": "pending",
+  "status": "published",
   "created": "2026-11-22T04:15:49+00:00",
-  "published": null,
-  "media_id": null,
+  "published": "2026-11-22T05:44:11Z",
+  "media_id": "18138489001676104",
   "sources": [
    "https://www.outlookindia.com/sports/cricket/india-highest-test-total-against-new-zealand-record",
    "https://www.siasat.com/india-declare-at-720-9-highest-team-total-in-new-zealand-3583669/",
    "https://newsable.asianetnews.com/sports/india-creates-test-history-in-wellington-declaring-at-massive-720/9-articleshow-8zqpcni",
    "https://sundayguardianlive.com/sports/ind-vs-nz-live-updates-india-declare-first-innings-at-7209-take-352-run-lead-as-rishabh-pant-kl-rahul-shine-in-wellington-test-325853/"
-  ]
+  ],
+  "reel_media_id": "18081278294743630",
+  "reel_published": "2026-11-22T05:45:21Z",
+  "note": "Carousel call returned 'Application request limit reached' but went through (confirmed via get_data, 05:44:11Z). Not retried."
  }
 ]
