@@ -252,7 +252,7 @@ class Bars:
         self.rows, self.t, self.hl = rows, start, hl
         vmax = max(r[2] for r in rows)
         self.items = []
-        bx, bmax, rh = 360, 500, 92
+        bx, bmax, rh = 360, 500, (92 if len(rows) <= 7 else 74)  # tighter rows so long charts clear the ticker
         for i, r in enumerate(rows):
             ry = y + i * rh
             champ = hl and i == 0

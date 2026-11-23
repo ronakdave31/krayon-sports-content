@@ -1,0 +1,124 @@
+{
+  "slug": "2026-11-23-pm-ipl-purses",
+  "tag": "IPL BUSINESS",
+  "sport": "business",
+  "series": "54 / THE BREAKDOWN",
+  "slides": [
+    {
+      "type": "hero",
+      "kicker": "IPL 2027 AUCTION · GOA · DEC 16",
+      "grey": "The record is Rs 27 crore.",
+      "white": "Six teams have the money to beat it.",
+      "sub": "Rishabh Pant's LSG price from the 2025 auction. Here is what each team has left to spend.",
+      "facts": [
+        [
+          "Rs 297.95 cr",
+          "left across 10 teams"
+        ],
+        [
+          "66",
+          "squad spots to fill"
+        ]
+      ]
+    },
+    {
+      "type": "bars",
+      "kicker": "WHO HAS THE MONEY",
+      "title": "Purse left, Rs crore",
+      "rows": [
+        [
+          "LSG",
+          "7 spots",
+          47.45,
+          "47.45"
+        ],
+        [
+          "KKR",
+          "8 spots",
+          41.65,
+          "41.65"
+        ],
+        [
+          "SRH",
+          "7 spots",
+          40.15,
+          "40.15"
+        ],
+        [
+          "DC",
+          "9 spots",
+          39.5,
+          "39.50"
+        ],
+        [
+          "MI",
+          "9 spots",
+          32.6,
+          "32.60"
+        ],
+        [
+          "CSK",
+          "6 spots",
+          28.05,
+          "28.05"
+        ],
+        [
+          "RR",
+          "6 spots",
+          27.05,
+          "27.05"
+        ],
+        [
+          "PBKS",
+          "6 spots",
+          18.6,
+          "18.60"
+        ],
+        [
+          "RCB",
+          "5 spots",
+          14.15,
+          "14.15"
+        ],
+        [
+          "GT",
+          "3 spots",
+          8.75,
+          "8.75"
+        ]
+      ],
+      "highlight_first": false
+    },
+    {
+      "type": "stat",
+      "kicker": "THE CATCH",
+      "big": "Rs 18 cr",
+      "body": "The most an overseas player can be paid at a mini-auction. Anything bid above it goes to the BCCI.",
+      "note": "KKR bid Rs 25.20 cr for Cameron Green. He is paid Rs 18 cr."
+    },
+    {
+      "type": "text",
+      "kicker": "WHAT IT MEANS",
+      "title": "Big money, short lists",
+      "bullets": [
+        "LSG have the most: Rs 47.45 cr for 7 spots",
+        "RR have Rs 27.05 cr: 5 lakh over the record, 6 spots to fill",
+        "GT have Rs 8.75 cr, the least, for 3 spots",
+        "An Indian player keeps the full bid"
+      ],
+      "question": "Who goes past Rs 27 crore in Goa?"
+    }
+  ],
+  "thumb": {
+    "title": "Who can break Pant's Rs 27 crore record?",
+    "sub": "IPL 2027 auction purses · Goa, Dec 16",
+    "ghost": "27"
+  },
+  "concept": "The page's auction series moves from trades to money. The hero sets the record against the purses: 'The record is Rs 27 crore.' in muted grey and 'Six teams have the money to beat it.' in white, with the total left (Rs 297.95 crore) and the 66 open spots as proof. Slide 2 is the full ten-bar purse chart, LSG's highlighted Rs 47.45 crore bar towering over GT's Rs 8.75 crore, with spots to fill under each team so fans can see money per spot, not just money. Slide 3 is one giant 'Rs 18 cr', the overseas pay cap that means a record-breaking bid lands very differently for a foreign star. The last slide pulls out what it means and asks who crosses Rs 27 crore. Business gold, type and charts only: no player photos, no team logos.",
+  "caption": "Rs 27 crore is the IPL auction record. Six teams can beat it.\n\nRishabh Pant went to LSG for Rs 27 crore at the 2025 auction. For the mini-auction in Goa on December 16 the ten teams have Rs 297.95 crore left between them and 66 squad spots to fill.\n\nLSG have the most at Rs 47.45 crore, then KKR (41.65), SRH (40.15), DC (39.50), MI (32.60) and CSK (28.05). RR have Rs 27.05 crore, just 5 lakh over the record, with six spots to fill. GT have the least at Rs 8.75 crore.\n\nThe catch: at a mini-auction an overseas player is paid at most Rs 18 crore and anything bid above that goes to the BCCI. KKR bid Rs 25.20 crore for Cameron Green but he is paid Rs 18 crore. An Indian player keeps the full bid.\n\nWho goes past Rs 27 crore in Goa? Tell us below.\n\nPurses via Business Today and Business Standard. Overseas cap reported by Business Today, citing ESPNcricinfo.\n\n#KrayonSports #IPL2027 #IPLAuction #IPL #CricketBusiness",
+  "sources": [
+    "https://www.businesstoday.in/sports/photo/ipl-2027-auction-on-16-december-which-teams-can-afford-to-break-rishabh-pants-rs27-crore-record-569130-2026-11-23",
+    "https://www.business-standard.com/cricket/ipl/ipl-2027-retained-and-released-players-list-announcement-time-streaming-126111700251_1.html",
+    "https://sundayguardianlive.com/sports/ipl-2027-auction-bcci-extends-player-retention-deadline-to-november-17-full-157-crore-salary-cap-auction-rules-key-dates-and-major-trades-explained-323032/"
+  ]
+}
