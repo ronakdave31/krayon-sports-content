@@ -974,10 +974,10 @@
   "sport": "football",
   "headline": "Pochettino's first game. Down to 10 men after 8 minutes.",
   "format": "carousel",
-  "status": "expired",
+  "status": "published",
   "created": "2026-11-23T08:21:44+00:00",
-  "published": null,
-  "media_id": null,
+  "published": "2026-11-23T09:52:31Z",
+  "media_id": "18648971659020608",
   "reel_media_id": null,
   "sources": [
    "https://www.skysports.com/football/news/13611979/liverpool-4-0-man-utd-mauricio-pochettino-endures-nightmare-start-as-leny-yoros-early-red-card-sparks-collapse",
@@ -986,7 +986,8 @@
    "https://www.skysports.com/football/news/13615402/leny-yoro-red-card-man-utd-boss-mauricio-pochettino-and-kobbie-mainoo-angry-at-sending-off-for-foul-on-liverpools-alexander-isak",
    "https://www.skysports.com/football/tables",
    "https://www.mykhel.com/news/sports-bulletin-nov-23-rishabh-pant-creates-sena-history-india-a-lose-to-pakistan-ind-vs-nz-test-459835.html"
-  ]
+  ],
+  "note": "Carousel found live on Instagram via Windsor get_data on 2026-11-23; status had been left pending/expired. Reel status unknown."
  },
  {
   "slug": "2026-11-23-pm-gukesh-underdog",
@@ -994,11 +995,11 @@
   "sport": "indian",
   "headline": "Gukesh is the world champion. He starts as the underdog.",
   "format": "carousel",
-  "status": "pending",
+  "status": "published",
   "created": "2026-11-23T12:19:46Z",
-  "published": null,
-  "media_id": null,
-  "reel_media_id": null,
+  "published": "2026-11-23T13:44:05Z",
+  "media_id": "18000316377047902",
+  "reel_media_id": "18105842030354264",
   "sources": [
    "https://chessbase.in/news/all-that-you-wanted-to-know-about-gukesh-vs-sindarov-world-chess-championship-2026",
    "https://www.chess.com/news/view/2026-fide-chess-world-championship-opening-ceremony",
