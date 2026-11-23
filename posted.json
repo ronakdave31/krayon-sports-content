@@ -974,7 +974,7 @@
   "sport": "football",
   "headline": "Pochettino's first game. Down to 10 men after 8 minutes.",
   "format": "carousel",
-  "status": "pending",
+  "status": "expired",
   "created": "2026-11-23T08:21:44+00:00",
   "published": null,
   "media_id": null,
@@ -986,6 +986,24 @@
    "https://www.skysports.com/football/news/13615402/leny-yoro-red-card-man-utd-boss-mauricio-pochettino-and-kobbie-mainoo-angry-at-sending-off-for-foul-on-liverpools-alexander-isak",
    "https://www.skysports.com/football/tables",
    "https://www.mykhel.com/news/sports-bulletin-nov-23-rishabh-pant-creates-sena-history-india-a-lose-to-pakistan-ind-vs-nz-test-459835.html"
+  ]
+ },
+ {
+  "slug": "2026-11-23-pm-gukesh-underdog",
+  "series": 53,
+  "sport": "indian",
+  "headline": "Gukesh is the world champion. He starts as the underdog.",
+  "format": "carousel",
+  "status": "pending",
+  "created": "2026-11-23T12:19:46Z",
+  "published": null,
+  "media_id": null,
+  "reel_media_id": null,
+  "sources": [
+   "https://chessbase.in/news/all-that-you-wanted-to-know-about-gukesh-vs-sindarov-world-chess-championship-2026",
+   "https://www.chess.com/news/view/2026-fide-chess-world-championship-opening-ceremony",
+   "https://worldchess.com/news/gukesh-vs-sindarov-everything-you-need-to-know-about-the-2026-world-chess-championship",
+   "https://en.wikipedia.org/wiki/World_Chess_Championship_2026"
   ]
  }
 ]

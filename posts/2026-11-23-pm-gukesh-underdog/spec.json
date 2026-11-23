@@ -1,0 +1,93 @@
+{
+ "slug": "2026-11-23-pm-gukesh-underdog",
+ "tag": "CHESS",
+ "sport": "indian",
+ "series": "53 / THE BREAKDOWN",
+ "thumb": {
+  "title": "The champion starts as the underdog",
+  "sub": "Gukesh v Sindarov · Game 1 Tuesday",
+  "ghost": "No.26"
+ },
+ "slides": [
+  {
+   "type": "hero",
+   "kicker": "WORLD CHESS CHAMPIONSHIP · GENEVA",
+   "grey": "Gukesh is the world champion.",
+   "white": "He starts as the underdog.",
+   "sub": "Game 1 v Javokhir Sindarov: Tuesday 24 Nov, 7:30 pm IST.",
+   "facts": [
+    [
+     "No.4",
+     "Sindarov, world ranking"
+    ],
+    [
+     "No.26",
+     "Gukesh, world ranking"
+    ]
+   ]
+  },
+  {
+   "type": "bars",
+   "kicker": "WHY: THE RATINGS GAP",
+   "title": "The challenger is rated higher",
+   "rows": [
+    [
+     "Sindarov",
+     "Uzbekistan · World No. 4",
+     82,
+     "2782"
+    ],
+    [
+     "Gukesh",
+     "India · World No. 26",
+     10,
+     "2710"
+    ]
+   ],
+   "highlight_first": true,
+   "note": "Bars: points above 2700 · FIDE Nov list",
+   "sub": "A 72-point gap on the FIDE November list. The champion is the lower-rated player."
+  },
+  {
+   "type": "stat",
+   "kicker": "HEAD TO HEAD · CLASSICAL",
+   "big": "2-0",
+   "body": "to Sindarov in their classical games, plus one draw. Gukesh has never beaten him at the slow time control.",
+   "note": "Via ChessBase India and WorldChess."
+  },
+  {
+   "type": "stat",
+   "kicker": "HOW SINDAROV GOT HERE",
+   "big": "10/14",
+   "body": "at the 2026 Candidates. Unbeaten, six wins, 1.5 points clear of Anish Giri. He also won the 2025 World Cup.",
+   "note": "Via ChessBase India."
+  },
+  {
+   "type": "stat",
+   "kicker": "WHAT IS ON THE LINE",
+   "big": "$200K",
+   "body": "for every game won, from a $2.5 million prize fund. 14 games. First to 7.5 points is champion.",
+   "note": "Prize terms via FIDE's WorldChess."
+  },
+  {
+   "type": "text",
+   "kicker": "WHY GUKESH CAN STILL WIN",
+   "title": "Ratings are not match play",
+   "bullets": [
+    "He beat Ding Liren 7.5-6.5 to take the title in 2024",
+    "He beat Sindarov in rapid in Warsaw this year",
+    "Both are 20: the youngest title match ever",
+    "Sindarov has White in Game 1"
+   ],
+   "question": "Who wins: Gukesh or Sindarov?"
+  }
+ ],
+ "concept": "The story is a role reversal: the champion is the outsider. So the hero runs the usual Krayon setup in grey (Gukesh is the world champion) and flips it in white (he starts as the underdog), with the two world rankings, No.4 and No.26, as the facts underneath. Slide 2 is the evidence as a rating bar chart that only counts points above 2700, so the 72-point gap reads as a long glowing bar against a stub. Then two giant numbers (2-0 head to head and Sindarov's unbeaten 10/14), the money at stake, and a closing slide that argues the other side before handing fans the pick. Indian orange, type and shapes only: no player photos, no FIDE or event logos.",
+ "caption": "Gukesh is the world champion. In Geneva he starts as the underdog.\n\nGame 1 against Javokhir Sindarov is tomorrow at 7:30 pm IST. Sindarov is world No. 4 on 2782. Gukesh is No. 26 on 2710. The Uzbek leads their classical head to head 2-0 with one draw and won the Candidates unbeaten on 10/14.\n\nBut matches are not ratings. Gukesh beat Ding Liren 7.5-6.5 for the title in 2024 and beat Sindarov in rapid this year. Both are 20, the youngest title match ever. 14 games, first to 7.5 points and $200,000 for every game won.\n\nWho wins: Gukesh or Sindarov? Tell us below.\n\nFigures via ChessBase India, Chess.com and FIDE's WorldChess.\n\n#KrayonSports #Gukesh #WorldChessChampionship #Chess #Sindarov",
+ "sources": [
+  "https://chessbase.in/news/all-that-you-wanted-to-know-about-gukesh-vs-sindarov-world-chess-championship-2026",
+  "https://www.chess.com/news/view/2026-fide-chess-world-championship-opening-ceremony",
+  "https://worldchess.com/news/gukesh-vs-sindarov-everything-you-need-to-know-about-the-2026-world-chess-championship",
+  "https://en.wikipedia.org/wiki/World_Chess_Championship_2026"
+ ]
+}
