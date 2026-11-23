@@ -953,7 +953,7 @@
   "sport": "cricket",
   "headline": "India scored 720. New Zealand still saved the Test.",
   "format": "carousel",
-  "status": "pending",
+  "status": "expired",
   "created": "2026-11-23T05:16:06+00:00",
   "published": null,
   "media_id": null,
@@ -966,6 +966,26 @@
    "https://www.socialnews.xyz/2026/11/22/1st-test-mitchell-phillips-remain-unbeaten-for-nz-as-india-chase-victory-in-final-session/",
    "https://pragativadi.com/ind-vs-nz-1st-test-day-5-daryl-mitchell-and-glenn-phillips-dig-in-to-frustrate-india-as-visitors-hunt-five-wickets-in-tense-final-session/",
    "https://sundayguardianlive.com/sports/ind-vs-nz-1st-test-day-5-live-update-india-need-five-wickets-to-secure-victory-in-wellington-as-daryl-mitchell-glenn-phillips-lead-kiwi-resistance-326267/"
+  ]
+ },
+ {
+  "slug": "2026-11-23-pm-pochettino-debut",
+  "series": 52,
+  "sport": "football",
+  "headline": "Pochettino's first game. Down to 10 men after 8 minutes.",
+  "format": "carousel",
+  "status": "pending",
+  "created": "2026-11-23T08:21:44+00:00",
+  "published": null,
+  "media_id": null,
+  "reel_media_id": null,
+  "sources": [
+   "https://www.skysports.com/football/news/13611979/liverpool-4-0-man-utd-mauricio-pochettino-endures-nightmare-start-as-leny-yoros-early-red-card-sparks-collapse",
+   "https://sports.yahoo.com/soccer/article/mauricio-pochettinos-first-man-united-match-ends-with-4-0-loss-to-liverpool-after-early-red-card-182758941.html",
+   "https://sports.yahoo.com/articles/gone-165-seconds-anatomy-man-185712277.html",
+   "https://www.skysports.com/football/news/13615402/leny-yoro-red-card-man-utd-boss-mauricio-pochettino-and-kobbie-mainoo-angry-at-sending-off-for-foul-on-liverpools-alexander-isak",
+   "https://www.skysports.com/football/tables",
+   "https://www.mykhel.com/news/sports-bulletin-nov-23-rishabh-pant-creates-sena-history-india-a-lose-to-pakistan-ind-vs-nz-test-459835.html"
   ]
  }
 ]

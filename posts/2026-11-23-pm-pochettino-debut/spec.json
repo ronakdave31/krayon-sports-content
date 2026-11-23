@@ -1,0 +1,105 @@
+{
+ "slug": "2026-11-23-pm-pochettino-debut",
+ "tag": "FOOTBALL",
+ "sport": "football",
+ "series": "52 / THE BREAKDOWN",
+ "thumb": {
+  "title": "Pochettino's debut: 10 men after 8 minutes",
+  "sub": "Liverpool 4-0 Manchester United",
+  "ghost": "4-0"
+ },
+ "slides": [
+  {
+   "type": "hero",
+   "kicker": "PREMIER LEAGUE · ANFIELD · SUNDAY",
+   "grey": "Pochettino's first game.",
+   "white": "Down to 10 men after 8 minutes.",
+   "sub": "Liverpool won 4-0. United are one point off the bottom.",
+   "facts": [
+    [
+     "4-0",
+     "Liverpool v Man United"
+    ],
+    [
+     "8'",
+     "Leny Yoro sent off"
+    ]
+   ]
+  },
+  {
+   "type": "bars",
+   "kicker": "WHY: IT WAS OVER EARLY",
+   "title": "Three blows in 13 minutes",
+   "rows": [
+    [
+     "Yoro",
+     "Red card, foul on Isak",
+     8,
+     "8'"
+    ],
+    [
+     "Szoboszlai",
+     "Free kick, 1-0",
+     10,
+     "10'"
+    ],
+    [
+     "Wirtz",
+     "Volley, 2-0",
+     13,
+     "13'"
+    ],
+    [
+     "Ngumoha",
+     "3-0",
+     66,
+     "66'"
+    ],
+    [
+     "Munoz",
+     "4-0, off the bench",
+     82,
+     "82'"
+    ]
+   ],
+   "highlight_first": true,
+   "note": "Minute of each moment"
+  },
+  {
+   "type": "stat",
+   "kicker": "THE COLLAPSE",
+   "big": "2:45",
+   "body": "between Liverpool's first two goals. Szoboszlai scored at 9:53. Wirtz scored at 12:38.",
+   "note": "Goal times via The Telegraph."
+  },
+  {
+   "type": "stat",
+   "kicker": "A PREMIER LEAGUE FIRST",
+   "big": "1st",
+   "body": "manager's debut with a red card and two goals conceded in the first half.",
+   "note": "Stat via OptaJoe. Liverpool had 28 shots."
+  },
+  {
+   "type": "text",
+   "kicker": "WHAT IT MEANS",
+   "title": "United are in a relegation fight",
+   "bullets": [
+    "In the bottom three, one point off last place",
+    "Pochettino is their third manager this year",
+    "Liverpool climb to fourth on 21 points",
+    "Arsenal stay top on 28"
+   ],
+   "question": "Was Yoro's red card the right call?"
+  }
+ ],
+ "concept": "One early moment decided the game, so the carousel is built like a match clock. The hero puts the setup in grey (Pochettino's first game) and the twist in white (10 men after 8 minutes), with 4-0 and 8' as the two numbers underneath. Slide 2 is a timeline drawn as bars: each bar's length is the minute it happened, so the glowing red card bar and the two goals that followed sit together as three short bars at the top while Ngumoha and Munoz trail off below, showing how early the game was gone. Slide 3 is one giant clock figure (2:45 between the first two goals) and slide 4 the Opta first. The last slide turns to the table and hands fans the red card debate. Football green, pitch lines and type only: no player photos, no club crests.",
+ "caption": "Pochettino's first game at Manchester United lasted eight minutes as a contest.\n\nLeny Yoro was sent off for bringing down Alexander Isak on the edge of the box. Within five minutes Liverpool were 2-0 up through a Szoboszlai free kick and a Wirtz volley. Rio Ngumoha and Victor Munoz added the rest. Final score: Liverpool 4-0 Manchester United.\n\nOpta says no manager had ever had a red card plus two goals conceded in the first half of his Premier League debut. United are now in the relegation zone, one point off the bottom. Liverpool move up to fourth.\n\nWas Yoro's red card the right call? Tell us below.\n\nMatch details via Sky Sports, The Telegraph and Yahoo Sports.\n\n#KrayonSports #LIVMUN #PremierLeague #ManUtd #Liverpool",
+ "sources": [
+  "https://www.skysports.com/football/news/13611979/liverpool-4-0-man-utd-mauricio-pochettino-endures-nightmare-start-as-leny-yoros-early-red-card-sparks-collapse",
+  "https://sports.yahoo.com/soccer/article/mauricio-pochettinos-first-man-united-match-ends-with-4-0-loss-to-liverpool-after-early-red-card-182758941.html",
+  "https://sports.yahoo.com/articles/gone-165-seconds-anatomy-man-185712277.html",
+  "https://www.skysports.com/football/news/13615402/leny-yoro-red-card-man-utd-boss-mauricio-pochettino-and-kobbie-mainoo-angry-at-sending-off-for-foul-on-liverpools-alexander-isak",
+  "https://www.skysports.com/football/tables",
+  "https://www.mykhel.com/news/sports-bulletin-nov-23-rishabh-pant-creates-sena-history-india-a-lose-to-pakistan-ind-vs-nz-test-459835.html"
+ ]
+}
