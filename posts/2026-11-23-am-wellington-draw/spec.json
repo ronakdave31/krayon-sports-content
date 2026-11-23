@@ -1,0 +1,104 @@
+{
+ "slug": "2026-11-23-am-wellington-draw",
+ "tag": "CRICKET",
+ "sport": "cricket",
+ "series": "51 / THE BREAKDOWN",
+ "thumb": {
+  "title": "India made 720. Still a draw.",
+  "sub": "How New Zealand saved the Test",
+  "ghost": "720"
+ },
+ "slides": [
+  {
+   "type": "hero",
+   "kicker": "NZ vs INDIA · 1st TEST · DAY 5",
+   "grey": "India scored 720.",
+   "white": "New Zealand still saved the Test.",
+   "sub": "The Wellington Test ended in a draw. New Zealand batted through the final day and finished on 239 for 5.",
+   "facts": [
+    [
+     "239/5",
+     "in 120 overs"
+    ],
+    [
+     "3",
+     "wickets on day 5"
+    ]
+   ]
+  },
+  {
+   "type": "bars",
+   "kicker": "WHY: THEY STOPPED SCORING",
+   "title": "Four 125-ball knocks",
+   "rows": [
+    [
+     "Mitchell",
+     "49 not out",
+     186,
+     "186 balls"
+    ],
+    [
+     "Conway",
+     "65, out to Sundar",
+     165,
+     "165 balls"
+    ],
+    [
+     "Ravindra",
+     "37, out to Prasidh",
+     129,
+     "129 balls"
+    ],
+    [
+     "Phillips",
+     "26 not out",
+     126,
+     "126 balls"
+    ]
+   ],
+   "highlight_first": true,
+   "note": "Runs did not matter. Time did."
+  },
+  {
+   "type": "stat",
+   "kicker": "THE FINAL DAY",
+   "big": "120",
+   "body": "runs New Zealand added on day 5, for three wickets. They began the day on 119/2.",
+   "note": "Wickets: Conway to Sundar, Ravindra to Prasidh Krishna, Blundell to Kamboj."
+  },
+  {
+   "type": "text",
+   "kicker": "HOW INDIA CAME CLOSE",
+   "title": "Five down by over 77",
+   "bullets": [
+    "Blundell fell to Kamboj after a DRS review",
+    "Akash Deep missed a run-out chance on Mitchell",
+    "Mitchell and Phillips then blocked the rest of the day",
+    "Bumrah came back late. No more wickets fell"
+   ]
+  },
+  {
+   "type": "text",
+   "kicker": "WHAT'S NEXT",
+   "title": "One Test left, in Christchurch",
+   "bullets": [
+    "Two-Test series, level at 0-0",
+    "Second Test starts Friday, 27 November",
+    "India's 720/9 is still the highest Test total in NZ"
+   ],
+   "question": "Should India have declared earlier?"
+  }
+ ],
+ "concept": "Big total, no win. The hero sets the paradox in two tones: India's 720 in muted grey, the twist in white ('New Zealand still saved the Test'), with the final 239/5 and the three day-5 wickets underneath. Slide 2 turns the rearguard into a bar chart of balls faced, not runs: Mitchell's glowing 186-ball bar leads three grey bars for Conway, Ravindra and Phillips, because on a final day time matters more than runs. Slide 3 is one giant number (120 runs in a whole day) that shows how little NZ needed to score. Slide 4 is the 'so close' timeline (Blundell's DRS wicket, Akash Deep's missed run-out) and the last slide points to Christchurch and hands fans the declaration debate. Cricket blue, pitch lines and type only: no player photos, no logos.",
+ "caption": "India made 720. New Zealand still walked away with a draw.\n\nThe Wellington Test ended on Monday with New Zealand on 239 for 5 in 120 overs. They began the final day on 119 for 2 and needed to survive, not score.\n\nWhy it worked: Daryl Mitchell faced 186 balls for 49 not out. Glenn Phillips faced 126 balls for 26 not out. India took three wickets on the day (Conway, Ravindra and Blundell) but none after Blundell fell in the 77th over. Akash Deep also missed a run-out chance on Mitchell.\n\nThe two-Test series stays level. The second Test starts in Christchurch on Friday.\n\nShould India have declared earlier? Tell us below.\n\nMatch details via PTI, IANS, ANI and Outlook India.\n\n#KrayonSports #NZvIND #TeamIndia #TestCricket #DarylMitchell",
+ "sources": [
+  "https://thefederal.com/sports/cricket/india-vs-new-zealand-first-test-ends-in-draw-263809",
+  "https://revsportz.in/blackcaps-blockathon-denies-india/",
+  "https://www.stuff.co.nz/sport/361062471/daryl-mitchell-glenn-phillips-lead-successful-rearguard-black-caps-and-india-draw-first-test",
+  "https://www.outlookindia.com/sports/cricket/india-vs-new-zealand-1st-test-day-5-live-score-ind-vs-nz-scorecard-latest-updates-highlights",
+  "https://www.tribuneindia.com/news/sports/india-vs-new-zealand-1st-test-kiwis-dig-deep-for-draw-as-mitchell-phillips-frustrate-visitors-at-tea-on-day-5",
+  "https://www.socialnews.xyz/2026/11/22/1st-test-mitchell-phillips-remain-unbeaten-for-nz-as-india-chase-victory-in-final-session/",
+  "https://pragativadi.com/ind-vs-nz-1st-test-day-5-daryl-mitchell-and-glenn-phillips-dig-in-to-frustrate-india-as-visitors-hunt-five-wickets-in-tense-final-session/",
+  "https://sundayguardianlive.com/sports/ind-vs-nz-1st-test-day-5-live-update-india-need-five-wickets-to-secure-victory-in-wellington-as-daryl-mitchell-glenn-phillips-lead-kiwi-resistance-326267/"
+ ]
+}

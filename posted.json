@@ -946,5 +946,26 @@
   "reel_media_id": "18084652481352460",
   "reel_published": "2026-11-22T19:18:00Z",
   "carousel_status": "unconfirmed: carousel call at 19:17Z returned 'Application request limit reached'; get_data is cached and cannot show it yet. Not retried."
+ },
+ {
+  "slug": "2026-11-23-am-wellington-draw",
+  "series": 51,
+  "sport": "cricket",
+  "headline": "India scored 720. New Zealand still saved the Test.",
+  "format": "carousel",
+  "status": "pending",
+  "created": "2026-11-23T05:16:06+00:00",
+  "published": null,
+  "media_id": null,
+  "sources": [
+   "https://thefederal.com/sports/cricket/india-vs-new-zealand-first-test-ends-in-draw-263809",
+   "https://revsportz.in/blackcaps-blockathon-denies-india/",
+   "https://www.stuff.co.nz/sport/361062471/daryl-mitchell-glenn-phillips-lead-successful-rearguard-black-caps-and-india-draw-first-test",
+   "https://www.outlookindia.com/sports/cricket/india-vs-new-zealand-1st-test-day-5-live-score-ind-vs-nz-scorecard-latest-updates-highlights",
+   "https://www.tribuneindia.com/news/sports/india-vs-new-zealand-1st-test-kiwis-dig-deep-for-draw-as-mitchell-phillips-frustrate-visitors-at-tea-on-day-5",
+   "https://www.socialnews.xyz/2026/11/22/1st-test-mitchell-phillips-remain-unbeaten-for-nz-as-india-chase-victory-in-final-session/",
+   "https://pragativadi.com/ind-vs-nz-1st-test-day-5-daryl-mitchell-and-glenn-phillips-dig-in-to-frustrate-india-as-visitors-hunt-five-wickets-in-tense-final-session/",
+   "https://sundayguardianlive.com/sports/ind-vs-nz-1st-test-day-5-live-update-india-need-five-wickets-to-secure-victory-in-wellington-as-daryl-mitchell-glenn-phillips-lead-kiwi-resistance-326267/"
+  ]
  }
 ]
