@@ -1,0 +1,77 @@
+{
+ "slug": "2026-11-24-pm-ucl-tuesday",
+ "tag": "FOOTBALL",
+ "sport": "football",
+ "series": "57 / THE PREVIEW",
+ "thumb": {
+  "title": "Real perfect. Arsenal unbeaten. City under pressure.",
+  "sub": "Real v PSV, Arsenal v Dortmund, City v Napoli",
+  "ghost": "MD5"
+ },
+ "slides": [
+  {
+   "type": "hero",
+   "kicker": "CHAMPIONS LEAGUE · MATCHDAY 5 · TONIGHT",
+   "grey": "Real Madrid are perfect. Arsenal are unbeaten.",
+   "white": "Man City need a response.",
+   "sub": "Three big kick-offs at 1:30 am IST: Arsenal v Dortmund, City v Napoli, Real v PSV.",
+   "facts": [["4 from 4", "league-phase wins for Real Madrid"], ["27th", "Napoli, City's visitors tonight"]]
+  },
+  {
+   "type": "bars",
+   "kicker": "THE LEAGUE PHASE SO FAR",
+   "title": "Points after four games",
+   "rows": [
+    ["Real Madrid", "2nd · v PSV tonight", 12, "12"],
+    ["Arsenal", "3rd · v Dortmund tonight", 10, "10"],
+    ["Man City", "7th · v Napoli tonight", 9, "9"],
+    ["PSV", "24th", 4, "4"],
+    ["Napoli", "27th", 3, "3"]
+   ],
+   "highlight_first": true,
+   "note": "Top 8 go straight to the last 16"
+  },
+  {
+   "type": "stat",
+   "kicker": "REAL MADRID v PSV",
+   "big": "9",
+   "body": "straight wins for Mourinho's Real Madrid in all competitions. PSV are the 10th test. The clubs last met in Europe in 1989.",
+   "note": "Via Sports Mole and SI."
+  },
+  {
+   "type": "text",
+   "kicker": "ARSENAL v DORTMUND",
+   "title": "Unbeaten, but missing key men",
+   "bullets": [
+    "David Raya is out with a shoulder injury",
+    "Kepa Arrizabalaga starts in goal",
+    "Bukayo Saka and Martin Zubimendi are out too",
+    "Dortmund arrive top of the Bundesliga"
+   ],
+   "footnote": "Via Football365, All Out Soccer and SI."
+  },
+  {
+   "type": "text",
+   "kicker": "MAN CITY v NAPOLI",
+   "title": "Kevin De Bruyne comes back to the Etihad",
+   "bullets": [
+    "He spent a decade at City before joining Napoli in 2025",
+    "City have not won any of their last four league games",
+    "Napoli have 3 points and sit 27th"
+   ],
+   "question": "Which of the three is in most danger tonight?"
+  }
+ ],
+ "concept": "Matchday 5 is one night with three moods, so the design is a mood board in green. The hero stacks two confident lines in grey (Real perfect, Arsenal unbeaten) and the one anxious line in white (City need a response), because the pressure is the story. Slide 2 puts all five clubs in tonight's three big games on one bar chart of points, so you see at a glance that the favourites sit near the top and their visitors near the cut. Then one slide per game: Real's 9 straight wins as a giant number, Arsenal's absences as a list and De Bruyne's return to City as the human hook, ending on a question for fans. Type and shapes only: no player photos, no club or UEFA logos.",
+ "caption": "Real Madrid are perfect. Arsenal are unbeaten. Man City need a response.\n\nChampions League Matchday 5 is tonight, with three big games at 1:30 am IST. Real Madrid have won all four league-phase games and nine in a row overall. They host PSV for the first time in Europe since 1989.\n\nArsenal are third and unbeaten but face Dortmund without David Raya, Bukayo Saka and Martin Zubimendi. Kepa starts in goal.\n\nCity are seventh with 9 points and have not won any of their last four league games. Their visitors are Napoli, 27th, with Kevin De Bruyne back at the Etihad.\n\nWhich of the three is in most danger tonight? Tell us below.\n\nVia beIN, Goal, Sports Mole, SI and Football365.\n\n#KrayonSports #ChampionsLeague #UCL #RealMadrid #Arsenal #ManCity",
+ "sources": [
+  "https://www.si.com/soccer/champions-league-predictions-11-24-26-real-madrid-man-city",
+  "https://www.sportsmole.co.uk/football/real-madrid/champions-league/preview/real-madrid-vs-psv-prediction-team-news-lineups_609630.html",
+  "https://sports.yahoo.com/articles/real-madrid-vs-psv-champions-183007387.html",
+  "https://www.football365.com/match-preview/arsenal-vs-borussia-dortmund-preview-gunners-vulnerable-with-david-raya-set-to-miss-out",
+  "https://sports.yahoo.com/articles/mikel-arteta-provides-injury-david-160809816.html",
+  "https://www.beinsports.com/en-us/soccer/uefa-champions-league/articles/manchester-city-vs-napoli-date-time-and-everything-you-need-to-know-about-this-champions-league-match-2026-11-24",
+  "https://www.goal.com/en/news/manchester-city-napoli-champions-league-preview/blt5748d9ca2a0dbfbf",
+  "https://www.paramountplus.com/sneak-peak/uefa-champions-league-matchday-5-2026-schedule/"
+ ]
+}

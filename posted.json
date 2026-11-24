@@ -1050,7 +1050,7 @@
     "sport": "indian",
     "headline": "Sindhu, Lakshya and Satwik-Chirag are skipping it. India's next wave has the seeds.",
     "format": "carousel",
-    "status": "pending",
+    "status": "expired",
     "created": "2026-11-24T08:15:14+00:00",
     "published": null,
     "media_id": null,
@@ -1061,6 +1061,27 @@
       "https://www.tribuneindia.com/news/sports/treesa-gayatri-eyes-3rd-straight-syed-modi-international-title-as-rakshitha-ramraj-leads-indias-singles-challenge/",
       "https://revsportz.in/indias-next-generation-in-focus-six-shuttlers-to-watch-at-syed-modi-international/",
       "https://www.indiasportshub.com/articles/syed-modi-international-2026-india-s-next-generation-of-women-s-singles-shuttlers-in-focus"
+    ]
+  },
+  {
+    "slug": "2026-11-24-pm-ucl-tuesday",
+    "series": 57,
+    "sport": "football",
+    "headline": "Real Madrid are perfect. Arsenal are unbeaten. Man City need a response.",
+    "format": "carousel",
+    "status": "pending",
+    "created": "2026-11-24T12:19:47Z",
+    "published": null,
+    "media_id": null,
+    "sources": [
+      "https://www.si.com/soccer/champions-league-predictions-11-24-26-real-madrid-man-city",
+      "https://www.sportsmole.co.uk/football/real-madrid/champions-league/preview/real-madrid-vs-psv-prediction-team-news-lineups_609630.html",
+      "https://sports.yahoo.com/articles/real-madrid-vs-psv-champions-183007387.html",
+      "https://www.football365.com/match-preview/arsenal-vs-borussia-dortmund-preview-gunners-vulnerable-with-david-raya-set-to-miss-out",
+      "https://sports.yahoo.com/articles/mikel-arteta-provides-injury-david-160809816.html",
+      "https://www.beinsports.com/en-us/soccer/uefa-champions-league/articles/manchester-city-vs-napoli-date-time-and-everything-you-need-to-know-about-this-champions-league-match-2026-11-24",
+      "https://www.goal.com/en/news/manchester-city-napoli-champions-league-preview/blt5748d9ca2a0dbfbf",
+      "https://www.paramountplus.com/sneak-peak/uefa-champions-league-matchday-5-2026-schedule/"
     ]
   }
 ]
