@@ -1090,15 +1090,16 @@
   "sport": "indian",
   "headline": "Three goals in 14 minutes. China never recovered.",
   "format": "carousel",
-  "status": "pending",
+  "status": "published",
   "created": "2026-11-24T17:21:26Z",
-  "published": null,
-  "media_id": null,
-  "reel_media_id": null,
+  "published": "2026-11-24T18:11:28Z",
+  "media_id": "18652503997048766",
+  "reel_media_id": "17988802928931060",
   "sources": [
    "https://tms.fih.ch/competitions/1943",
    "https://revsportz.in/wact-indias-record-6-2-rout-of-china-overshadowed-by-poor-crowd-management-in-bhopal/",
    "https://khelnow.com/hockey/india-thailand-report-womens-hockey-asian-champions-trophy-202611"
-  ]
+  ],
+  "reel_published": "2026-11-24T18:12:21Z"
  }
 ]
