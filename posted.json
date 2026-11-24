@@ -1013,7 +1013,7 @@
     "sport": "business",
     "headline": "The record is Rs 27 crore. Six teams have the money to beat it.",
     "format": "carousel",
-    "status": "pending",
+    "status": "expired",
     "created": "2026-11-23T17:18:04+00:00",
     "published": null,
     "media_id": null,
@@ -1022,6 +1022,26 @@
       "https://www.businesstoday.in/sports/photo/ipl-2027-auction-on-16-december-which-teams-can-afford-to-break-rishabh-pants-rs27-crore-record-569130-2026-11-23",
       "https://www.business-standard.com/cricket/ipl/ipl-2027-retained-and-released-players-list-announcement-time-streaming-126111700251_1.html",
       "https://sundayguardianlive.com/sports/ipl-2027-auction-bcci-extends-player-retention-deadline-to-november-17-full-157-crore-salary-cap-auction-rules-key-dates-and-major-trades-explained-323032/"
+    ]
+  },
+  {
+    "slug": "2026-11-24-am-hagley-decider",
+    "series": 55,
+    "sport": "cricket",
+    "headline": "India have played one Test at Hagley Oval. It was over inside three days.",
+    "format": "carousel",
+    "status": "pending",
+    "created": "2026-11-24T04:15:56+00:00",
+    "published": null,
+    "media_id": null,
+    "reel_media_id": null,
+    "sources": [
+      "https://www.espncricinfo.com/records/ground/team-match-results/nz-hagley-oval-christchurch-93/test-matches-1?team=6",
+      "https://onmanorama.com/sports/cricket/2020/03/02/india-new-zealand-christchurch-test-series-win.html",
+      "https://world-today-journal.com/india-vs-new-zealand-2nd-test-selection-dilemma-hit-the-deck-vs-swing-at-hagley-oval/",
+      "https://www.crictracker.com/live-scores/nz-vs-ind-2nd-test-india-tour-of-new-zealand-26-nov-2026/",
+      "https://thefederal.com/sports/cricket/india-vs-new-zealand-first-test-ends-in-draw-263809",
+      "https://www.stuff.co.nz/sport/361062471/daryl-mitchell-glenn-phillips-lead-successful-rearguard-black-caps-and-india-draw-first-test"
     ]
   }
 ]

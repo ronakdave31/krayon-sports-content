@@ -1,0 +1,92 @@
+{
+  "slug": "2026-11-24-am-hagley-decider",
+  "tag": "CRICKET",
+  "sport": "cricket",
+  "series": "55 / THE BREAKDOWN",
+  "slides": [
+    {
+      "type": "hero",
+      "kicker": "NZ vs IND · 2ND TEST · CHRISTCHURCH",
+      "grey": "India have played one Test at Hagley Oval.",
+      "white": "It was over inside three days.",
+      "sub": "The series is level after the Wellington draw. The decider starts Friday at 3:30 am IST.",
+      "facts": [
+        [
+          "0-0",
+          "after the 1st Test draw"
+        ],
+        [
+          "1",
+          "Test India have played there"
+        ]
+      ]
+    },
+    {
+      "type": "bars",
+      "kicker": "CHRISTCHURCH 2020",
+      "title": "Runs in each innings",
+      "rows": [
+        [
+          "India",
+          "1st innings",
+          242,
+          "242"
+        ],
+        [
+          "New Zealand",
+          "1st innings",
+          235,
+          "235"
+        ],
+        [
+          "India",
+          "2nd innings, 46 overs",
+          124,
+          "124"
+        ],
+        [
+          "New Zealand",
+          "chase, 3 wickets down",
+          132,
+          "132/3"
+        ]
+      ],
+      "highlight_first": false,
+      "note": "NZ won by 7 wickets. Series: 2-0."
+    },
+    {
+      "type": "stat",
+      "kicker": "WHY IT WENT WRONG",
+      "big": "4/28",
+      "body": "Trent Boult's figures as India were bowled out for 124 in 46 overs. Tim Southee took 3/36.",
+      "note": "Seven of India's ten second-innings wickets went to the two seamers."
+    },
+    {
+      "type": "text",
+      "kicker": "WHAT IT MEANS",
+      "title": "One Test decides it",
+      "bullets": [
+        "Wellington was drawn, so the series is 0-0",
+        "Win and India take it. Lose and NZ do",
+        "In 2020 India led by 7 on first innings and still lost",
+        "A draw leaves the series level"
+      ],
+      "question": "Can India win at Hagley this time?"
+    }
+  ],
+  "thumb": {
+    "title": "India's one Test at Hagley lasted three days",
+    "sub": "NZ vs IND decider · Christchurch · Friday",
+    "ghost": "124"
+  },
+  "concept": "A memory post for a decider. The hero puts India's only Test at Hagley Oval in muted grey and the punchline in white: 'It was over inside three days.' Slide 2 is the 2020 match as four innings bars, so fans see India 242 edge New Zealand's 235 and then the drop to 124 before New Zealand's short chase. Slide 3 is one giant '4/28', Trent Boult's spell, the reason it collapsed. The last slide turns it to Friday: series level, win or lose decides it, a draw leaves it level, and asks if India can win there this time. Cricket blue, type and charts only: no player photos, no logos.",
+  "caption": "India have played one Test at Hagley Oval. It was over inside three days.\n\nThe Wellington Test was drawn, so the two-Test series against New Zealand is level. The decider starts in Christchurch on Friday at 3:30 am IST.\n\nThe last time India played there, in 2020, they led by seven runs on first innings (242 to 235). Then they were bowled out for 124 in 46 overs. Trent Boult took 4/28 and Tim Southee 3/36. New Zealand chased it down for the loss of three wickets and won the series 2-0.\n\nThis time a win takes the series for India. A loss hands it to New Zealand. A draw leaves it level.\n\nCan India win at Hagley this time? Tell us below.\n\n2020 scores via ESPNcricinfo and PTI. Fixture details via News18 CricketNext and CricTracker.\n\n#KrayonSports #NZvIND #TeamIndia #TestCricket #HagleyOval",
+  "sources": [
+    "https://www.espncricinfo.com/records/ground/team-match-results/nz-hagley-oval-christchurch-93/test-matches-1?team=6",
+    "https://onmanorama.com/sports/cricket/2020/03/02/india-new-zealand-christchurch-test-series-win.html",
+    "https://world-today-journal.com/india-vs-new-zealand-2nd-test-selection-dilemma-hit-the-deck-vs-swing-at-hagley-oval/",
+    "https://www.crictracker.com/live-scores/nz-vs-ind-2nd-test-india-tour-of-new-zealand-26-nov-2026/",
+    "https://thefederal.com/sports/cricket/india-vs-new-zealand-first-test-ends-in-draw-263809",
+    "https://www.stuff.co.nz/sport/361062471/daryl-mitchell-glenn-phillips-lead-successful-rearguard-black-caps-and-india-draw-first-test"
+  ]
+}
