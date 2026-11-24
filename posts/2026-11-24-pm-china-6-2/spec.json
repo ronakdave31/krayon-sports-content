@@ -1,0 +1,101 @@
+{
+ "slug": "2026-11-24-pm-china-6-2",
+ "tag": "HOCKEY",
+ "sport": "indian",
+ "series": "58 / THE BREAKDOWN",
+ "thumb": {
+  "title": "3 goals in 14 minutes: India 6-2 China",
+  "sub": "Deepika's hat-trick in Bhopal",
+  "ghost": "6-2"
+ },
+ "slides": [
+  {
+   "type": "hero",
+   "kicker": "HOCKEY · WOMEN'S ASIAN CHAMPIONS TROPHY",
+   "grey": "Three goals in 14 minutes.",
+   "white": "China never recovered.",
+   "sub": "India beat China 6-2 in Bhopal, led by a Deepika hat-trick. They stay perfect and meet Japan for top spot on Wednesday.",
+   "facts": [
+    [
+     "6-2",
+     "vs China, Tuesday"
+    ],
+    [
+     "4 / 4",
+     "wins for India"
+    ]
+   ]
+  },
+  {
+   "type": "stat",
+   "kicker": "DEEPIKA'S 14 MINUTES",
+   "big": "3",
+   "body": "Goals for Deepika by the 14th minute: a field goal in the 1st, then penalty corners in the 6th and 14th. Her second hat-trick in a row, after three against Thailand.",
+   "note": "Lalremsiami, Neha Goyal and Sakshi Rana scored India's other three."
+  },
+  {
+   "type": "text",
+   "kicker": "THE CONTEXT",
+   "title": "China came with a new-look side",
+   "bullets": [
+    "Silver medallists at the Paris Olympics",
+    "13 players made their international debuts",
+    "Head coach Alyson Annan was not with the team",
+    "China's goals: Feng Qingmiao 15', Tong Chen 34'"
+   ],
+   "footnote": "Squad and coach details as reported by RevSportz"
+  },
+  {
+   "type": "bars",
+   "kicker": "THE TABLE AFTER FOUR GAMES",
+   "title": "Level on points. Apart on goals.",
+   "rows": [
+    [
+     "India",
+     "goal difference +15",
+     12,
+     "12 pts"
+    ],
+    [
+     "Japan",
+     "goal difference +8",
+     12,
+     "12 pts"
+    ],
+    [
+     "China",
+     "goal difference +1",
+     4,
+     "4 pts"
+    ],
+    [
+     "Malaysia",
+     "goal difference -3",
+     4,
+     "4 pts"
+    ]
+   ],
+   "highlight_first": true,
+   "note": "Korea 3 pts, Thailand 0. One round-robin game left."
+  },
+  {
+   "type": "text",
+   "kicker": "WHAT'S NEXT",
+   "title": "Japan on Wednesday",
+   "bullets": [
+    "Both teams have won all four games",
+    "India lead on goal difference, +15 to +8",
+    "Japan vs India, Wednesday, 7 pm IST",
+    "Semi-finals: 1st vs 4th, 2nd vs 3rd"
+   ],
+   "question": "Who finishes top: India or Japan?"
+  }
+ ],
+ "concept": "A fast start told as a clock. The hero puts the speed in muted grey (Three goals in 14 minutes.) and what it did to the game in white (China never recovered.), with the 6-2 right under it, so the reason the game was decided early lands first. Slide 2 gives Deepika's opening burst one giant 3 with the minutes spelled out, slide 3 adds the honest context (China's new-look side) so the win is not oversold, slide 4 shows India and Japan level on 12 points and split only by goal difference, and the last slide sets up Wednesday's top-spot game. Indian-sport orange, type and numbers only: no player photos, no logos.",
+ "caption": "Three goals in 14 minutes. China never recovered.\n\nIndia beat China 6-2 in the Women's Asian Champions Trophy on Tuesday. Deepika scored a field goal in the 1st minute and two penalty corners by the 14th. That is her second hat-trick in a row after three against Thailand. Lalremsiami, Neha Goyal and Sakshi Rana added the rest in Bhopal.\n\nThe context: China are the Paris Olympics silver medallists but RevSportz reports 13 players made their international debuts here and head coach Alyson Annan was not with the team.\n\nIndia and Japan have both won all four games. India lead on goal difference (+15 to +8) and the two meet on Wednesday at 7 pm IST for top spot before the semi-finals.\n\nWho finishes top: India or Japan? Tell us below.\n\nScore and table via the FIH match centre. Match details via RevSportz.\n\n#KrayonSports #IndianHockey #WomensACT #Hockey #IndianSports",
+ "sources": [
+  "https://tms.fih.ch/competitions/1943",
+  "https://revsportz.in/wact-indias-record-6-2-rout-of-china-overshadowed-by-poor-crowd-management-in-bhopal/",
+  "https://khelnow.com/hockey/india-thailand-report-womens-hockey-asian-champions-trophy-202611"
+ ]
+}
