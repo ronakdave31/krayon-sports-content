@@ -1,0 +1,58 @@
+{
+  "slug": "2026-11-25-am-madrid-second-half",
+  "tag": "FOOTBALL",
+  "sport": "football",
+  "series": "59 / THE BREAKDOWN",
+  "slides": [
+    {
+      "type": "hero",
+      "kicker": "CHAMPIONS LEAGUE · MATCHDAY 5",
+      "grey": "1-0 down at half-time.",
+      "white": "Then Bellingham came on.",
+      "sub": "Real Madrid scored five times after the break to beat PSV 5-1 at the Bernabeu.",
+      "facts": [["5-1", "Real Madrid v PSV"], ["10", "wins in a row"]]
+    },
+    {
+      "type": "text",
+      "kicker": "THE BERNABEU · HOW IT TURNED",
+      "title": "One half, five goals",
+      "bullets": [
+        "32' Perisic penalty puts PSV 1-0 up",
+        "46' Bellingham comes off the bench",
+        "Valverde levels",
+        "60' Bellingham volley: 2-1",
+        "64' and 84' Mbappe, 87' Vinicius"
+      ]
+    },
+    {
+      "type": "stat",
+      "kicker": "LEAGUE PHASE · TOP OF THE TABLE",
+      "big": "15",
+      "body": "points from five games. Real Madrid are three clear of PSG.",
+      "note": "PSG host Roma on Wednesday. Arsenal host Real Madrid in two weeks."
+    },
+    {
+      "type": "text",
+      "kicker": "THE REST OF TUESDAY",
+      "title": "English sides held",
+      "bullets": [
+        "Arsenal 1-1 Dortmund: Gyokeres 10', Beier 55'",
+        "Man City 2-2 Napoli: Cherki levels in the 86th",
+        "Aston Villa 0-1 Galatasaray"
+      ],
+      "question": "Can anyone stop Real Madrid?"
+    }
+  ],
+  "thumb": {
+    "title": "1-0 down. Then Madrid scored five.",
+    "sub": "Real Madrid 5-1 PSV",
+    "ghost": "5-1"
+  },
+  "concept": "A tale of two halves. The hero puts the problem in muted grey ('1-0 down at half-time') and the turning point in white ('Then Bellingham came on'), with the score and the 10-game winning run underneath. Slide 2 replays the night as a minute-by-minute timeline so the five second-half goals stack up one after another. Slide 3 is one giant number, 15 points from five games, the reward for the comeback. The last slide widens out to Arsenal and City being held, then hands fans the question. Football green, pitch lines and type only: no player photos, no club or league logos.",
+  "caption": "1-0 down at half-time. Then Real Madrid scored five.\n\nIvan Perisic's 32nd-minute penalty had PSV ahead at the Bernabeu on Tuesday. Jude Bellingham started on the bench and came on at half-time. Federico Valverde levelled and Bellingham's volley on the hour went in off the post. Kylian Mbappe scored in the 64th and 84th minutes and Vinicius Junior added a fifth in the 87th.\n\nWhy it matters: that is 10 straight wins in all competitions. Real Madrid have 15 points from five league-phase games and are three clear of PSG, who host Roma on Wednesday.\n\nThe English sides could not keep up. Arsenal drew 1-1 with Dortmund (Gyokeres 10', Beier 55') and Manchester City needed Rayan Cherki's 86th-minute goal to draw 2-2 with Napoli. Arsenal host Real Madrid in two weeks.\n\nCan anyone stop Real Madrid this season? Tell us below.\n\nMatch details via France 24 (AP), ESPN and Dave.\n\n#KrayonSports #ChampionsLeague #RealMadrid #UCL #Bellingham #Mbappe",
+  "sources": [
+    "https://uk.sports.yahoo.com/news/champions-league-real-madrid-thrash-225939843.html",
+    "https://www.espn.com/soccer/story/_/id/50574152/uefa-champions-league-live-updates",
+    "https://dave.sport/news/champions-league-results-24-november-2026/"
+  ]
+}
