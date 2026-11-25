@@ -1134,5 +1134,22 @@
       "https://www.thehansindia.com/sports/1220-players-named-in-ipl-2027-auction-register-includes-939-indians-281-overseas-players-1145696",
       "https://sports.yahoo.com/cricket/articles/ipl-2027-auction-list-overseas-042053203.html"
     ]
+  },
+  {
+    "slug": "2026-11-25-pm-rankings-climb",
+    "series": 61,
+    "sport": "cricket",
+    "headline": "The Wellington Test was a draw. India's batters still won the week.",
+    "format": "carousel",
+    "status": "pending",
+    "created": "2026-11-25T12:15:47Z",
+    "published": null,
+    "media_id": null,
+    "sources": [
+      "https://www.icc-cricket.com/media-releases/india-batters-gain-big-in-icc-men-s-test-player-rankings",
+      "https://www.crictracker.com/cricket-news/india-batters-gain-big-in-icc-mens-test-player-rankings-after-new-zealand-first-test-0813/",
+      "https://theopenpress.in/article/icc-test-rankings-bumrah-closes-in-starc-jaiswal-top-10",
+      "https://www.crictracker.com/live-scores/nz-vs-ind-2nd-test-india-tour-of-new-zealand-26-nov-2026/"
+    ]
   }
 ]

@@ -1,0 +1,102 @@
+{
+  "slug": "2026-11-25-pm-rankings-climb",
+  "tag": "CRICKET",
+  "sport": "cricket",
+  "series": "61 / THE BREAKDOWN",
+  "slides": [
+    {
+      "type": "hero",
+      "kicker": "ICC TEST RANKINGS · AFTER WELLINGTON",
+      "grey": "The Wellington Test was a draw.",
+      "white": "India's batters still won the week.",
+      "sub": "Five climbed the rankings. Three are now in the top 10.",
+      "facts": [
+        [
+          "3",
+          "Indians in the top 10"
+        ],
+        [
+          "720/9 d",
+          "India's total in Wellington"
+        ]
+      ]
+    },
+    {
+      "type": "bars",
+      "kicker": "WHO CLIMBED",
+      "title": "Places gained this week",
+      "rows": [
+        [
+          "Padikkal",
+          "80 runs · now 39th",
+          15,
+          "+15"
+        ],
+        [
+          "Jaiswal",
+          "85 runs · now 9th",
+          5,
+          "+5"
+        ],
+        [
+          "Rahul",
+          "136 runs · now 25th",
+          4,
+          "+4"
+        ],
+        [
+          "Gill",
+          "98 runs · now 7th",
+          3,
+          "+3"
+        ],
+        [
+          "Pant",
+          "128 runs · now 6th",
+          1,
+          "+1"
+        ]
+      ],
+      "highlight_first": true,
+      "note": "Rahul's 136 was India's top score."
+    },
+    {
+      "type": "stat",
+      "kicker": "THE TOP 10",
+      "big": "6 · 7 · 9",
+      "body": "Pant 6th, Gill 7th, Jaiswal 9th. Jaiswal broke into the top 10 this week.",
+      "note": "Pant is still India's highest-ranked Test batter."
+    },
+    {
+      "type": "stat",
+      "kicker": "THE BOWLER",
+      "big": "=2nd",
+      "body": "Bumrah took five wickets in Wellington and climbed three places. He is now joint second among Test bowlers.",
+      "note": "New Zealand climbed too: Phillips to a career-best 17th, Nicholls up 10 to 30th."
+    },
+    {
+      "type": "text",
+      "kicker": "WHAT'S NEXT",
+      "title": "The decider is at Hagley Oval",
+      "bullets": [
+        "Second Test starts Nov 26 in Christchurch",
+        "Series level at 0-0 after the draw",
+        "One more Test for Bumrah to climb"
+      ],
+      "question": "Which Indian batter climbs highest after Christchurch?"
+    }
+  ],
+  "thumb": {
+    "title": "India drew in Wellington. Their batters climbed.",
+    "sub": "Pant 6th, Gill 7th, Jaiswal 9th",
+    "ghost": "TOP 10"
+  },
+  "concept": "A ladder post. The story is movement, not a result, so the design is built around climbing. The hero sets the draw in muted grey and the real takeaway in white: India's batters still won the week. Slide 2 is a 'places gained' bar chart where the one lit bar is Padikkal's +15, the biggest jump, with every batter's score and new rank underneath. Slide 3 strips the top 10 down to three numbers, 6 · 7 · 9, the spots Pant, Gill and Jaiswal now hold. Slide 4 gives Bumrah his own '=2nd' and gives New Zealand's climbers a fair line. The last slide points at the Hagley Oval decider and asks who climbs next. Cricket blue, type and charts only: no player photos, no logos.",
+  "caption": "The Wellington Test was a draw. India's batters still won the week.\n\nThe new ICC Test rankings are out and five Indian batters moved up after their 720/9 declared.\n\nPant is up to 6th after his 128. Gill is 7th after 98. Jaiswal jumps five places into the top 10 at 9th. KL Rahul's 136 lifts him to 25th and Padikkal's 80 is worth 15 places.\n\nBumrah's five wickets take him up three spots to joint second among Test bowlers. New Zealand climbed too: Glenn Phillips is at a career-best 17th and Henry Nicholls is up 10 to 30th.\n\nThe series decider starts at Hagley Oval in Christchurch on November 26.\n\nWhich Indian batter climbs highest after Christchurch? Tell us below.\n\nRankings via the ICC.\n\n#KrayonSports #INDvNZ #ICCRankings #TestCricket #TeamIndia",
+  "sources": [
+    "https://www.icc-cricket.com/media-releases/india-batters-gain-big-in-icc-men-s-test-player-rankings",
+    "https://www.crictracker.com/cricket-news/india-batters-gain-big-in-icc-mens-test-player-rankings-after-new-zealand-first-test-0813/",
+    "https://theopenpress.in/article/icc-test-rankings-bumrah-closes-in-starc-jaiswal-top-10",
+    "https://www.crictracker.com/live-scores/nz-vs-ind-2nd-test-india-tour-of-new-zealand-26-nov-2026/"
+  ]
+}
