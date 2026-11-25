@@ -1,0 +1,103 @@
+{
+ "slug": "2026-11-25-pm-world-no-4",
+ "tag": "HOCKEY",
+ "sport": "indian",
+ "series": "62 / THE BREAKDOWN",
+ "thumb": {
+  "title": "India 4-0 Japan. Now World No. 4.",
+  "sub": "Best-ever FIH ranking for India's women",
+  "ghost": "No. 4"
+ },
+ "slides": [
+  {
+   "type": "hero",
+   "kicker": "HOCKEY · WOMEN'S ASIAN CHAMPIONS TROPHY",
+   "grey": "Japan were unbeaten too.",
+   "white": "India won 4-0. Now World No. 4.",
+   "sub": "A perfect group stage in Bhopal and India's highest FIH ranking ever.",
+   "facts": [
+    [
+     "4-0",
+     "vs Japan, Wednesday"
+    ],
+    [
+     "No. 4",
+     "best-ever FIH ranking"
+    ]
+   ]
+  },
+  {
+   "type": "stat",
+   "kicker": "WHY IT WAS OVER EARLY",
+   "big": "3-0",
+   "body": "India led 3-0 at half-time: Lalremsiami in the 12th minute, Deepika in the 16th, Neha Goyal in the 28th. Deepika added the fourth in the 48th.",
+   "note": "Japan's best chance was a 35th-minute penalty corner, flicked wide."
+  },
+  {
+   "type": "bars",
+   "kicker": "THE CLIMB",
+   "title": "India's best-ever FIH rankings",
+   "rows": [
+    [
+     "Nov 25, 2026",
+     "after beating Japan 4-0",
+     6,
+     "No. 4"
+    ],
+    [
+     "Nov 24, 2026",
+     "after beating China 6-2",
+     5,
+     "No. 5"
+    ],
+    [
+     "2022",
+     "previous best",
+     4,
+     "No. 6"
+    ],
+    [
+     "2021",
+     "after 4th at Tokyo 2020",
+     2,
+     "No. 8"
+    ],
+    [
+     "2018",
+     "after World Cup quarters",
+     1,
+     "No. 9"
+    ]
+   ],
+   "highlight_first": true,
+   "note": "Two new highs in two days."
+  },
+  {
+   "type": "stat",
+   "kicker": "THE GROUP STAGE",
+   "big": "5 / 5",
+   "body": "Wins over Malaysia, Thailand, South Korea, China and Japan. 22 goals scored, 5 conceded.",
+   "note": "Deepika has 8 goals in the tournament, as reported by RevSportz."
+  },
+  {
+   "type": "text",
+   "kicker": "WHAT'S NEXT",
+   "title": "A semi-final on Friday",
+   "bullets": [
+    "India finish top of the table",
+    "Opponent: Malaysia, as reported by RevSportz",
+    "India are the defending champions",
+    "2026 so far: Nations Cup and Asian Games gold"
+   ],
+   "question": "Can India defend the title in Bhopal?"
+  }
+ ],
+ "concept": "A ranking ladder. The hero puts the challenge in muted grey (Japan were unbeaten too.) and the double payoff in white: a 4-0 win and World No. 4. Slide 2 explains why the game was decided early with one giant 3-0, the half-time score, and the minutes of each goal. Slide 3 is the visual centrepiece: a bar ladder of India's best-ever FIH rankings, 2018 to tonight, with the lit top bar showing No. 4 and the bar above last night's No. 5, so you can see two records fall in two days. Slide 4 sums up the perfect group stage in 5 / 5 and the last slide sets up Friday's semi-final with a question. Indian-sport orange, type and charts only: no player photos, no logos.",
+ "caption": "Japan were unbeaten too. India won 4-0. Now World No. 4.\n\nIndia finished the Women's Asian Champions Trophy group stage with five wins from five in Bhopal on Wednesday. Lalremsiami, Deepika and Neha Goyal made it 3-0 by half-time and Deepika added a fourth in the 48th minute.\n\nThe win lifts India to No. 4 in the FIH world rankings, their highest ever. They only reached No. 5 for the first time a day earlier after the 6-2 win over China. The previous best was No. 6 in 2022. RevSportz reports India moved past Spain.\n\nIndia scored 22 and conceded 5 in the group. The defending champions play their semi-final on Friday, against Malaysia as reported by RevSportz.\n\nCan India defend the title in Bhopal? Tell us below.\n\nRanking details via Hockey India as reported by The Tribune and myKhel. Match details via RevSportz.\n\n#KrayonSports #IndianHockey #WomensACT #Hockey #IndianSports",
+ "sources": [
+  "https://www.tribuneindia.com/news/asian-champions-trophy/womens-asian-champions-trophy-india-climb-to-world-no-4-in-fih-rankings-after-4-0-thrashing-of-japan",
+  "https://www.mykhel.com/hockey/asian-champions-trophy-indian-womens-hockey-team-creates-history-climbs-to-world-no-4-in-fih-ranking-460089.html",
+  "https://revsportz.in/india-crush-japan-4-0-to-dethrone-spain-and-claim-historic-fourth-spot-in-world-rankings/",
+  "https://theprint.in/sport/india-beat-china-6-2-in-womens-act-hockey/3108026/"
+ ]
+}
