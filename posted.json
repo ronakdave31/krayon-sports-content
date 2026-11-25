@@ -1118,5 +1118,21 @@
       "https://www.espn.com/soccer/story/_/id/50574152/uefa-champions-league-live-updates",
       "https://dave.sport/news/champions-league-results-24-november-2026/"
     ]
+  },
+  {
+    "slug": "2026-11-25-pm-ipl-register",
+    "series": 60,
+    "sport": "business",
+    "headline": "1,220 players signed up. Only 66 will get a contract.",
+    "format": "carousel",
+    "status": "pending",
+    "created": "2026-11-25T08:15:09Z",
+    "published": null,
+    "media_id": null,
+    "reel_media_id": null,
+    "sources": [
+      "https://www.thehansindia.com/sports/1220-players-named-in-ipl-2027-auction-register-includes-939-indians-281-overseas-players-1145696",
+      "https://sports.yahoo.com/cricket/articles/ipl-2027-auction-list-overseas-042053203.html"
+    ]
   }
 ]

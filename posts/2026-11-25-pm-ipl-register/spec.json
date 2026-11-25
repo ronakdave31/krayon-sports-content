@@ -1,0 +1,100 @@
+{
+  "slug": "2026-11-25-pm-ipl-register",
+  "tag": "IPL BUSINESS",
+  "sport": "business",
+  "series": "60 / THE BREAKDOWN",
+  "slides": [
+    {
+      "type": "hero",
+      "kicker": "IPL 2027 AUCTION · GOA · DEC 16",
+      "grey": "1,220 players signed up.",
+      "white": "Only 66 will get a contract.",
+      "sub": "The auction register is out. About 1 in 18 names will be bought.",
+      "facts": [
+        [
+          "1,220",
+          "players registered"
+        ],
+        [
+          "66",
+          "squad spots open"
+        ]
+      ]
+    },
+    {
+      "type": "bars",
+      "kicker": "WHO IS IN THE QUEUE",
+      "title": "The 1,220, by group",
+      "rows": [
+        [
+          "Indians",
+          "uncapped, no IPL games",
+          798,
+          "798"
+        ],
+        [
+          "Overseas",
+          "capped internationals",
+          170,
+          "170"
+        ],
+        [
+          "Indians",
+          "uncapped, played IPL",
+          127,
+          "127"
+        ],
+        [
+          "Overseas",
+          "uncapped",
+          69,
+          "69"
+        ],
+        [
+          "Associate",
+          "USA, UAE, Nepal",
+          42,
+          "42"
+        ],
+        [
+          "Indians",
+          "capped by India",
+          14,
+          "14"
+        ]
+      ],
+      "highlight_first": true,
+      "note": "939 Indians and 281 overseas players in total"
+    },
+    {
+      "type": "stat",
+      "kicker": "THE OVERSEAS SQUEEZE",
+      "big": "281",
+      "body": "Overseas players registered for just 25 overseas spots. About 11 names for every place.",
+      "note": "Ben Stokes and David Warner are in the top Rs 2 crore base-price bracket."
+    },
+    {
+      "type": "text",
+      "kicker": "WHAT HAPPENS NEXT",
+      "title": "The list shrinks before Goa",
+      "bullets": [
+        "Dec 1: teams send their shortlists (reported)",
+        "Dec 4: final auction list and player sets",
+        "Dec 16: auction in Goa",
+        "Rs 295.60 cr left across 10 teams"
+      ],
+      "question": "Which uncapped Indian becomes the story of this auction?"
+    }
+  ],
+  "thumb": {
+    "title": "1,220 players. Only 66 IPL contracts.",
+    "sub": "About 1 in 18 names will be bought",
+    "ghost": "66"
+  },
+  "concept": "A numbers-game post: the whole story is a ratio, so the design is built around the gap between two numbers. The hero sets '1,220 players signed up.' in muted grey against 'Only 66 will get a contract.' in white, with both figures repeated as hard facts underneath. Slide 2 breaks the 1,220 into six bars, and the one lit bar is the 798 uncapped Indians who have never played an IPL game, dwarfing the 14 capped India players: the auction is mostly a lottery of unknowns. Slide 3 is one giant '281', the overseas queue chasing just 25 spots. The last slide is the road to Goa as a dated checklist and asks which uncapped Indian becomes the story. Business gold, type and charts only: no player photos, no team logos.",
+  "caption": "1,220 players want an IPL contract. Only 66 will get one.\n\nThe register for the IPL 2027 auction is out: 939 Indians and 281 overseas players. Teams have 66 squad spots to fill when they bid in Goa on December 16. That is about 1 in 18.\n\nThe biggest group by far is 798 uncapped Indians who have never played an IPL game. Only 14 capped India players are on the list.\n\nOverseas it is tighter still. 281 names are chasing 25 overseas spots, about 11 for every place. Ben Stokes and David Warner are in the top Rs 2 crore base-price bracket.\n\nThe final auction list and player sets come out on December 4. The ten teams have Rs 295.60 crore left between them.\n\nWhich uncapped Indian becomes the story of this auction? Tell us below.\n\nRegister figures via IANS (The Hans India) and The Cricket News (Yahoo Sports).\n\n#KrayonSports #IPL2027 #IPLAuction #IPL #CricketBusiness",
+  "sources": [
+    "https://www.thehansindia.com/sports/1220-players-named-in-ipl-2027-auction-register-includes-939-indians-281-overseas-players-1145696",
+    "https://sports.yahoo.com/cricket/articles/ipl-2027-auction-list-overseas-042053203.html"
+  ]
+}
