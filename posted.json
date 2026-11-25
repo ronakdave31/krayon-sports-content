@@ -1125,11 +1125,11 @@
     "sport": "business",
     "headline": "1,220 players signed up. Only 66 will get a contract.",
     "format": "carousel",
-    "status": "pending",
+    "status": "published",
     "created": "2026-11-25T08:15:09Z",
-    "published": null,
-    "media_id": null,
-    "reel_media_id": null,
+    "published": "2026-11-25T11:20:08Z",
+    "media_id": "17900505588682276",
+    "reel_media_id": "17998400700103023",
     "sources": [
       "https://www.thehansindia.com/sports/1220-players-named-in-ipl-2027-auction-register-includes-939-indians-281-overseas-players-1145696",
       "https://sports.yahoo.com/cricket/articles/ipl-2027-auction-list-overseas-042053203.html"
