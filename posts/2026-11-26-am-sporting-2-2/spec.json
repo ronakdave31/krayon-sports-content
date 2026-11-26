@@ -1,0 +1,77 @@
+{
+ "slug": "2026-11-26-am-sporting-2-2",
+ "tag": "FOOTBALL",
+ "sport": "football",
+ "series": "64 / THE BREAKDOWN",
+ "thumb": {
+  "title": "3 penalties, 2 goals ruled out, no win",
+  "sub": "Sporting 2-2 Manchester United",
+  "ghost": "2-2"
+ },
+ "slides": [
+  {
+   "type": "hero",
+   "kicker": "CHAMPIONS LEAGUE · LISBON · WEDNESDAY",
+   "grey": "Three penalties. Two goals ruled out.",
+   "white": "Still no first win for Pochettino.",
+   "sub": "Sporting 2-2 Man United. Suárez scored twice. So did Bruno Fernandes.",
+   "facts": [
+    [
+     "2-2",
+     "Sporting v Man United"
+    ],
+    [
+     "0",
+     "wins in his 2 games"
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "kicker": "WHY: THE KEEPER'S NIGHT",
+   "title": "Lammens: one save, two mistakes",
+   "bullets": [
+    "29': saves Suárez's first penalty",
+    "33': rushes out and fouls Araújo. Suárez scores the second penalty",
+    "80': misses a cross. Suárez equalises into an empty net"
+   ]
+  },
+  {
+   "type": "text",
+   "kicker": "WHY: THE CALLS",
+   "title": "Two United goals ruled out",
+   "bullets": [
+    "Before half-time: Amad scores a rebound, but a foul is given against Tielemans",
+    "82': Kaique turns a corner into his own net. VAR rules it out for Dorgu's foul on the keeper",
+    "93': Tielemans sent off for a second yellow"
+   ]
+  },
+  {
+   "type": "stat",
+   "kicker": "THE PATTERN",
+   "big": "7",
+   "body": "straight games conceding two or more goals. United's first run like it since 1977.",
+   "note": "Stat via Opta Analyst."
+  },
+  {
+   "type": "text",
+   "kicker": "WHAT'S NEXT",
+   "title": "United sit 19th on 7 points",
+   "bullets": [
+    "Sporting move up to 9th on 10 points",
+    "Brentford in the Premier League on Saturday",
+    "RB Leipzig in the Champions League on December 8"
+   ],
+   "question": "Keeper problem or defence problem?"
+  }
+ ],
+ "concept": "A chaotic 2-2 needs sorting, so the carousel splits the night into two suspects. The hero stacks the chaos in grey (three penalties, two goals ruled out) and lands the result in white: still no first win. Slide 2 is the keeper's charge sheet, read like a match log with minute stamps (one save, two costly mistakes). Slide 3 is the officials' log: the two United goals that didn't count and the late red. Slide 4 zooms out to one giant number, 7 straight games conceding two or more, to show this isn't one bad night. The last slide turns to the table and hands fans the debate: keeper or defence. Football green, type and pitch graphics only: no player photos, no club crests.",
+ "caption": "Three penalties. Two goals ruled out. Still no first win for Pochettino.\n\nSporting 2-2 Manchester United in Lisbon. Senne Lammens saved Luis Suárez's first penalty, then gave away a second one moments later. Bruno Fernandes turned it round with two goals in two minutes after half-time (one a penalty). Then Lammens missed an 80th-minute cross and Suárez equalised into an empty net.\n\nUnited thought they had won it on 82 minutes when Kaique turned a corner into his own net, but VAR ruled it out for Patrick Dorgu's foul on the keeper. Amad also had a goal chalked off before half-time. Youri Tielemans was sent off in stoppage time.\n\nOpta Analyst says United have now conceded two or more in seven straight games, their first run like that since 1977. They sit 19th in the league phase on 7 points. Brentford are next on Saturday.\n\nKeeper problem or defence problem? Tell us below.\n\nMatch details via ESPN, Opta Analyst, 101 Great Goals and Goal.\n\n#KrayonSports #UCL #ManUtd #SportingCP #Pochettino",
+ "sources": [
+  "https://theanalyst.com/articles/sporting-cp-vs-man-utd-stats-champions-league-11-2026",
+  "https://www.espn.com/soccer/report/_/gameId/401915373",
+  "https://www.espn.com/soccer/story/_/id/50595170/sporting-cp-man-united-live-champions-league-updates",
+  "https://101greatgoals.com/football/champions-league/sporting-united-report",
+  "https://www.livescore.com/en/news/football/serie-a/another-setback-for-pochettino-manchester-united-held-by-sporting-cp-as-inter-beat-stuttgart-goal/"
+ ]
+}
