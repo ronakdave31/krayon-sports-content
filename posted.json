@@ -1195,16 +1195,17 @@
   "sport": "football",
   "headline": "Three penalties. Two goals ruled out. Still no first win for Pochettino.",
   "format": "carousel",
-  "status": "pending",
+  "status": "published",
   "created": "2026-11-26T04:14:29Z",
-  "published": null,
-  "media_id": null,
+  "published": "2026-11-26T04:48:54Z",
+  "media_id": "17942879022391626",
   "sources": [
    "https://theanalyst.com/articles/sporting-cp-vs-man-utd-stats-champions-league-11-2026",
    "https://www.espn.com/soccer/report/_/gameId/401915373",
    "https://www.espn.com/soccer/story/_/id/50595170/sporting-cp-man-united-live-champions-league-updates",
    "https://101greatgoals.com/football/champions-league/sporting-united-report",
    "https://www.livescore.com/en/news/football/serie-a/another-setback-for-pochettino-manchester-united-held-by-sporting-cp-as-inter-beat-stuttgart-goal/"
-  ]
+  ],
+  "reel_media_id": "17955029190068432"
  }
 ]
