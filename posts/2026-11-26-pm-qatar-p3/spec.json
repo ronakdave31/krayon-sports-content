@@ -1,0 +1,35 @@
+{
+ "slug": "2026-11-26-pm-qatar-p3",
+ "tag": "F1",
+ "sport": "f1",
+ "series": "66 / THE GRID",
+ "thumb": {"title": "3 drivers, 3 points, one P3", "sub": "Hamilton v Russell v Norris before Qatar", "ghost": "P3"},
+ "slides": [
+  {"type": "hero", "kicker": "QATAR GP · THIS WEEKEND",
+   "grey": "Antonelli is already champion.",
+   "white": "Third place is a three-way fight.",
+   "sub": "Hamilton, Russell and Norris: 3 points apart, two races left.",
+   "facts": [["3", "points from P3 to P5"], ["50", "points left in 2026"]]},
+  {"type": "bars", "kicker": "THE FIGHT FOR P3", "title": "Drivers' standings",
+   "rows": [["Hamilton", "Ferrari", 267, "267"], ["Russell", "Mercedes", 264, "264"], ["Norris", "McLaren", 264, "264"], ["Leclerc", "Ferrari", 250, "250"]],
+   "highlight_first": true, "note": "Points after the Las Vegas GP"},
+  {"type": "stat", "kicker": "WHY P2 ISN'T LOCKED YET", "big": "37",
+   "body": "points: Verstappen's lead over Hamilton. With 50 still on offer, second place is not safe yet.",
+   "note": "Leave Qatar more than 25 clear of all three and it is."},
+  {"type": "bars", "kicker": "THE TEAM FIGHT", "title": "Third in the constructors'",
+   "rows": [["Red Bull", "Third now", 440, "440"], ["McLaren", "Fourth now", 431, "431"]],
+   "highlight_first": true, "note": "Nine points. One Sunday can flip it."},
+  {"type": "text", "kicker": "WHAT'S NEXT", "title": "Qatar, then Abu Dhabi",
+   "bullets": ["Qualifying: Saturday, 11:30 pm IST", "Race: Sunday, 9:30 pm IST, 57 laps of Lusail", "No sprint this time: 25 points to the winner", "Abu Dhabi closes the season next weekend"],
+   "question": "Who finishes third: Hamilton, Russell or Norris?"}
+ ],
+ "concept": "The title is settled, so the design treats the grid like a photo finish further down the order. The hero puts the done deal in grey (Antonelli is already champion) and the live story in white: third place. Slide 2 is a tight bar chart where three bars are almost the same length, so the closeness reads before any number does. Slide 3 is one big 37 to show why even Verstappen's P2 is not locked yet. Slide 4 mirrors the drivers' fight with the teams: Red Bull and McLaren nine points apart. The last slide is a timetable in IST so Indian fans know when to watch, then hands them the vote. F1 red, type and bars only: no driver photos, no team logos.",
+ "caption": "The title is done. Third place is wide open.\n\nKimi Antonelli is already the 2026 champion. But going into the Qatar GP, Lewis Hamilton (267), George Russell (264) and Lando Norris (264) are split by just 3 points in the fight for P3.\n\nMax Verstappen sits second on 304. He is 37 clear of Hamilton with 50 points left, so even his P2 is not locked yet.\n\nThe teams have their own race: Red Bull lead McLaren by 9 points for third in the constructors'.\n\nQatar is a normal weekend this time (no sprint). Qualifying is Saturday at 11:30 pm IST and the race is Sunday at 9:30 pm IST. Abu Dhabi closes the season a week later.\n\nWho finishes third: Hamilton, Russell or Norris? Tell us below.\n\nStandings via RacingNews365 and Grande Premio. Schedule via Formula1.com.\n\n#KrayonSports #F1 #QatarGP #Hamilton #Norris #Russell",
+ "sources": [
+  "https://racingnews365.com/2026-f1-championship-standings-after-las-vegas-grand-prix",
+  "https://grandepremio.com/en/f1/f1-2026-standings-after-las-vegas-verstappen-wins-as-hamilton-overtakes-russell-for-third/",
+  "https://www.gpblog.com/en/news/verstappen-can-deny-mercedes-and-russell-their-only-remaining-goal-for-2026",
+  "https://www.formula1.com/en/latest/article/formula-1-qatar-airways-qatar-grand-prix-2026.3XJyoYSnpJEcuZovstTdcG",
+  "https://www.mclaren.com/racing/formula-1/2026/qatar-grand-prix/"
+ ]
+}
