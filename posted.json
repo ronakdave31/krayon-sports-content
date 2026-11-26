@@ -1217,7 +1217,7 @@
   "status": "published",
   "created": "2026-11-26T08:13:37+00:00",
   "published": "2026-11-26T08:39:58+00:00",
-  "media_id": null,
+  "media_id": "18102713048548636",
   "reel_media_id": "18010799703006797",
   "sources": [
    "https://www.tribuneindia.com/news/sports/badminton-new-delhi-to-host-thomas-uber-cup-finals-2028",
@@ -1234,11 +1234,11 @@
   "sport": "f1",
   "headline": "Antonelli is already champion. Third place is a three-way fight.",
   "format": "carousel",
-  "status": "pending",
+  "status": "published",
   "created": "2026-11-26T12:14:50Z",
-  "published": null,
-  "media_id": null,
-  "reel_media_id": null,
+  "published": "2026-11-26T15:03:24Z",
+  "media_id": "18651637282062578",
+  "reel_media_id": "18180713032445799",
   "sources": [
    "https://racingnews365.com/2026-f1-championship-standings-after-las-vegas-grand-prix",
    "https://grandepremio.com/en/f1/f1-2026-standings-after-las-vegas-verstappen-wins-as-hamilton-overtakes-russell-for-third/",
@@ -1246,6 +1246,7 @@
    "https://www.formula1.com/en/latest/article/formula-1-qatar-airways-qatar-grand-prix-2026.3XJyoYSnpJEcuZovstTdcG",
    "https://www.mclaren.com/racing/formula-1/2026/qatar-grand-prix/"
   ],
-  "commit": "6d5469a0ec8cf8f59f2656a4ad9ab29d0191067d"
+  "commit": "6d5469a0ec8cf8f59f2656a4ad9ab29d0191067d",
+  "reel_published": "2026-11-26T15:04:26Z"
  }
 ]
