@@ -5,21 +5,12 @@
   "series": "63 / THE BREAKDOWN",
   "slides": [
     {
-      "type": "hero",
+      "type": "photo",
       "kicker": "MUMBAI INDIANS · IPL 2027",
-      "grey": "No caption. Just a hand holding the cap.",
       "white": "MI still have no captain.",
-      "sub": "One cryptic picture from Mumbai Indians on Wednesday and fans had one name ready.",
-      "facts": [
-        [
-          "5",
-          "IPL titles under Rohit"
-        ],
-        [
-          "11",
-          "seasons as MI captain"
-        ]
-      ]
+      "sub": "MI posted this on X on Wednesday, with no caption.",
+      "image": "photo-mi.jpg",
+      "credit": "Image: Mumbai Indians via X"
     },
     {
       "type": "text",
@@ -58,7 +49,7 @@
     "sub": "MI have no captain for 2027",
     "ghost": "5"
   },
-  "concept": "MI's own post is a picture with no words, so ours is all words and no picture: we never reuse their image (it carries the MI crest) and instead describe it. The hero puts the tease in muted grey ('No caption. Just a hand holding the cap.') against the real news in white ('MI still have no captain.'), with Rohit's 5 titles and 11 seasons as the two facts underneath. Slide 2 explains why the armband is empty (Hardik traded to Punjab Kings). Slide 3 is one giant '5', the reason every fan read the post the same way. The last slide lists the reported options and hands the vote to the comments, with a clear line that nothing is confirmed. Cricket blue, type only: no photos, no crest.",
+  "concept": "The cover now leads with MI's own teaser: the bronze hand and cap cut out of its white background and set on the Krayon dark canvas with a warm glow, so it reads as our post, not a repost. The answer line sits under it in white ('MI still have no captain.'), with a credit to Mumbai Indians on X. Slide 2 explains why the armband is empty (Hardik traded to Punjab Kings). Slide 3 is one giant '5', the reason every fan read the post the same way. The last slide lists the reported options and hands the vote to the comments, with a clear line that nothing is confirmed. Cricket blue. The reel stays type-only.",
   "caption": "No caption. Just a hand holding the MI cap.\n\nThat is all Mumbai Indians posted on X on Wednesday. Fans had a name ready within minutes: Rohit Sharma.\n\nWhy the guessing? MI have no captain for IPL 2027. Hardik Pandya, who led them from 2024, has been traded to Punjab Kings with Arshdeep Singh moving to Mumbai.\n\nRohit led MI for 11 seasons and won five titles: 2013, 2015, 2017, 2019 and 2020. Suryakumar Yadav, Jasprit Bumrah and Tilak Varma have also been named in reports as options.\n\nMI have not confirmed anything yet. So we are asking you.\n\nWho should captain Mumbai Indians in 2027? Tell us below.\n\nReported by Gulf News, Outlook India and Inshorts.\n\n#KrayonSports #MumbaiIndians #IPL2027 #RohitSharma #IPL",
   "sources": [
     "https://gulfnews.com/sport/cricket/ipl/rohit-sharma-back-as-mumbai-indians-captain-cryptic-post-sparks-ipl-2027-buzz-1.500760939",
