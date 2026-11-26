@@ -1,0 +1,64 @@
+{
+ "slug": "2026-11-26-pm-thomas-cup-delhi",
+ "tag": "BADMINTON",
+ "sport": "indian",
+ "series": "65 / THE BREAKDOWN",
+ "thumb": {
+  "title": "The Thomas Cup is coming to Delhi. With new rules.",
+  "sub": "2028 Finals: 24 teams, best-of-three ties",
+  "ghost": "24"
+ },
+ "slides": [
+  {
+   "type": "hero",
+   "kicker": "THOMAS & UBER CUP FINALS 2028",
+   "grey": "The Thomas Cup is coming back to New Delhi.",
+   "white": "It won't look like the one India won.",
+   "sub": "BWF named the 2028 host on Wednesday. New format too.",
+   "facts": [
+    ["24", "teams, up from 16"],
+    ["Best of 3", "ties, down from best of 5"]
+   ]
+  },
+  {
+   "type": "stat",
+   "kicker": "BIGGER FIELD",
+   "big": "24",
+   "body": "teams in 2028, up from 16. Four groups of six. Each team plays four ties and the top 12 reach the knockouts.",
+   "note": "Via The Tribune, Zee News and The Open Press."
+  },
+  {
+   "type": "text",
+   "kicker": "THE NEW SCORING",
+   "title": "Every match now earns points",
+   "bullets": [
+    "Ties are best of three, not best of five",
+    "1 point for each match won",
+    "2 bonus points for winning the tie",
+    "Win 3-0: 5 points. Win 2-1: 4. Lose 1-2: 1."
+   ],
+   "footnote": "Via The Tribune and Zee News."
+  },
+  {
+   "type": "text",
+   "kicker": "INDIA'S ROAD TO 2028",
+   "title": "From Bangkok to a home crowd",
+   "bullets": [
+    "2014: last time the Finals came to New Delhi",
+    "2022: India's first Thomas Cup title, in Bangkok",
+    "2026: bronze in Horsens, Denmark",
+    "2028: 24 teams, one home crowd"
+   ],
+   "question": "Does best of three help India or hurt them?"
+  }
+ ],
+ "concept": "The story is a homecoming with a twist. The hero puts the familiar part in grey (the Thomas Cup is coming back to New Delhi) and the twist in white (it won't look like the one India won), with the two numbers that define the new event underneath: 24 teams and best-of-three ties. Slide 2 blows up 24, the size of the new field. Slide 3 lays out the new points system as a simple scorecard so fans can do the maths themselves. The last slide is a four-stop timeline from Delhi 2014 to Bangkok 2022 to Horsens 2026 to Delhi 2028, then hands fans the debate. Indian orange, type and shapes only: no player photos, no BWF or event logos.",
+ "caption": "The Thomas Cup is coming back to New Delhi. It won't look like the one India won.\n\nBWF confirmed on Wednesday that New Delhi will host the 2028 Thomas & Uber Cup Finals, the first time in India since 2014. The format changes too: 24 teams instead of 16, four groups of six and best-of-three ties instead of best of five.\n\nEvery match now earns a point, with 2 bonus points for winning the tie. India won their first Thomas Cup in 2022 and took bronze in 2026. Next time, the crowd is theirs.\n\nDoes best of three help India or hurt them? Tell us below.\n\nVia The Tribune (ANI), Zee News and The Open Press.\n\n#KrayonSports #Badminton #ThomasCup #UberCup #IndianBadminton",
+ "sources": [
+  "https://www.tribuneindia.com/news/sports/badminton-new-delhi-to-host-thomas-uber-cup-finals-2028",
+  "https://english.zeenews.com/sports/article-india-to-host-2028-thomas-uber-cup-finals-as-bwf-unveils-host-cities-and-major-format-changes-through-2030-3163071",
+  "https://theopenpress.in/article/thomas-uber-cup-2028-delhi-host-bwf-24-teams",
+  "https://www.mykhel.com/news/sports-bulletin-nov-26-indian-stars-shine-in-icc-test-rankings-india-to-host-2028-thomas-uber-cup-460111.html",
+  "https://en.wikipedia.org/wiki/2014_Thomas_%26_Uber_Cup"
+ ]
+}
