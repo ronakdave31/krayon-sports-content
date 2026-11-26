@@ -1214,17 +1214,18 @@
   "sport": "indian",
   "headline": "The Thomas Cup is coming back to New Delhi. It won't look like the one India won.",
   "format": "carousel",
-  "status": "pending",
+  "status": "published",
   "created": "2026-11-26T08:13:37+00:00",
-  "published": null,
+  "published": "2026-11-26T08:39:58+00:00",
   "media_id": null,
-  "reel_media_id": null,
+  "reel_media_id": "18010799703006797",
   "sources": [
    "https://www.tribuneindia.com/news/sports/badminton-new-delhi-to-host-thomas-uber-cup-finals-2028",
    "https://english.zeenews.com/sports/article-india-to-host-2028-thomas-uber-cup-finals-as-bwf-unveils-host-cities-and-major-format-changes-through-2030-3163071",
    "https://theopenpress.in/article/thomas-uber-cup-2028-delhi-host-bwf-24-teams",
    "https://www.mykhel.com/news/sports-bulletin-nov-26-indian-stars-shine-in-icc-test-rankings-india-to-host-2028-thomas-uber-cup-460111.html",
    "https://en.wikipedia.org/wiki/2014_Thomas_%26_Uber_Cup"
-  ]
+  ],
+  "note": "Reel published. Carousel call returned \"Application request limit reached\"; Windsor data was cached so it could not be confirmed whether the carousel went through. Not retried; asked Ronak to check."
  }
 ]
