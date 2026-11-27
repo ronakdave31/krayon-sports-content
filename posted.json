@@ -1301,5 +1301,23 @@
       "https://www.thesports247.com/world-chess-championship-gukesh-holds-sindarov-to-draw-with-berlin-defence-in-game-3/",
       "https://www.espn.com/chess/story/_/id/50603195/gukesh-sindarov-live-fide-world-chess-championship-2026-game-3-latest-updates"
     ]
+  },
+  {
+    "slug": "2026-11-27-pm-136-for-1",
+    "series": 70,
+    "sport": "cricket",
+    "headline": "From 110 for 4 to 246 for 5 at stumps.",
+    "format": "carousel",
+    "status": "pending",
+    "created": "2026-11-27T12:16:44+00:00",
+    "published": null,
+    "media_id": null,
+    "reel_media_id": null,
+    "sources": [
+      "https://openthemagazine.com/sports/ind-vs-nz-2nd-test-three-wickets-fall-at-110-before-blundell-and-phillips-lift-new-zealand-to-2465",
+      "https://english.dainikjagranmpcg.com/sports/ind-vs-nz-2nd-test-new-zealand-2465-siraj-left/article-47034",
+      "https://telanganatoday.com/tom-blundells-unbeaten-fifty-helps-new-zealand-recover-to-246-5-against-india",
+      "https://ddnews.gov.in/en/nz-vs-ind-2nd-test-akash-deeps-two-wicket-spell-brings-india-back-into-game/"
+    ]
   }
 ]

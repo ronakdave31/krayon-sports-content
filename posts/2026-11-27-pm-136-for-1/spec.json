@@ -1,0 +1,102 @@
+{
+  "slug": "2026-11-27-pm-136-for-1",
+  "tag": "CRICKET",
+  "sport": "cricket",
+  "series": "70 / THE BREAKDOWN",
+  "slides": [
+    {
+      "type": "hero",
+      "kicker": "NZ v INDIA · 2ND TEST · DAY 1 STUMPS",
+      "grey": "From 110 for 4...",
+      "white": "...to 246 for 5 at stumps.",
+      "sub": "After the collapse, New Zealand added 136 runs for one wicket.",
+      "facts": [
+        [
+          "136",
+          "runs for 1 wicket after 110/4"
+        ],
+        [
+          "62*",
+          "unbroken 6th-wicket stand"
+        ]
+      ]
+    },
+    {
+      "type": "bars",
+      "kicker": "WHERE THE RUNS CAME FROM",
+      "title": "New Zealand's partnerships on day 1",
+      "rows": [
+        [
+          "1st wkt",
+          "Latham & Conway",
+          77,
+          "77"
+        ],
+        [
+          "5th wkt",
+          "Mitchell & Blundell",
+          74,
+          "74"
+        ],
+        [
+          "6th wkt",
+          "Blundell & Phillips",
+          62,
+          "62*"
+        ],
+        [
+          "2nd wkt",
+          "Latham & Nicholls",
+          33,
+          "33"
+        ],
+        [
+          "3rd + 4th",
+          "Two wickets, no runs",
+          0.5,
+          "0"
+        ]
+      ],
+      "highlight_first": false,
+      "note": "Blundell was there for both rebuilding stands."
+    },
+    {
+      "type": "stat",
+      "kicker": "THE LAST SESSION",
+      "big": "115",
+      "body": "Runs New Zealand scored between tea and stumps, for the loss of just Daryl Mitchell.",
+      "note": "Tea 131/4. Stumps 246/5."
+    },
+    {
+      "type": "stat",
+      "kicker": "THE MISSING WICKETS",
+      "big": "0/37",
+      "body": "Jasprit Bumrah's figures from 19 overs. Tight, but no breakthrough.",
+      "note": "Akash Deep 2/52 · debutant Brar 1/52"
+    },
+    {
+      "type": "text",
+      "kicker": "WHERE IT STANDS",
+      "title": "Day 2 decides who owns this Test",
+      "bullets": [
+        "Blundell 53* and Phillips 36* resume at 246/5",
+        "Sundar broke the Mitchell stand with Jurel's catch",
+        "Wellington was a draw, so this Test decides the series"
+      ],
+      "question": "300 or 350: what's a safe total for NZ?"
+    }
+  ],
+  "thumb": {
+    "title": "110 for 4. Then 246 for 5.",
+    "sub": "How New Zealand fought back on day 1",
+    "ghost": "136 FOR 1"
+  },
+  "concept": "A comeback told as two scorelines. India's best moment of the day (110 for 4) sits in muted grey and the stumps score (246 for 5) lands in white beneath it, so the swing reads before a single word does. Slide 2 is a partnership bar chart: three long bars for the stands that built the innings and a sliver of a bar for the 3rd and 4th wickets that added nothing, which is exactly where India's spell lived. Slides 3 and 4 are single giant numbers (115 runs in the last session, Bumrah's wicketless 0/37) that explain why the advantage slipped, and slide 5 sets up day 2. Cricket blue, type and charts only: no player photos, no logos.",
+  "caption": "From 110 for 4 to 246 for 5.\n\nIndia had New Zealand in trouble on day 1 in Christchurch. Akash Deep and Kamboj took three wickets without a run being added.\n\nThen Tom Blundell dug in. He put on 74 with Daryl Mitchell and an unbeaten 62 with Glenn Phillips. New Zealand scored 115 in the last session and lost only Mitchell, caught by Jurel off Washington Sundar.\n\nJasprit Bumrah bowled 19 overs for 37 runs but went wicketless. Debutant Gurnoor Brar took 1 for 52.\n\nWellington was a draw, so this Test decides the series. Blundell (53*) and Phillips (36*) resume on day 2.\n\n300 or 350: what's a safe first-innings total for New Zealand? Tell us below.\n\nFigures via IANS, Open and Dainik Jagran.\n\n#KrayonSports #NZvIND #TestCricket #TeamIndia #Christchurch",
+  "sources": [
+    "https://openthemagazine.com/sports/ind-vs-nz-2nd-test-three-wickets-fall-at-110-before-blundell-and-phillips-lift-new-zealand-to-2465",
+    "https://english.dainikjagranmpcg.com/sports/ind-vs-nz-2nd-test-new-zealand-2465-siraj-left/article-47034",
+    "https://telanganatoday.com/tom-blundells-unbeaten-fifty-helps-new-zealand-recover-to-246-5-against-india",
+    "https://ddnews.gov.in/en/nz-vs-ind-2nd-test-akash-deeps-two-wicket-spell-brings-india-back-into-game/"
+  ]
+}
