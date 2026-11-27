@@ -1,0 +1,95 @@
+{
+ "slug": "2026-11-27-pm-three-draws",
+ "tag": "CHESS",
+ "sport": "indian",
+ "series": "69 / THE BREAKDOWN",
+ "thumb": {
+  "title": "Three games. Three draws.",
+  "sub": "Gukesh v Sindarov · 1.5-1.5 in Geneva",
+  "ghost": "1.5"
+ },
+ "slides": [
+  {
+   "type": "hero",
+   "kicker": "WORLD CHESS CHAMPIONSHIP · GAME 3",
+   "grey": "3 games. 3 draws.",
+   "white": "Nobody has blinked.",
+   "sub": "Gukesh held Sindarov to a 60-move draw with Black in Geneva.",
+   "facts": [
+    [
+     "1.5-1.5",
+     "Score after Game 3"
+    ],
+    [
+     "11",
+     "Games still to play"
+    ]
+   ]
+  },
+  {
+   "type": "bars",
+   "kicker": "THE LAST TWO GAMES",
+   "title": "Game 2 was quick. Game 3 was a fight.",
+   "rows": [
+    [
+     "Game 3",
+     "Berlin Defence",
+     60,
+     "60 moves"
+    ],
+    [
+     "Game 2",
+     "Repetition",
+     20,
+     "20 moves"
+    ]
+   ],
+   "highlight_first": true,
+   "note": "Moves played · Game 1 also drawn",
+   "sub": "Same result. Very different games."
+  },
+  {
+   "type": "text",
+   "kicker": "WHY: THE BERLIN",
+   "title": "Gukesh was ready with Black",
+   "bullets": [
+    "He answered Sindarov with the Berlin Defence",
+    "Sindarov burned a lot of clock in the opening",
+    "Engines gave White an edge at times. Gukesh kept finding the moves",
+    "He was ahead on the clock in the endgame"
+   ]
+  },
+  {
+   "type": "stat",
+   "kicker": "WHY IT WENT TO 60 MOVES",
+   "big": "40",
+   "body": "moves before players may agree a draw. Only threefold repetition or stalemate can end a game sooner.",
+   "note": "Match rules via PTI."
+  },
+  {
+   "type": "stat",
+   "kicker": "WHAT IS LEFT",
+   "big": "7.5",
+   "body": "points wins the title. 11 of the 14 games remain. At 7-7 it goes to shorter-format tiebreaks.",
+   "note": "Via PTI and The Sports 247."
+  },
+  {
+   "type": "text",
+   "kicker": "NEXT: GAME 4",
+   "title": "Gukesh has White next",
+   "bullets": [
+    "Friday is the first rest day",
+    "Every game won is worth $200,000",
+    "Someone has to break the deadlock"
+   ],
+   "question": "Who wins the first game: Gukesh or Sindarov?"
+  }
+ ],
+ "concept": "The story is a stalemate of nerves: three games, three draws. The hero runs the Krayon grey-to-white flip (Three games. Three draws. / Nobody has blinked yet.) with the scoreline 1.5-1.5 and the 11 games left as the facts. Slide 2 turns the last two games into move-count bars so the 20-move Game 2 sits as a stub against the 60-move Game 3, which shows at a glance that this draw was a fight. Then the why (Gukesh's Berlin with Black), the rule that forced them past move 40, the 7.5-point finish line and a closer that looks ahead to Gukesh's White in Game 4. Indian orange, type and shapes only: no player photos, no FIDE or event logos.",
+ "caption": "Three games. Three draws. Nobody has blinked in Geneva.\n\nGukesh held Javokhir Sindarov to a 60-move draw with Black in Game 3 of the World Chess Championship. The score is 1.5-1.5.\n\nGukesh went for the Berlin Defence and was ready for it. Sindarov burned a lot of his clock in the opening. Engines gave White an edge at times but Gukesh kept finding the moves and was ahead on the clock in the rook and opposite-coloured bishops endgame.\n\nWhy so long? Players can't agree a draw before move 40. Game 2 ended in 20 moves only through threefold repetition.\n\n11 games left. First to 7.5 points is champion. Friday is the first rest day and Gukesh has White in Game 4.\n\nWho wins the first game: Gukesh or Sindarov? Tell us below.\n\nMatch details via PTI (Outlook India), The Sports 247 and ESPN.\n\n#KrayonSports #Gukesh #WorldChessChampionship #Chess #Sindarov",
+ "sources": [
+  "https://www.outlookindia.com/sports/others/fide-world-chess-championship-2026-game-3-results-d-gukesh-vs-javokhir-sindarov-day-3-score",
+  "https://www.thesports247.com/world-chess-championship-gukesh-holds-sindarov-to-draw-with-berlin-defence-in-game-3/",
+  "https://www.espn.com/chess/story/_/id/50603195/gukesh-sindarov-live-fide-world-chess-championship-2026-game-3-latest-updates"
+ ]
+}

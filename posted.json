@@ -1272,7 +1272,7 @@
     "sport": "cricket",
     "headline": "110 for 1. Cruising. Then 110 for 4.",
     "format": "carousel",
-    "status": "pending",
+    "status": "expired",
     "created": "2026-11-27T09:45:12+05:30",
     "published": null,
     "media_id": null,
@@ -1283,6 +1283,23 @@
       "https://crictoday.com/news/akash-deep-anshul-kamboj-bring-india-back-into-contest-with-three-quick-wickets-in-christchurch-test-12844589",
       "https://newsable.asianetnews.com/sports/kamboj-leads-india-comeback-against-new-zealand-in-christchurch-test-articleshow-i5nmw6k",
       "https://www.outlookindia.com/sports/cricket/india-vs-new-zealand-2nd-test-day-1-live-score-ind-vs-nz-scorecard-latest-updates-highlights"
+    ]
+  },
+  {
+    "slug": "2026-11-27-pm-three-draws",
+    "series": 69,
+    "sport": "indian",
+    "headline": "3 games. 3 draws. Nobody has blinked.",
+    "format": "carousel",
+    "status": "pending",
+    "created": "2026-11-27T13:55:00+05:30",
+    "published": null,
+    "media_id": null,
+    "reel_media_id": null,
+    "sources": [
+      "https://www.outlookindia.com/sports/others/fide-world-chess-championship-2026-game-3-results-d-gukesh-vs-javokhir-sindarov-day-3-score",
+      "https://www.thesports247.com/world-chess-championship-gukesh-holds-sindarov-to-draw-with-berlin-defence-in-game-3/",
+      "https://www.espn.com/chess/story/_/id/50603195/gukesh-sindarov-live-fide-world-chess-championship-2026-game-3-latest-updates"
     ]
   }
 ]
