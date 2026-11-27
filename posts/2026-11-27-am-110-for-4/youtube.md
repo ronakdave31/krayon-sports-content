@@ -3,7 +3,7 @@
 **Description:**
 New Zealand were 110 for 1 on day 1 of the second Test against India at Hagley Oval in Christchurch. Then they lost Tom Latham, Henry Nicholls and Rachin Ravindra without adding a run.
 
-Shubman Gill won the toss and chose to bowl on a green pitch. Debutant Gurnoor Brar had Devon Conway lbw with the last ball before lunch. Akash Deep then took two wickets in one spell, both caught by Rishabh Pant, and Anshul Kamboj removed Nicholls.
+Shubman Gill won the toss and chose to bowl on a green pitch. Debutant Gurnoor Brar had Devon Conway lbw with the last ball before lunch. Akash Deep then took two wickets in one spell, both caught by Rishabh Pant. Anshul Kamboj removed Nicholls.
 
 The first Test in Wellington was a draw, so this match decides the series.
 
