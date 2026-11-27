@@ -1327,17 +1327,18 @@
   "sport": "football",
   "headline": "First season in Europe. Five games. Five wins.",
   "format": "carousel",
-  "status": "pending",
+  "status": "published",
   "created": "2026-11-27T17:16:13+00:00",
-  "published": null,
-  "media_id": null,
-  "reel_media_id": null,
+  "published": "2026-11-27T17:55:33Z",
+  "media_id": "18104892875421440",
+  "reel_media_id": "18102014294412586",
   "sources": [
    "https://www.skysports.com/football/news/13616716/celta-vigo-1-2-bournemouth-rayan-gets-winner-as-cherries-become-first-english-side-ever-to-win-first-five-games-in-major-european-competition",
    "https://www.beinsports.com/en-us/soccer/uefa-europa-league/articles/celta-vigo-1-2-bournemouth-rayan-secures-10th-straight-win-for-roses-men-2026-11-26",
    "https://abcnews.com/Sports/wireStory/bournemouth-tops-europa-league-after-beating-celta-vigo-138472338",
    "https://www.uefa.com/uefaeuropaleague/news/02ab-222a8b7281ee-613f6f283146-1000--europa-league-matchday-5-highlights-and-round-up-bournemou/",
    "https://112.ua/en/liga-evropi-uefa-202627-5-j-tur-benfika-prograla-viktorii-plzen-04-olimpiakos-postupivsa-milanu-200833"
-  ]
+  ],
+  "commit": "2dc8f12efcc0fec6d21741f431c6ce69cfd8a965"
  }
 ]
