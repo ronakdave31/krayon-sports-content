@@ -1,0 +1,90 @@
+{
+ "slug": "2026-11-27-pm-bournemouth-5-from-5",
+ "tag": "FOOTBALL",
+ "sport": "football",
+ "series": "71 / THE BREAKDOWN",
+ "thumb": {
+  "title": "First season in Europe. 5 wins from 5.",
+  "sub": "Celta 1-2 Bournemouth with 10 men",
+  "ghost": "5/5"
+ },
+ "slides": [
+  {
+   "type": "hero",
+   "kicker": "EUROPA LEAGUE · VIGO · THURSDAY",
+   "grey": "First season in Europe.",
+   "white": "Five games. Five wins.",
+   "sub": "Bournemouth beat Celta 2-1 in Spain, with 10 men for most of the game.",
+   "facts": [
+    [
+     "15",
+     "points, top of the table"
+    ],
+    [
+     "10",
+     "straight wins, all competitions"
+    ]
+   ]
+  },
+  {
+   "type": "stat",
+   "kicker": "THE HISTORY BIT",
+   "big": "5/5",
+   "body": "The first English club to win its first five games in major European competition.",
+   "note": "Per Sky Sports and beIN Sports."
+  },
+  {
+   "type": "text",
+   "kicker": "HOW THEY WON IN VIGO",
+   "title": "Down to 10. Then the bench.",
+   "bullets": [
+    "19': Iago Aspas curls Celta ahead",
+    "Inside 25': Diakite sent off after a VAR review",
+    "Early 2nd half: Alvaro Rodriguez heads in Adli's cross",
+    "78': sub Rayan scores from Tavernier's pass"
+   ]
+  },
+  {
+   "type": "bars",
+   "kicker": "THE STAT THAT DOESN'T FIT",
+   "title": "Expected goals (xG)",
+   "rows": [
+    [
+     "Bournemouth",
+     "10 shots · won 2-1",
+     0.63,
+     "0.63"
+    ],
+    [
+     "Celta",
+     "20 shots · lost",
+     1.83,
+     "1.83"
+    ]
+   ],
+   "highlight_first": true,
+   "note": "Out-created. Still won. Data: beIN Sports"
+  },
+  {
+   "type": "text",
+   "kicker": "WHAT'S NEXT",
+   "title": "Can the run reach 11?",
+   "bullets": [
+    "Sunday: Fulham away at Craven Cottage",
+    "A win there: six Premier League wins in a row, a club first",
+    "Rayan now has 4 Europa League goals this season",
+    "Juventus sit second, 2 points back"
+   ],
+   "question": "Bournemouth: real contenders or a hot streak?"
+  }
+ ],
+ "concept": "A perfect record is the story, so the design treats the carousel like a scorecard that refuses to break. The hero puts the context in grey (first season in Europe) and the punchline in white: five games, five wins. Slide 2 is one giant 5/5 for the history line. Slide 3 is a match log with minute stamps that shows the twist: a red card inside 25 minutes, then two subs build the winner. Slide 4 is the stat that should have sunk them, an xG bar chart where Celta's bar is three times longer, so 'out-created but still won' reads before any number does. The last slide looks ahead to Sunday and the club-record chance, then hands fans the debate. Football green, type and bars only: no player photos, no club crests.",
+ "caption": "First season in Europe. Five games. Five wins.\n\nBournemouth won 2-1 at Celta Vigo in the Europa League on Thursday night. Iago Aspas put Celta ahead on 19 minutes and Bafode Diakite was sent off soon after following a VAR review.\n\nTen men. Away in Spain. They still turned it round. Alvaro Rodriguez headed in Amine Adli's cross early in the second half. Then substitute Rayan finished Marcus Tavernier's pass on 78 minutes for his fourth Europa League goal this season.\n\nSky Sports and beIN Sports say Bournemouth are the first English club to win their first five games in major European competition. It is also 10 straight wins in all competitions. They lead the league phase on 15 points, two clear of Juventus.\n\nThe odd part: Celta had 1.83 xG from 20 shots. Bournemouth had 0.63 from 10.\n\nFulham away on Sunday is next. A win would be six Premier League wins in a row for the first time in the club's history.\n\nReal contenders or a hot streak? Tell us below.\n\nMatch details via Sky Sports, beIN Sports, AP and UEFA.\n\n#KrayonSports #Bournemouth #EuropaLeague #AFCB #PremierLeague",
+ "sources": [
+  "https://www.skysports.com/football/news/13616716/celta-vigo-1-2-bournemouth-rayan-gets-winner-as-cherries-become-first-english-side-ever-to-win-first-five-games-in-major-european-competition",
+  "https://www.beinsports.com/en-us/soccer/uefa-europa-league/articles/celta-vigo-1-2-bournemouth-rayan-secures-10th-straight-win-for-roses-men-2026-11-26",
+  "https://abcnews.com/Sports/wireStory/bournemouth-tops-europa-league-after-beating-celta-vigo-138472338",
+  "https://www.uefa.com/uefaeuropaleague/news/02ab-222a8b7281ee-613f6f283146-1000--europa-league-matchday-5-highlights-and-round-up-bournemou/",
+  "https://112.ua/en/liga-evropi-uefa-202627-5-j-tur-benfika-prograla-viktorii-plzen-04-olimpiakos-postupivsa-milanu-200833"
+ ]
+}
