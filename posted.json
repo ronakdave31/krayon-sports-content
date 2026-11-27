@@ -1308,16 +1308,17 @@
     "sport": "cricket",
     "headline": "From 110 for 4 to 246 for 5 at stumps.",
     "format": "carousel",
-    "status": "pending",
+    "status": "published",
     "created": "2026-11-27T12:16:44+00:00",
-    "published": null,
-    "media_id": null,
-    "reel_media_id": null,
+    "published": "2026-11-27T12:40:42Z",
+    "media_id": "18134854393761181",
+    "reel_media_id": "18437628373150380",
     "sources": [
       "https://openthemagazine.com/sports/ind-vs-nz-2nd-test-three-wickets-fall-at-110-before-blundell-and-phillips-lift-new-zealand-to-2465",
       "https://english.dainikjagranmpcg.com/sports/ind-vs-nz-2nd-test-new-zealand-2465-siraj-left/article-47034",
       "https://telanganatoday.com/tom-blundells-unbeaten-fifty-helps-new-zealand-recover-to-246-5-against-india",
       "https://ddnews.gov.in/en/nz-vs-ind-2nd-test-akash-deeps-two-wicket-spell-brings-india-back-into-game/"
-    ]
+    ],
+    "commit": "675d63bade3680090ea1fda4c6f3796e4d3a6d14"
   }
 ]
