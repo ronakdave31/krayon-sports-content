@@ -1,0 +1,99 @@
+{
+  "slug": "2026-11-27-am-110-for-4",
+  "tag": "CRICKET",
+  "sport": "cricket",
+  "series": "68 / THE BREAKDOWN",
+  "slides": [
+    {
+      "type": "hero",
+      "kicker": "NZ v INDIA · 2ND TEST · DAY 1",
+      "grey": "110 for 1. Cruising.",
+      "white": "Then 110 for 4.",
+      "sub": "Three New Zealand wickets for zero runs in the series decider.",
+      "facts": [
+        [
+          "3",
+          "wickets for 0 runs"
+        ],
+        [
+          "77",
+          "NZ's opening stand"
+        ]
+      ]
+    },
+    {
+      "type": "stat",
+      "kicker": "THE COLLAPSE",
+      "big": "0",
+      "body": "Runs New Zealand added while losing Latham, Nicholls and Ravindra in the second session.",
+      "note": "Latham made 59. Ravindra went for a nine-ball duck."
+    },
+    {
+      "type": "bars",
+      "kicker": "HOW THEY FELL",
+      "title": "NZ's score at each wicket, and who took it",
+      "rows": [
+        [
+          "Conway",
+          "31 · lbw, Brar",
+          77,
+          "77/1"
+        ],
+        [
+          "Latham",
+          "59 · Akash Deep",
+          110,
+          "110/2"
+        ],
+        [
+          "Nicholls",
+          "16 · Kamboj",
+          110,
+          "110/3"
+        ],
+        [
+          "Ravindra",
+          "0 · Akash Deep",
+          110,
+          "110/4"
+        ]
+      ],
+      "note": "Three wickets. Same score."
+    },
+    {
+      "type": "text",
+      "kicker": "WHY IT WORKED",
+      "title": "Gill bowled first on a green pitch",
+      "bullets": [
+        "India won the toss and chose to bowl",
+        "Debutant Gurnoor Brar struck with the last ball before lunch",
+        "Akash Deep took two in one spell, both caught by Pant"
+      ]
+    },
+    {
+      "type": "text",
+      "kicker": "WHAT'S AT STAKE",
+      "title": "Wellington was a draw. This one decides it.",
+      "bullets": [
+        "Brar, India's 321st Test player, replaced Prasidh Krishna",
+        "Siraj and Jadeja left out",
+        "New Zealand unchanged from Wellington"
+      ],
+      "question": "Did Gill get the toss call right?"
+    }
+  ],
+  "thumb": {
+    "title": "110 for 1. Then 110 for 4.",
+    "sub": "Three wickets for zero runs",
+    "ghost": "3 FOR 0"
+  },
+  "concept": "A scoreboard that stops moving. The whole story is one number frozen while three wickets fall, so the design leans on repetition: the hero puts '110 for 1. Cruising.' in muted grey and 'Then 110 for 4.' in white, the score unchanged but the wickets column jumping. Slide 2 is a single giant 0, the runs New Zealand added during the collapse. Slide 3 is a fall-of-wickets bar chart where three bars end at exactly the same length, so you see the stall before you read it. Slides 4 and 5 explain why (Gill bowling first on a green pitch, the debutant striking before lunch) and what's at stake in a series decider. Cricket blue, type and charts only: no player photos, no logos.",
+  "caption": "110 for 1. Then 110 for 4.\n\nNew Zealand were cruising on day 1 of the Christchurch Test. Latham had 59 and the openers had put on 77. Then India took three wickets without conceding a run.\n\nAkash Deep had Latham caught behind by Pant. Kamboj had Nicholls caught at long leg. Akash Deep came back to remove Ravindra for a nine-ball duck, again caught by Pant.\n\nShubman Gill won the toss and bowled first on a green pitch. Debutant Gurnoor Brar, India's 321st Test player, had already struck with the last ball before lunch when Conway was lbw for 31.\n\nWellington was a draw, so this Test decides the series. The match is still going on as you read this.\n\nDid Gill get the toss call right? Tell us below.\n\nScores via ANI, NewsX and Crictoday.\n\n#KrayonSports #NZvIND #TestCricket #TeamIndia #Christchurch",
+  "sources": [
+    "https://www.tribuneindia.com/news/akash-deep/nz-vs-ind-2nd-test-akash-deeps-two-wicket-spell-brings-india-back-into-game-day-1-tea",
+    "https://www.newsx.com/sports/india-vs-new-zealand-2nd-test-day-1-live-update-new-zealand-reach-1314-at-tea-after-india-strike-four-times-295365/",
+    "https://crictoday.com/news/akash-deep-anshul-kamboj-bring-india-back-into-contest-with-three-quick-wickets-in-christchurch-test-12844589",
+    "https://newsable.asianetnews.com/sports/kamboj-leads-india-comeback-against-new-zealand-in-christchurch-test-articleshow-i5nmw6k",
+    "https://www.outlookindia.com/sports/cricket/india-vs-new-zealand-2nd-test-day-1-live-score-ind-vs-nz-scorecard-latest-updates-highlights"
+  ]
+}
