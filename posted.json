@@ -1340,5 +1340,24 @@
    "https://112.ua/en/liga-evropi-uefa-202627-5-j-tur-benfika-prograla-viktorii-plzen-04-olimpiakos-postupivsa-milanu-200833"
   ],
   "commit": "2dc8f12efcc0fec6d21741f431c6ce69cfd8a965"
+ },
+ {
+  "slug": "2026-11-28-am-akash-deep-five",
+  "series": 72,
+  "sport": "cricket",
+  "headline": "Bumrah: 26 overs, no wicket. Akash Deep: five.",
+  "format": "carousel",
+  "status": "pending",
+  "created": "2026-11-28T05:33:32+00:00",
+  "published": null,
+  "media_id": null,
+  "reel_media_id": null,
+  "sources": [
+   "https://www.newsx.com/sports/india-vs-new-zealand-2nd-test-day-2-live-update-india-lose-three-wickets-trail-by-296-runs-in-3rd-session-295618/",
+   "https://www.vavel.com/en/cricket/2026/11/27/1281027-new-zealand-vs-india-2nd-test-day-2-live-black-caps-cricket-scorecard-wickets-and-updates.html",
+   "https://newsable.asianetnews.com/sports/kyle-jamieson-rattles-indian-top-order-in-christchurch-test-clash-articleshow-nvcev5x",
+   "https://www.nationpress.com/sports/jamieson-double-rocks-india-to-593-at-tea",
+   "https://www.deccanchronicle.com/sports/india-vs-new-zealand-2nd-test-day-2-deep-takes-five-as-nz-all-out-for-356-2008719"
+  ]
  }
 ]

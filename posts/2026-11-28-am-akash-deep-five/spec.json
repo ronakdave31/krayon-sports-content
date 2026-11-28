@@ -1,0 +1,103 @@
+{
+  "slug": "2026-11-28-am-akash-deep-five",
+  "tag": "CRICKET",
+  "sport": "cricket",
+  "series": "72 / THE BREAKDOWN",
+  "slides": [
+    {
+      "type": "hero",
+      "kicker": "NZ v INDIA · 2ND TEST · DAY 2",
+      "grey": "Bumrah: 26 overs, no wicket.",
+      "white": "Akash Deep: five.",
+      "sub": "New Zealand were all out for 356. India's breakthroughs came from the other end.",
+      "facts": [
+        [
+          "5/99",
+          "Akash Deep, 31.3 overs"
+        ],
+        [
+          "0/49",
+          "Jasprit Bumrah, 26 overs"
+        ]
+      ]
+    },
+    {
+      "type": "bars",
+      "kicker": "WHO TOOK THE 10 WICKETS",
+      "title": "India's bowlers in New Zealand's 356",
+      "rows": [
+        [
+          "Akash Deep",
+          "31.3 overs · 99 runs",
+          5,
+          "5"
+        ],
+        [
+          "G. Brar",
+          "debut · 28 overs · 78 runs",
+          2,
+          "2"
+        ],
+        [
+          "A. Kamboj",
+          "22 overs · 79 runs",
+          2,
+          "2"
+        ],
+        [
+          "W. Sundar",
+          "9 overs · 36 runs",
+          1,
+          "1"
+        ],
+        [
+          "J. Bumrah",
+          "26 overs · 49 runs",
+          0.08,
+          "0"
+        ]
+      ],
+      "highlight_first": true,
+      "note": "Half of New Zealand's wickets went to one bowler."
+    },
+    {
+      "type": "stat",
+      "kicker": "THE WALL",
+      "big": "89",
+      "body": "Tom Blundell's score from 211 balls, ended by a top edge off debutant Gurnoor Brar.",
+      "note": "Caught by Akash Deep at fine leg · NZ 346/9"
+    },
+    {
+      "type": "stat",
+      "kicker": "THE REPLY",
+      "big": "59/3",
+      "body": "India at tea on day 2. Kyle Jamieson took two of the three wickets.",
+      "note": "Jaiswal 0 · Padikkal 21 · Gill 17"
+    },
+    {
+      "type": "text",
+      "kicker": "WHERE IT STANDS",
+      "title": "297 behind at tea",
+      "bullets": [
+        "NZ added 110 on day 2 for their last 5 wickets",
+        "Jaiswal fell for a duck in the first over",
+        "Wellington was a draw, so this Test decides the series"
+      ],
+      "question": "Bumrah wicketless in 26 overs: bad luck or a worry?"
+    }
+  ],
+  "thumb": {
+    "title": "Bumrah 0. Akash Deep 5.",
+    "sub": "How India bowled out New Zealand for 356",
+    "ghost": "5/99"
+  },
+  "concept": "One spell, two ends. The cover sets India's two lead seamers side by side: Bumrah's 26 wicketless overs sit in muted grey and Akash Deep's five lands in white underneath, so the contrast reads before the numbers do. Slide 2 is a wicket bar chart where one glowing bar (Akash Deep's 5) towers over the rest and Bumrah's row is a sliver, which is the whole story of New Zealand's 356 in one picture. Slides 3 and 4 are single giant numbers: Blundell's 89, the innings that made Akash Deep's work necessary, then India's 59 for 3 at tea, the swing back. The last slide sets up the deficit and the question. Cricket blue, type and charts only: no player photos, no logos.",
+  "caption": "Bumrah: 26 overs, no wicket. Akash Deep: five.\n\nNew Zealand resumed day 2 in Christchurch on 246 for 5 and were all out for 356. Akash Deep finished with 5 for 99 from 31.3 overs, his fifth wicket coming when Matt Henry edged to Rishabh Pant.\n\nTom Blundell made 89 from 211 balls before top-edging debutant Gurnoor Brar to Akash Deep at fine leg. Brar and Anshul Kamboj took two each. Jasprit Bumrah bowled 26 overs for 49 runs without a wicket.\n\nThen New Zealand hit back. Yashasvi Jaiswal was bowled by Henry for a duck in the first over and Kyle Jamieson removed Devdutt Padikkal and Shubman Gill. India went to tea on 59 for 3, still 297 behind.\n\nWellington was a draw, so this Test decides the series.\n\nBumrah wicketless in 26 overs: bad luck or a worry? Tell us below.\n\nFigures via NewsX, VAVEL and ANI.\n\n#KrayonSports #NZvIND #TestCricket #TeamIndia #AkashDeep",
+  "sources": [
+    "https://www.newsx.com/sports/india-vs-new-zealand-2nd-test-day-2-live-update-india-lose-three-wickets-trail-by-296-runs-in-3rd-session-295618/",
+    "https://www.vavel.com/en/cricket/2026/11/27/1281027-new-zealand-vs-india-2nd-test-day-2-live-black-caps-cricket-scorecard-wickets-and-updates.html",
+    "https://newsable.asianetnews.com/sports/kyle-jamieson-rattles-indian-top-order-in-christchurch-test-clash-articleshow-nvcev5x",
+    "https://www.nationpress.com/sports/jamieson-double-rocks-india-to-593-at-tea",
+    "https://www.deccanchronicle.com/sports/india-vs-new-zealand-2nd-test-day-2-deep-takes-five-as-nz-all-out-for-356-2008719"
+  ]
+}
