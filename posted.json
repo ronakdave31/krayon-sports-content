@@ -1413,14 +1413,15 @@
   "sport": "indian",
   "headline": "0-1 down at half-time. Three goals in six minutes.",
   "format": "carousel",
-  "status": "pending",
+  "status": "published",
   "created": "2026-11-28T17:13:15+00:00",
-  "published": null,
-  "media_id": null,
+  "published": "2026-11-28T19:13:24Z",
+  "media_id": "18148085866588253",
   "sources": [
    "https://kiosknews.app/article/a08d45abde175bd5",
    "https://www.india.com/sports/hockey/india-beat-china-3-1-to-win-fourth-womens-asian-champions-trophy-title-in-bhopal-8548882/",
    "https://www.thedailyjagran.com/sports/news/womens-asian-champions-trophy-2026-india-beat-china-31-to-create-history-with-record-fourth-title-10338011"
-  ]
+  ],
+  "reel_media_id": "18084445661734780"
  }
 ]
