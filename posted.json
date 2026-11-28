@@ -1390,9 +1390,9 @@
   "sport": "indian",
   "headline": "Lost game one 11-21. Then gave up just 23 more.",
   "format": "carousel",
-  "status": "pending",
+  "status": "published",
   "created": "2026-11-28T12:22:42+00:00",
-  "published": null,
+  "published": "2026-11-28T12:47:52Z",
   "media_id": null,
   "sources": [
    "https://www.maalaimalar.com/sports/tanvi-sharma-enter-final-round-of-syed-modi-international",
@@ -1402,6 +1402,9 @@
    "https://www.sentinelassam.com/sports-news/unnati-hooda-tanvi-sharma-set-up-all-indian-semifinal-at-syed-modi-international",
    "https://en.wikipedia.org/wiki/2026_Syed_Modi_International",
    "https://en.wikipedia.org/wiki/Tanvi_Sharma"
-  ]
+  ],
+  "reel_media_id": "18102319946395994",
+  "commit": "c548623c5fdccf1669db40facac0b0ba52aec0dd",
+  "carousel_status": "unconfirmed: 'Application request limit reached' at 2026-11-28T12:43Z; Windsor data cache stale, not retried"
  }
 ]
