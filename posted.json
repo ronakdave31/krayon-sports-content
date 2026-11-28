@@ -1383,5 +1383,25 @@
   ],
   "reel_media_id": "18102717374400206",
   "commit": "011e99e427c5b3441f62fc809ce38af1f8a7514a"
+ },
+ {
+  "slug": "2026-11-28-pm-tanvi-final",
+  "series": 74,
+  "sport": "indian",
+  "headline": "Lost game one 11-21. Then gave up just 23 more.",
+  "format": "carousel",
+  "status": "pending",
+  "created": "2026-11-28T12:22:42+00:00",
+  "published": null,
+  "media_id": null,
+  "sources": [
+   "https://www.maalaimalar.com/sports/tanvi-sharma-enter-final-round-of-syed-modi-international",
+   "https://www.amarujala.com/video/lucknow/video-video-sayatha-matha-idaya-itaranashanal-bdamatana-capayanashapa-2026-ka-fainal-ma-pahaca-tanava-sharama-2026-11-28",
+   "https://revsportz.in/tanvi-and-unnati-lead-indian-charge-as-syed-modi-quarter-finals-deliver-mixed-results/",
+   "https://www.indiasportshub.com/articles/syed-modi-international-2026-tanvi-sharma-and-unnati-hooda-set-up-all-indian-semifinal",
+   "https://www.sentinelassam.com/sports-news/unnati-hooda-tanvi-sharma-set-up-all-indian-semifinal-at-syed-modi-international",
+   "https://en.wikipedia.org/wiki/2026_Syed_Modi_International",
+   "https://en.wikipedia.org/wiki/Tanvi_Sharma"
+  ]
  }
 ]

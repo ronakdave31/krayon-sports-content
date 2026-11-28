@@ -1,0 +1,90 @@
+{
+ "slug": "2026-11-28-pm-tanvi-final",
+ "tag": "BADMINTON",
+ "sport": "indian",
+ "series": "74 / THE COMEBACK",
+ "thumb": {
+  "title": "Lost game one 11-21. Then this.",
+  "sub": "Tanvi Sharma, 17, into the Syed Modi final",
+  "ghost": "23"
+ },
+ "slides": [
+  {
+   "type": "hero",
+   "kicker": "SYED MODI INTERNATIONAL · SEMI-FINAL",
+   "grey": "Lost game one 11-21.",
+   "white": "Then gave up just 23 more.",
+   "sub": "Tanvi Sharma, 17, beats Unnati Hooda to reach the final.",
+   "facts": [
+    [
+     "21-10",
+     "game two"
+    ],
+    [
+     "21-13",
+     "game three"
+    ]
+   ]
+  },
+  {
+   "type": "bars",
+   "kicker": "THE SWING",
+   "title": "Points Tanvi won, game by game",
+   "rows": [
+    [
+     "Game 1",
+     "lost 11-21",
+     11,
+     "11"
+    ],
+    [
+     "Game 2",
+     "won 21-10",
+     21,
+     "21"
+    ],
+    [
+     "Game 3",
+     "won 21-13",
+     21,
+     "21"
+    ]
+   ],
+   "note": "Scores per Maalaimalar.",
+   "highlight_first": false
+  },
+  {
+   "type": "text",
+   "kicker": "HOW SHE GOT HERE",
+   "title": "One year, one step further.",
+   "bullets": [
+    "2025: out in the Syed Modi semi-finals",
+    "Aug 2026: wins the Taipei Open Super 300",
+    "Friday: beats Indonesia's Pratiwi in three games",
+    "Today: a first Syed Modi final"
+   ]
+  },
+  {
+   "type": "text",
+   "kicker": "SUNDAY · THE FINAL",
+   "title": "One win from a home Super 300 title.",
+   "bullets": [
+    "Opponent: Thailand's Supanida Katethong",
+    "Tanvi is the second seed in Lucknow",
+    "Winner's prize: US$18,750"
+   ],
+   "question": "Can a 17-year-old win it at home?"
+  }
+ ],
+ "concept": "A comeback is a story told in a scoreline, so the carousel is built around the three game scores. The hero puts the bad start in grey (lost game one 11-21) and the turnaround in white: across the next two games Unnati Hooda scored only 23 points. Slide 2 turns the match into three bars, a short one and then two full ones, so the swing is visible before you read a number. Slide 3 is a one-year timeline, from a Syed Modi semi-final exit in 2025 to the Taipei Open title and now a first final in Lucknow. The last slide sets up Sunday's final against Thailand's Supanida Katethong and hands the prediction to fans. Indian-sports orange, type and bars only: no player photos, no federation or tournament logos.",
+ "caption": "Lost game one 11-21. Then she switched it on.\n\nTanvi Sharma, 17, came back to beat fellow Indian Unnati Hooda 11-21, 21-10, 21-13 in the Syed Modi International semi-finals in Lucknow today. After losing the opener, she let Unnati score only 23 points in the next two games.\n\nA year ago Tanvi went out in the semi-finals of this same event. In August she won the Taipei Open Super 300. Now she is into her first Syed Modi final.\n\nSunday's final is against Thailand's Supanida Katethong. Tanvi is the second seed and the winner takes home US$18,750.\n\nCan a 17-year-old win a Super 300 title at home? Tell us below.\n\nMatch scores via Maalaimalar. Result also reported by Amar Ujala.\n\n#KrayonSports #Badminton #TanviSharma #SyedModiInternational #IndianSports",
+ "sources": [
+  "https://www.maalaimalar.com/sports/tanvi-sharma-enter-final-round-of-syed-modi-international",
+  "https://www.amarujala.com/video/lucknow/video-video-sayatha-matha-idaya-itaranashanal-bdamatana-capayanashapa-2026-ka-fainal-ma-pahaca-tanava-sharama-2026-11-28",
+  "https://revsportz.in/tanvi-and-unnati-lead-indian-charge-as-syed-modi-quarter-finals-deliver-mixed-results/",
+  "https://www.indiasportshub.com/articles/syed-modi-international-2026-tanvi-sharma-and-unnati-hooda-set-up-all-indian-semifinal",
+  "https://www.sentinelassam.com/sports-news/unnati-hooda-tanvi-sharma-set-up-all-indian-semifinal-at-syed-modi-international",
+  "https://en.wikipedia.org/wiki/2026_Syed_Modi_International",
+  "https://en.wikipedia.org/wiki/Tanvi_Sharma"
+ ]
+}
