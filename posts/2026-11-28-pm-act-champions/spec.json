@@ -1,0 +1,29 @@
+{
+ "slug": "2026-11-28-pm-act-champions",
+ "tag": "HOCKEY",
+ "sport": "indian",
+ "series": "75 / THE RESULT",
+ "thumb": {"title": "0-1 down. Then three goals in six minutes.", "sub": "India beat China 3-1 for a record fourth Asian Champions Trophy", "ghost": "3-1"},
+ "slides": [
+  {"type": "hero", "kicker": "WOMEN'S ASIAN CHAMPIONS TROPHY · FINAL",
+   "grey": "0-1 down at half-time.", "white": "Three goals in six minutes.",
+   "sub": "India beat China 3-1 in Bhopal to win a record fourth title.",
+   "facts": [["3-1", "final score"], ["4", "titles, most ever"]]},
+  {"type": "text", "kicker": "HOW THE FINAL TURNED", "title": "Six minutes in the third quarter.",
+   "bullets": ["25' Chen Yujun scores. China lead 1-0", "38' Deepika, penalty corner. 1-1", "42' Ishika finishes in the circle. 2-1", "43' Deepika, penalty corner again. 3-1"],
+   "footnote": "Goal times per Sportstar and India.com."},
+  {"type": "stat", "kicker": "THE DIFFERENCE", "big": "12",
+   "body": "goals for Deepika at this tournament, the most of anyone. Two came in the final, both from penalty corners.",
+   "note": "Tally per Sportstar."},
+  {"type": "text", "kicker": "WHAT IT MEANS", "title": "A hat-trick of titles.",
+   "bullets": ["Champions in 2016, 2023, 2024 and now 2026", "First team to win this trophy four times", "Beat China twice this week: 6-2, then 3-1", "Same year as Asian Games gold and world No. 4"],
+   "question": "Who was your player of the final?"}
+ ],
+ "concept": "A final that flipped in one burst, so the whole carousel is built around time. The hero sets the bad half in grey (0-1 down at half-time) and the burst in white (three goals in six minutes). Slide 2 is a minute-by-minute scoreline, 25' to 43', so you can see how tightly the goals came. Slide 3 makes Deepika's 12 the big number, because her two penalty corners decided it. The last slide zooms out: a third title in a row, a record fourth overall and a second win over China in five days, then hands the vote to fans. Indian-sports orange, type only: no player photos, no federation or tournament logos.",
+ "caption": "0-1 down at half-time. Champions six minutes later.\n\nIndia beat China 3-1 in the Women's Asian Champions Trophy final in Bhopal tonight. Chen Yujun put China ahead in the 25th minute. Then India scored three times in the third quarter: Deepika from a penalty corner (38'), Ishika (42') and Deepika from another penalty corner (43').\n\nThat is India's third title in a row (2023, 2024, 2026) and a record fourth overall. No team has won this trophy more.\n\nDeepika ends the tournament as top scorer with 12 goals. India also beat China 6-2 in the pool stage earlier this week.\n\nWho was your player of the final? Tell us below.\n\nGoal times reported by Sportstar and India.com.\n\n#KrayonSports #Hockey #IndianHockey #AsianChampionsTrophy #IndianSports",
+ "sources": [
+  "https://kiosknews.app/article/a08d45abde175bd5",
+  "https://www.india.com/sports/hockey/india-beat-china-3-1-to-win-fourth-womens-asian-champions-trophy-title-in-bhopal-8548882/",
+  "https://www.thedailyjagran.com/sports/news/womens-asian-champions-trophy-2026-india-beat-china-31-to-create-history-with-record-fourth-title-10338011"
+ ]
+}

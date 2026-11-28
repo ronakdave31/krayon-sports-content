@@ -1406,5 +1406,21 @@
   "reel_media_id": "18102319946395994",
   "commit": "c548623c5fdccf1669db40facac0b0ba52aec0dd",
   "carousel_status": "published: Ronak confirmed it is on the grid (Instagram replied 'Application request limit reached' at 2026-11-28T12:43Z but the post went through); media id not available from Windsor yet"
+ },
+ {
+  "slug": "2026-11-28-pm-act-champions",
+  "series": 75,
+  "sport": "indian",
+  "headline": "0-1 down at half-time. Three goals in six minutes.",
+  "format": "carousel",
+  "status": "pending",
+  "created": "2026-11-28T17:13:15+00:00",
+  "published": null,
+  "media_id": null,
+  "sources": [
+   "https://kiosknews.app/article/a08d45abde175bd5",
+   "https://www.india.com/sports/hockey/india-beat-china-3-1-to-win-fourth-womens-asian-champions-trophy-title-in-bhopal-8548882/",
+   "https://www.thedailyjagran.com/sports/news/womens-asian-champions-trophy-2026-india-beat-china-31-to-create-history-with-record-fourth-title-10338011"
+  ]
  }
 ]
