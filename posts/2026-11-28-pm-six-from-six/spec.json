@@ -1,0 +1,103 @@
+{
+ "slug": "2026-11-28-pm-six-from-six",
+ "tag": "HOCKEY",
+ "sport": "indian",
+ "series": "73 / THE PREVIEW",
+ "thumb": {
+  "title": "India vs China. Hockey final tonight.",
+  "sub": "Six wins from six in Bhopal",
+  "ghost": "6/6"
+ },
+ "slides": [
+  {
+   "type": "hero",
+   "kicker": "ASIAN CHAMPIONS TROPHY · FINAL · 7 PM",
+   "grey": "Six games. Six wins.",
+   "white": "One more tonight. Against China.",
+   "sub": "India's women chase a third straight Asian Champions Trophy title at home.",
+   "facts": [
+    [
+     "6-2",
+     "the group-stage score vs China"
+    ],
+    [
+     "1-0",
+     "China's semi-final win over Japan"
+    ]
+   ]
+  },
+  {
+   "type": "stat",
+   "kicker": "THE WEAPON",
+   "big": "9/10",
+   "body": "Deepika's goals at this tournament that came from penalty corners.",
+   "note": "She leads the scoring with 10. Per Dainik Jagran."
+  },
+  {
+   "type": "text",
+   "kicker": "THE LAST TIME THEY MET · NOV 24",
+   "title": "3-0 inside 14 minutes.",
+   "bullets": [
+    "1': Deepika reverse-hits one in from open play",
+    "6' and 14': two Deepika penalty corners",
+    "15': Feng Qingmiao pulls one back for China",
+    "6-2 at full time: India's biggest win over China here"
+   ]
+  },
+  {
+   "type": "bars",
+   "kicker": "WHO SCORES INDIA'S GOALS",
+   "title": "Top scorers in Bhopal",
+   "rows": [
+    [
+     "Deepika",
+     "9 from penalty corners",
+     10,
+     "10"
+    ],
+    [
+     "Mumtaz Khan",
+     "1 in the semi-final",
+     4,
+     "4"
+    ],
+    [
+     "Lalremsiami",
+     "1 vs China",
+     3,
+     "3"
+    ],
+    [
+     "S. Toppo",
+     "1 in the semi-final",
+     3,
+     "3"
+    ]
+   ],
+   "highlight_first": true,
+   "note": "Goal tallies per Dainik Jagran."
+  },
+  {
+   "type": "text",
+   "kicker": "WHY IT ISN'T A FORMALITY",
+   "title": "China only needed one.",
+   "bullets": [
+    "They knocked out Japan with a 60th-minute goal",
+    "China won Olympic silver at Paris 2024",
+    "Former Olympian Sameer Dad rates India 60:40",
+    "Win tonight: a third title in a row"
+   ],
+   "question": "Third straight title tonight? Give us your score."
+  }
+ ],
+ "concept": "A perfect run meets a final, so the carousel reads like a pre-match dossier. The hero puts the record in grey (six games, six wins) and the stakes in white: one more tonight, against China. Slide 2 is one giant 9/10, because the real story of India's run is the penalty corner and Deepika converting it. Slide 3 replays the group game against China with minute stamps, showing how fast India were 3-0 up. Slide 4 is a scorer bar chart where Deepika's bar dwarfs everyone else's, which is both India's strength and the thing China will plan for. The last slide is the counterweight: China won their semi 1-0 and are Olympic silver medallists, so it hands fans the prediction. Indian-sports orange, type and bars only: no player photos, no federation logos.",
+ "caption": "Six games. Six wins. One more tonight.\n\nIndia's women play China in the Women's Asian Champions Trophy final in Bhopal at 7 pm IST. A win would be a third straight title.\n\nThe last time these two met, on November 24, India were 3-0 up inside 14 minutes. Deepika scored all three: one reverse hit from open play and two penalty corners. It finished 6-2, India's biggest win over China at this event.\n\nThat is the pattern of the whole run. Dainik Jagran reports Deepika leads the scoring with 10 goals and nine of them came from penalty corners.\n\nBut China only needed one goal to reach this final. They beat Japan 1-0 with a 60th-minute winner from Zhang Heyang. This is also the side that won Olympic silver in Paris. Former Olympian Sameer Dad rates India's chances at 60:40.\n\nThird straight title tonight? Give us your score below.\n\nMatch details via Khel Now, India.com, Dainik Jagran and Matrix News.\n\n#KrayonSports #IndianHockey #WomensACT #Hockey #IndianSports",
+ "sources": [
+  "https://english.dainikjagranmpcg.com/states/madhya-pradesh/-india-vs-china-final-women%E2%80%99s-asian-champions-trophy-2026/article-47185",
+  "https://web.matrixnews.in/news/k23eivimtxfjy/india-meets-china-in-womens-asian-champions-trophy-final",
+  "https://www.indiasportshub.com/scores/6b09a0a65da0a81c8ae324d9",
+  "https://khelnow.com/hockey/india-china-report-womens-hockey-asian-champions-trophy-202611",
+  "https://www.india.com/sports/hockey/deepikas-hat-trick-powers-india-beat-china-6-2-in-womens-asian-champions-trophy-2026-8547818/",
+  "https://www.bozokmedia.com/en/sports/2026/11/27/women-s-asian-champions-trophy-2026-india-dominates-malaysia-6-2-to-reach-final-against-china-439071/"
+ ]
+}
