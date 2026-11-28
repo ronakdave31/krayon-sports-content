@@ -1367,10 +1367,10 @@
   "sport": "indian",
   "headline": "Six games. Six wins. One more tonight. Against China.",
   "format": "carousel",
-  "status": "pending",
+  "status": "published",
   "created": "2026-11-28T08:20:42+00:00",
-  "published": null,
-  "media_id": null,
+  "published": "2026-11-28T08:44:15Z",
+  "media_id": "18127607596924651",
   "sources": [
    "https://english.dainikjagranmpcg.com/states/madhya-pradesh/-india-vs-china-final-women%E2%80%99s-asian-champions-trophy-2026/article-47185",
    "https://web.matrixnews.in/news/k23eivimtxfjy/india-meets-china-in-womens-asian-champions-trophy-final",
@@ -1378,6 +1378,8 @@
    "https://khelnow.com/hockey/india-china-report-womens-hockey-asian-champions-trophy-202611",
    "https://www.india.com/sports/hockey/deepikas-hat-trick-powers-india-beat-china-6-2-in-womens-asian-champions-trophy-2026-8547818/",
    "https://www.bozokmedia.com/en/sports/2026/11/27/women-s-asian-champions-trophy-2026-india-dominates-malaysia-6-2-to-reach-final-against-china-439071/"
-  ]
+  ],
+  "reel_media_id": "18102717374400206",
+  "commit": "011e99e427c5b3441f62fc809ce38af1f8a7514a"
  }
 ]
