@@ -1255,16 +1255,18 @@
   "sport": "business",
   "headline": "The Hockey India League is back in January. With two fewer men's teams.",
   "format": "carousel",
-  "status": "expired",
+  "status": "published",
   "created": "2026-11-26T17:14:29+00:00",
-  "published": null,
-  "media_id": null,
+  "published": "2026-11-28T08:44:51Z",
+  "media_id": "17971002897216030",
   "sources": [
    "https://revsportz.in/hero-hockey-india-league-2026-27-season-to-begin-in-the-first-week-of-january-players-auction-scheduled-for-december-7/",
    "https://www.mykhel.com/hockey/hockey-india-league-2026-27-to-begin-in-january-player-auction-scheduled-for-dec-7-460141.html",
    "https://www.india.com/sports/hockey/hockey-india-league-2026-27-auction-date-teams-salary-cap-and-full-schedule-8548172/",
    "https://en.wikipedia.org/wiki/2025%E2%80%9326_Hockey_India_League"
-  ]
+  ],
+  "reel_media_id": "18184290091433002",
+  "note": "Approved late (Nov 28) after a later run had marked it expired. Carousel call returned \"Application request limit reached\" but went through."
  },
  {
   "slug": "2026-11-27-am-110-for-4",
