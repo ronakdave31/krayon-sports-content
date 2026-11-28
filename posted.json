@@ -1347,17 +1347,18 @@
   "sport": "cricket",
   "headline": "Bumrah: 26 overs, no wicket. Akash Deep: five.",
   "format": "carousel",
-  "status": "pending",
+  "status": "published",
   "created": "2026-11-28T05:33:32+00:00",
-  "published": null,
-  "media_id": null,
-  "reel_media_id": null,
+  "published": "2026-11-28T05:59:09Z",
+  "media_id": "17958141225038248",
+  "reel_media_id": "18056711627811261",
   "sources": [
    "https://www.newsx.com/sports/india-vs-new-zealand-2nd-test-day-2-live-update-india-lose-three-wickets-trail-by-296-runs-in-3rd-session-295618/",
    "https://www.vavel.com/en/cricket/2026/11/27/1281027-new-zealand-vs-india-2nd-test-day-2-live-black-caps-cricket-scorecard-wickets-and-updates.html",
    "https://newsable.asianetnews.com/sports/kyle-jamieson-rattles-indian-top-order-in-christchurch-test-clash-articleshow-nvcev5x",
    "https://www.nationpress.com/sports/jamieson-double-rocks-india-to-593-at-tea",
    "https://www.deccanchronicle.com/sports/india-vs-new-zealand-2nd-test-day-2-deep-takes-five-as-nz-all-out-for-356-2008719"
-  ]
+  ],
+  "commit": "78f1cdb8e1ef90624797fa717d052c2e362ef557"
  }
 ]
